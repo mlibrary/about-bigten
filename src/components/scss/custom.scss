@@ -1,0 +1,427 @@
+// colors and theming
+$theme-colors: (
+  "primary": #F5F0F0,
+  "secondary": #00274C,
+  "muted": #E9EDF0
+);
+
+
+@import "../bootstrap/scss/bootstrap";
+@import url("https://use.typekit.net/hfw0vui.css");
+
+// colors
+$ebc-brand-color: #4C6781;
+$ebc-accent-color: #00274C;
+$ebc-accent-color-light: #E5E9ED;
+$ebc-headings: rgb(33, 43, 54);
+
+// typography
+@mixin muli {
+  font-family: muli, Arial, Helvetica, sans-serif;
+}
+
+.muli {
+  @include muli;
+}
+
+@mixin meta-serif {
+  font-family: ff-meta-serif-web-pro, Georgia, 'Times New Roman', Times, serif;
+}
+
+.meta-serif {
+  @include meta-serif;
+}
+
+body {
+  @include meta-serif;
+}
+
+h1 {
+  @include meta-serif;
+  font-weight: 700;
+  color:$ebc-headings;
+}
+
+.bold {
+  font-weight: 700;
+}
+
+h2,
+h3,
+h4,
+h5 {
+    @include muli;
+    font-weight: 700;
+    color:$ebc-headings;
+}
+
+h1 {
+  font-size: 1.95rem;
+}
+
+h2 {
+  margin-top: 2rem;
+  font-size: 1.6rem;
+}
+
+h3 {
+  font-size: 1.3rem;
+}
+
+h4 {
+  font-size: 1rem;
+}
+
+h3, 
+h4,
+h5 {
+  margin-top: 1rem;
+}
+
+a:focus,
+button:focus,
+.form-control:focus,
+.btn:focus {
+  outline: 0;
+  box-shadow: 0 0 0 2px #FFCB05,0 0 0 3px #212B36;
+  border-radius: 2px !important;
+}
+
+
+// links
+p, ul li, ol li {
+  font-weight: 300;
+  a {
+  text-decoration: underline;
+  color: rgb(29, 116, 145);
+  }
+  a:hover {
+    text-decoration-thickness: 2px;
+    color: rgb(29, 116, 145);
+  }
+}
+
+.link {
+    text-decoration: underline;
+    color: rgb(29, 116, 145);
+}
+
+.link:hover {
+  text-decoration-thickness: 2px;
+  color: rgb(29, 116, 145);
+}
+
+// buttons
+.btn {
+  @include muli;
+  font-weight: 600;
+}
+
+// header and navigation
+.nav,
+header {
+  @include muli;
+}
+
+header {
+  border-bottom: 1px solid rgba(0, 0, 0, 0.125);
+  input.search-query {
+    background-color: #F3F3F3;
+    border-right: none;
+  }
+  button.search-submit {
+    border-top: rgb(206, 212, 218) 1px solid;
+    border-right: rgb(206, 212, 218) 1px solid;
+    border-bottom: rgb(206, 212, 218) 1px solid;
+    border-left: none;
+    height: 100%;
+    padding: 0;
+    position: relative;
+  }
+  
+  .nav-browse {
+    display: flex;
+    justify-content: flex-end;
+    font-size: 14px;
+
+    
+    a {
+      text-transform: uppercase;
+      font-weight: 600;
+      color: #707070;
+    }
+    a:hover,
+    a:active {
+      text-decoration: underline;
+    }
+  }
+}
+
+.nav-scroller {
+  position: relative;
+  z-index: 2;
+  overflow-y: hidden;
+  border-bottom: 2px solid #4C6781;
+  
+  .nav {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-wrap: nowrap;
+    flex-wrap: nowrap;
+    overflow-x: auto;
+    text-align: center;
+    white-space: nowrap;
+    -webkit-overflow-scrolling: touch;
+  
+    a {
+      text-transform: uppercase;
+      font-weight: 600;
+    }
+    a:hover,
+    a:active {
+      text-decoration: underline;
+    }
+
+  }
+}
+
+.navbar-brand-logo {
+  padding-right: 1rem;
+}
+
+.navbar-brand h1 {
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 1.2px;
+  display: inline-block;
+  margin: 0;
+  margin-bottom: -8px;
+  vertical-align: bottom;
+  font-size: 26px;
+  @include muli;
+  color: $ebc-accent-color;
+}
+
+// cards
+
+.cards-container {
+  padding-bottom: 3rem;
+
+  .card-list {
+    justify-content: space-evenly;
+
+    a:hover {
+      text-decoration: none;
+      box-shadow: 0 2px 8px 0 rgba(0,0,0,.2);
+    }
+  }
+  
+  .card {
+    border-radius: 0;
+    padding-right: 0;
+    padding-left: 0;
+
+    picture,
+    source {
+      line-height: 0;
+    };
+    .card-body {
+      justify-content: space-around;
+      margin: 0 !important;
+      flex-wrap: nowrap;
+    }
+
+    h3 {
+      font-size: 1.25rem;
+      margin-top: 0;
+    }
+
+    .card-img {
+      border-radius: 0;
+      max-height: 300px;
+    }
+
+    .card-text {
+      font-size: .9rem;
+      color: #333;
+    }
+
+    .cover-only-img {
+      min-width: 200px;
+    }
+  }
+}
+
+// home - tagline and cta button
+.tagline-container {
+  background-color: $ebc-brand-color;
+  padding: 4rem 0;
+  border-top: 1px solid rgba(0,0,0,.125);
+
+  .row {
+    justify-content: space-between;
+  }
+
+  .tagline {
+    font-weight: bold;
+    font-size: 1.6rem;
+  }
+}
+
+// call to action buttons
+.cta-container {
+  padding-top: 1.5rem;
+  border-top: 1px solid rgba(0,0,0,.125);
+  background-color: #ffffff;
+
+  .cta-1-container, .cta-2-container, .cta-3-container {
+    margin-top: 15px;
+  }
+}
+
+// tables
+thead {
+  @include muli;
+}
+
+// impact
+
+b, strong {
+  font-weight: 700;
+}
+
+.card-img-main {
+  padding-bottom: 3rem;
+  width: 100%;
+  border-radius: calc(.25rem - 1px);
+}
+
+.summary {
+  font-size: 1.3rem;
+  @include muli;
+}
+
+blockquote {
+  @include muli;
+  margin: 0 4rem 1rem;
+}
+
+.google-data-studio-oa {
+  padding-top: 2rem;
+}
+
+// stories
+.stories {
+  padding-top: 2rem;
+}
+
+.map-container {
+  background: url(/assets/impact-usage.png) no-repeat;
+  background-size: cover;
+  height: 100%;
+  overflow: auto;
+  padding-top: 1.5rem;
+  padding-bottom: 4rem;
+
+  .stats {
+    display: flex;
+    justify-content: space-evenly;
+    @include muli;
+    font-weight: 600;
+    font-size: 25px;
+    margin-top: 6.5rem;
+    margin-bottom: 6.5rem;
+
+    svg {
+      display: block;
+      margin: 0 auto;
+      width: 80%;
+    }
+  }
+
+  a {
+    font-size: 25px;
+  }
+}
+
+p.social {
+  padding-top: .4em;
+  a {
+    padding-right: 0.75em;
+    svg {
+      display: inline-block;
+      vertical-align: middle;
+      fill: #fff;
+    }
+  }
+}
+
+// sub-pages
+.page-container {
+  padding-top: 3rem;
+  padding-bottom: 3rem;
+}
+
+// footer
+.footer {
+  background-color: $ebc-accent-color;
+  border-top: 2px solid #4C6781;
+  padding: 3rem 0 1rem;
+
+  .contact {
+    a.logo {
+      display: block;
+    }
+  }
+
+  ul li a,
+  ol li a {
+    text-decoration: none;
+  }
+
+  .partners {
+    display: flex;
+    flex-direction: column;
+    img {
+      height: 60px;
+    }
+    a {display: inline-block;}
+    a > img {
+      display: inline-block;
+    }
+    p {
+      font-size: 12px;
+    }
+  }
+
+  h2 {
+    font-size: 17px;
+    @include muli;
+    text-transform: uppercase;
+    margin-top: 0;
+  }
+
+  .fulcrum {
+    vertical-align: baseline;
+  }
+
+  .block {
+    display: block;
+  }
+
+  p.social {
+    padding-top: .4em;
+    a {
+      padding-right: 0.75em;
+      svg {
+        display: inline-block;
+        vertical-align: middle;
+        fill: #fff;
+      }
+    }
+  }
+
+}
+
+
