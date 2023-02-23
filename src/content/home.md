@@ -2,18 +2,16 @@
 templateKey: home-page
 taglineSection:
   buttonLabel: Explore the Collection
-  buttonUrl: http://fulcrum.org/michigan
-  text: Through its ebook collection, U-M Press partners with libraries and other
-    funders to support faculty public engagement, catalyze academic innovation,
-    and advance more equitable access to knowledge.
+  buttonUrl: http://fulcrum.org/bigten
+  text: Here is a short tagline description of Big Ten Open Ebooks that describes the mission and goal of the collection to readers.
 firstCallToActionSection:
-  description: Ready to add UMP EBC to your library?
+  description: Ready to add Big Ten Ebooks to your library?
   buttonLabel: Support OA
-  buttonUrl: /invest
+  buttonUrl: /librarians
 secondCallToActionSection:
   description: Learn more about how we're doing
   buttonLabel: Visualize Impact
-  buttonUrl: https://ebc.press.umich.edu/impact
+  buttonUrl: /impact
 thirdCallToActionSection:
   description: Stay up to date with our latest news
   buttonLabel: Join Our List

@@ -44,7 +44,7 @@ const Navbar = () => {
                 </fieldset>
               </form>
               <div className="nav-browse mt-1">
-                <a className="pr-4" href="https://fulcrum.org/bigten/">Browse Books</a>                
+                <a href="https://fulcrum.org/bigten/">Browse Books</a>                
               </div>
             </div> 
           </div>
@@ -53,16 +53,16 @@ const Navbar = () => {
       <div className="nav-scroller">
         <div className="container">
           <nav className="nav d-flex justify-content-between">
-            <Link to="/about" className="nav-link text-dark">
+            <Link to="/about" className="nav-link text-light">
               About
             </Link>
-            <Link to="/publishers" className="nav-link text-dark">
+            <Link to="/publishers" className="nav-link text-light">
               Our Publishers
             </Link>
-            <Link to="/librarians" className="nav-link text-dark">
+            <Link to="/librarians" className="nav-link text-light">
               For Librarians
             </Link>            
-            <Link to="/impact" className="nav-link text-dark">
+            <Link to="/impact" className="nav-link text-light">
               Usage and Impact
             </Link>
           </nav>

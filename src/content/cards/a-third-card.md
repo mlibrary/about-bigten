@@ -1,9 +1,9 @@
 ---
 templateKey: card
-title: Work with Us
-description: Big Ten University Presses contribute books to our collection.
-buttonLabel: Learn More
-buttonUrl: /publishers
-cardImage: assets/untitled-design.png
+title: Updates for Library Subscribers
+description: MARC Records have been updated with the latest titles. Select the button to download.
+buttonLabel: Download Now
+buttonUrl: /librarians
+cardImage: assets/marc.png
 date: 2021-10-26T13:25:00.000Z
 ---

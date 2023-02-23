@@ -1,45 +1,38 @@
 // colors and theming
 $theme-colors: (
-  "primary": #F5F0F0,
-  "secondary": #00274C,
-  "muted": #E9EDF0
+  "primary": #005E8E,
+  "secondary": #393D42,
+  "muted": #939598
 );
 
 
 @import "../bootstrap/scss/bootstrap";
-@import url("https://use.typekit.net/hfw0vui.css");
+@import url("https://use.typekit.net/leo4nka.css");
 
 // colors
-$ebc-brand-color: #4C6781;
-$ebc-accent-color: #00274C;
-$ebc-accent-color-light: #E5E9ED;
-$ebc-headings: rgb(33, 43, 54);
+$brand-color: #0088CE;
+$accent-color: #393D42;
+$accent-color-light: #E5E9ED;
+$black: #000;
+$accessible-blue: #005E8E;
+$headings: rgb(33, 43, 54);
 
 // typography
-@mixin muli {
-  font-family: muli, Arial, Helvetica, sans-serif;
+@mixin pt-sans {
+  font-family: pt-sans-pro, sans-serif;
 }
 
-.muli {
-  @include muli;
-}
-
-@mixin meta-serif {
-  font-family: ff-meta-serif-web-pro, Georgia, 'Times New Roman', Times, serif;
-}
-
-.meta-serif {
-  @include meta-serif;
+.pt-sans {
+  @include pt-sans;
 }
 
 body {
-  @include meta-serif;
+  @include pt-sans;
 }
 
 h1 {
-  @include meta-serif;
   font-weight: 700;
-  color:$ebc-headings;
+  color:$headings;
 }
 
 .bold {
@@ -50,9 +43,9 @@ h2,
 h3,
 h4,
 h5 {
-    @include muli;
+    @include pt-sans;
     font-weight: 700;
-    color:$ebc-headings;
+    color:$headings;
 }
 
 h1 {
@@ -93,34 +86,33 @@ p, ul li, ol li {
   font-weight: 300;
   a {
   text-decoration: underline;
-  color: rgb(29, 116, 145);
+  color: $accessible-blue;
   }
   a:hover {
     text-decoration-thickness: 2px;
-    color: rgb(29, 116, 145);
+    color: $accessible-blue;
   }
 }
 
 .link {
     text-decoration: underline;
-    color: rgb(29, 116, 145);
+    color: $accessible-blue;
 }
 
 .link:hover {
   text-decoration-thickness: 2px;
-  color: rgb(29, 116, 145);
+  color: $accessible-blue;
 }
 
 // buttons
 .btn {
-  @include muli;
   font-weight: 600;
 }
 
 // header and navigation
 .nav,
 header {
-  @include muli;
+  @include pt-sans;
 }
 
 header {
@@ -161,7 +153,8 @@ header {
   position: relative;
   z-index: 2;
   overflow-y: hidden;
-  border-bottom: 2px solid #4C6781;
+  background-color: $accent-color;
+  color: #FFFFFF;
   
   .nav {
     display: -webkit-box;
@@ -191,16 +184,15 @@ header {
 }
 
 .navbar-brand h1 {
-  font-weight: 700;
+  font-weight: 900;
   text-transform: uppercase;
   letter-spacing: 1.2px;
   display: inline-block;
   margin: 0;
-  margin-bottom: -8px;
   vertical-align: bottom;
   font-size: 26px;
-  @include muli;
-  color: $ebc-accent-color;
+  @include pt-sans;
+  color: $accent-color;
 }
 
 // cards
@@ -255,7 +247,7 @@ header {
 
 // home - tagline and cta button
 .tagline-container {
-  background-color: $ebc-brand-color;
+  background-color: $brand-color;
   padding: 4rem 0;
   border-top: 1px solid rgba(0,0,0,.125);
 
@@ -282,7 +274,7 @@ header {
 
 // tables
 thead {
-  @include muli;
+  @include pt-sans;
 }
 
 // impact
@@ -299,11 +291,9 @@ b, strong {
 
 .summary {
   font-size: 1.3rem;
-  @include muli;
 }
 
 blockquote {
-  @include muli;
   margin: 0 4rem 1rem;
 }
 
@@ -327,7 +317,6 @@ blockquote {
   .stats {
     display: flex;
     justify-content: space-evenly;
-    @include muli;
     font-weight: 600;
     font-size: 25px;
     margin-top: 6.5rem;
@@ -365,7 +354,7 @@ p.social {
 
 // footer
 .footer {
-  background-color: $ebc-accent-color;
+  background-color: $accent-color;
   border-top: 2px solid #4C6781;
   padding: 3rem 0 1rem;
 
@@ -397,7 +386,6 @@ p.social {
 
   h2 {
     font-size: 17px;
-    @include muli;
     text-transform: uppercase;
     margin-top: 0;
   }
