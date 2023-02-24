@@ -26,7 +26,7 @@ const Impact = ({data}) => {
         <Title title={title} />
         
         <section className="cards-container">
-          <h2 id="stories" className="mb-4">Stories of Impact</h2>
+          <h2 id="stories" className="mb-4">Making an Impact</h2>
           <StoryList stories={stories} />
           <Link to="/stories" className="btn btn-secondary mt-4 float-right">
               Read More Stories

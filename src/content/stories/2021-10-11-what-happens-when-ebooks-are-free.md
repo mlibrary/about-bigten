@@ -4,7 +4,7 @@ title: What happens when ebooks are free-to-read?
 summary: In March 2020, faculty and students suddenly had to start working
   remotely as the COVID-19 pandemic spread. An experiment in making an
   ebook collection freely available sowed the seeds for a new type of collaborative ebook collection.
-storyImage: assets/engin-akyurt-x5qyx7ws628-unsplash.jpg
+storyImage: assets/reading-book.jpg
 date: 2021-10-11T17:25:42.690Z
 ---
 Between March 20 and August 31, 2020, the University of Michigan Press made all the titles in its hosted ebook collection, the University of Michigan Press Ebook Collection (UMP EBC), free-to-read. This meant all titles were available for anyone to read without charge, but only users within the IP ranges of library purchasers of the collection were able to download books. This was in response to the sudden restriction of physical movement and building access due to COVID-19 pandemic “lockdowns," which left many faculty, students, and librarians struggling to maintain continuity of research and learning. 

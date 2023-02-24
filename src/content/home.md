@@ -3,7 +3,7 @@ templateKey: home-page
 taglineSection:
   buttonLabel: Explore the Collection
   buttonUrl: http://fulcrum.org/bigten
-  text: Here is a short tagline description of Big Ten Open Ebooks that describes the mission and goal of the collection to readers.
+  text: The Big Ten Open Ebooks connects readers everywhere to a unified, open access collection of university press-published scholarly monographs.
 firstCallToActionSection:
   description: Ready to add Big Ten Ebooks to your library?
   buttonLabel: Support OA
