@@ -24,7 +24,7 @@ const Navbar = () => {
           <div className="row justify-content-end">
             <div className="col-md-8">
               <a href="/" className="navbar-brand">
-                <img src="/assets/btaa-blue.svg" alt="" height="70" width="auto" className="navbar-brand-logo"/> <h1>Big Ten<br/> Open Ebooks</h1>
+                <img src="/assets/btaa-blue.svg" alt="" height="70" width="auto" className="navbar-brand-logo"/> <h1>Big Ten<br/> Open Books</h1>
               </a>
             </div>
             <div className="col-md-4 pt-3">

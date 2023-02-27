@@ -1,7 +1,7 @@
 ---
 templateKey: card
 title: Our Books
-description: Big Ten Open Ebooks contains
+description: Big Ten Open Books contains
   award-winning humanities and social sciences monographs.
 buttonLabel: Read a Free Book
 buttonUrl: https://www.fulcrum.org/bigten

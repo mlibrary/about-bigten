@@ -46,7 +46,7 @@ const Footer = () => {
             <small className="d-block pt-2"><Link className="text-light muli text-uppercase bold" to="/contact">Contact Us</Link></small>                  
           </section>          
           <section className="col-md-4">
-            <h2 className="text-light">Big Ten Open Ebooks</h2>
+            <h2 className="text-light">Big Ten Open Books</h2>
               <ul className="list-unstyled">
                 <li><a className="text-light" href="https://fulcrum.org/bigten">Browse and Search</a></li>
                 <li><Link className="text-light" to="/about">About</Link></li>

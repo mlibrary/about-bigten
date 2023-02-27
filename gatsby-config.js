@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: `Big Ten Open Ebooks`,
+    title: `Big Ten Open Books`,
     description: `Collection of open ebook titles publishing by Big Ten University Presses`,
     author: `Big Ten Academic Alliance`,
   },
