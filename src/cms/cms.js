@@ -31,7 +31,7 @@ if (process.env.BRANCH === "preview") {
       backend: {
         name: 'gitlab',
         repo: 'michigan-publishing/about-bigten',
-        branch: 'master',
+        branch: 'main',
         auth_type: 'pkce',
         app_id: 'ef64e073f2199f834f8db883cc63abe05719da49c1ab37391a81150a6d1b51fc',
         api_root: 'https://gitlab.umich.edu/api/v4',
