@@ -33,7 +33,7 @@ if (process.env.BRANCH === "preview") {
         repo: 'michigan-publishing/about-bigten',
         branch: 'master',
         auth_type: 'pkce',
-        app_id: 'e4b04eff05cb0b43b098d621936c4a168b0159980b5b1a5196f54eaf23bb254e',
+        app_id: 'ef64e073f2199f834f8db883cc63abe05719da49c1ab37391a81150a6d1b51fc',
         api_root: 'https://gitlab.umich.edu/api/v4',
         base_url: 'https://gitlab.umich.edu',
         auth_endpoint: 'oauth/authorize'
