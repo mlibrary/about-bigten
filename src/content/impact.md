@@ -1,6 +1,6 @@
 ---
 templateKey: impact-page
-title: Usage and Impact
+title: Impact and Usage
 readershipMapDescription: >-
   ## Readership Map
 

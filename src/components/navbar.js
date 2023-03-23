@@ -63,7 +63,7 @@ const Navbar = () => {
               For Librarians
             </Link>            
             <Link to="/impact" className="nav-link text-light">
-              Usage and Impact
+              Impact and Usage
             </Link>
           </nav>
         </div>
