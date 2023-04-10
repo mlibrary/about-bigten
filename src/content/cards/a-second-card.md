@@ -1,7 +1,7 @@
 ---
 templateKey: card
 title: Our Books
-description: Big Ten Open Books contains open access books from award-winning
+description: Big Ten Open Books contains trusted publications from award-winning
   university presses.
 buttonLabel: Read a Free Book
 buttonUrl: https://www.fulcrum.org/bigten
