@@ -1,9 +1,9 @@
 ---
 templateKey: story
-title: "Breaking down the paywall: Author relationships with open access"
-summary: Authors discuss the impact of Open Access on their scholarship and
-  on the way they view diversity, equity, and inclusion in their fields.
-storyImage: assets/library-round.jpg
+title: Why does metadata matter?
+summary: A particular focus of Big Ten Open Books is ensuring that titles in the
+  collections get discovered and used
+storyImage: assets/shutterstock_135252881.jpg
 date: 2021-10-03T18:55:26.820Z
 ---
 The year 2021 marked the 50th anniversary of when Michael Hart digitized the Declaration of Independence, creating what is [commonly considered the first ebook](https://www.theguardian.com/books/2011/sep/08/michael-hart-inventor-ebook-dies). Since then, innovation in the realm of digital publishing has only accelerated. Optimizing scholarship for the digital age has resulted in the creation of new formats of publishable materials; emphasized the importance of accessible websites, articles, and books; and has resulted in more people, in more places, having access to more content.
