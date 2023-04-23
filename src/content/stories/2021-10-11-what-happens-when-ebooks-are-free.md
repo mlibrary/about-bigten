@@ -8,4 +8,4 @@ summary: To inform public understanding of gender and sexuality, and
 storyImage: assets/shutterstock_1808618392.jpg
 date: 2021-10-11T17:25:42.690Z
 ---
-T﻿he first Big Ten Open Books collection focuses on gender and sexuality studies, with an especial emphasis on LGBTQ+ identities. From first person narratives of discrimination to celebrations of art and creativity, readers will find a wealth of stories, studies, and analyses in these books - available for free to read and reuse thanks to the libraries of the Big Ten Academic Alliance and the presses that they support.
+T﻿he first Big Ten Open Books collection focuses on gender and sexuality studies, with a special emphasis on LGBTQ+ identities. From first-person narratives of discrimination to celebrations of art and creativity, readers will find a wealth of stories, studies, and analyses in these books - available for free to read and reuse thanks to the libraries of the Big Ten Academic Alliance and the presses that they support.
