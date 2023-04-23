@@ -1,6 +1,6 @@
 ---
 templateKey: story
-title: The Big Ten Open Books "Gender and Sexuality" Collection
+title: Big Ten Open Books presents the "Gender and Sexuality" collection
 summary: To inform public understanding of gender and sexuality, and
   particularly the diverse identities and experiences of LGBTQ+ individuals, a
   collection of 100 high quality books from six BTAA presses is the first Big
