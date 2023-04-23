@@ -7,11 +7,15 @@ The participating institutions, all members of the Big Ten Academic Alliance, ha
 The first collection on the topic of gender and sexuality studies has been curated from the backlist collections of these university presses:
 
 * [Indiana University Press](https://iupress.org/)
-  [Michigan State University Press](https://msupress.org/)
-  [Northwestern University Press](https://nupress.northwestern.edu/)
-  [Purdue University Press](https://www.press.purdue.edu/)
-  [University of Michigan Press](https://www.press.umich.edu/)
-  [University of Wisconsin Press](https://uwpress.wisc.edu/)
+* [Michigan State University Press](https://msupress.org/)
+* [Northwestern University Press](https://nupress.northwestern.edu/)
+* [Purdue University Press](https://www.press.purdue.edu/)
+* [University of Michigan Press](https://www.press.umich.edu/)
+* [University of Wisconsin Press](https://uwpress.wisc.edu/)
+
+
+
+
 
 
 ## W﻿hy you can trust Big Ten Open Books
