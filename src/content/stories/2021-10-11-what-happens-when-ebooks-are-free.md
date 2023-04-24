@@ -4,7 +4,7 @@ title: Big Ten Open Books presents the "Gender and Sexuality" collection
 summary: To inform public understanding of gender and sexuality, and
   particularly the diverse identities and experiences of LGBTQ+ individuals, a
   collection of 100 high quality books from six BTAA presses is the first Big
-  Ten Open Books collection is launching in summer 2023.
+  Ten Open Books collection, launching in summer 2023.
 storyImage: assets/shutterstock_1362211301.jpg
 date: 2023-04-23T23:15:46.046Z
 ---
