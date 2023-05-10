@@ -36,14 +36,14 @@ const Impact = ({data}) => {
           <div id="readership-map" className="readership-map">
             <ReactMarkdown source={readershipMapDescription} />
             <div className="readership-map-embed">
-              <iframe title="Readership Map" frameborder="0" height="650" width="100%" src="https://maps.publishing.umich.edu/readership-map/?filter.view=132442623"></iframe>
+              {/* <iframe title="Readership Map" frameborder="0" height="650" width="100%" src="https://maps.publishing.umich.edu/readership-map/?filter.view=132442623"></iframe> */}
             </div>
           </div>
           <div id="book-usage" className="google-data-studio">
             <ReactMarkdown source={googleDataStudioDescription} />
-            <div className="embed-responsive embed-responsive-1by1">
-              <iframe title="All Book Usage Report" className="embed-responsive-item" src="https://lookerstudio.google.com/embed/reporting/dd97f816-2d1e-4e43-9ab6-818de8e4ca5b/page/9LCE"></iframe>
-            </div>
+            {/* <div className="embed-responsive embed-responsive-1by1"> */}
+              {/* <iframe title="All Book Usage Report" className="embed-responsive-item" src="https://lookerstudio.google.com/embed/reporting/dd97f816-2d1e-4e43-9ab6-818de8e4ca5b/page/9LCE"></iframe> */}
+            {/* </div> */}
           </div>
         </section>
       </div>
