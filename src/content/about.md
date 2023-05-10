@@ -8,4 +8,4 @@ This collection has established a model for unified, open-access publishing of s
 
 The [Big Ten Academic Alliance continues its advocacy for a sustainable and open ecosystem of publication.](https://btaa.org/about/news-and-publications/news/2019/06/10/sustaining-values-and-scholarship-a-statement-by-the-provosts-of-the-big-ten-academic-alliance) Collectively, our institutions’ more than 50,000 faculty are supported by over $11 billion in research funding, and our institutions have similarly invested significantly in our capacity to further our missions to advance knowledge. Together, we produce roughly 15% of the research publications in the United States.
 
-![](assets/big-ten-sample-books-2.jpg "Titles in the Big Ten Open Books collection on gender and sexuality studies")
+![Image of book covers from the Big Ten Open Books collection on gender and sexuality studies](https://about-bigten.netlify.app/assets/big-ten-sample-books-2.jpg "Titles in the Big Ten Open Books collection on gender and sexuality studies")
