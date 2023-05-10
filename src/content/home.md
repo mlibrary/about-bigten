@@ -3,7 +3,8 @@ templateKey: home-page
 taglineSection:
   buttonLabel: Explore the Collection
   buttonUrl: http://fulcrum.org/bigten
-  text: The Big Ten Open Books connects readers everywhere to a unified, open access collection of university press-published scholarly monographs.
+  text: The Big Ten Open Books connects readers everywhere to a unified, open
+    access collection of university press-published scholarly monographs.
 firstCallToActionSection:
   description: Ready to add Big Ten books to your library?
   buttonLabel: Support OA
@@ -15,5 +16,5 @@ secondCallToActionSection:
 thirdCallToActionSection:
   description: Stay up to date with our latest news
   buttonLabel: Join Our List
-  buttonUrl: https://umich.us9.list-manage.com/subscribe?u=a4cd6f758656d0e1542fcb495&id=ee5048bf45
+  buttonUrl: https://tinyletter.com/fulcrum/subscribe/
 ---
