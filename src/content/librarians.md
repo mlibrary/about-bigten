@@ -10,9 +10,9 @@ A﻿s a unique collaboration between the libraries and university presses of the
 * **F﻿lexibility:** True open access requires that titles are not only readable for free, but also reusable in contexts such as open textbooks and text and data mining. While the choice of Creative Commons license is determined by individual publishers after consultation with their authors, the default is a \[CC-BY NC license](<https://creativecommons.org/licenses/by-nc/4.0/legalcode). A particular focus of reuse is on teaching, and the BTAA is investing in the [Manifold (University of Minnesota)](https://manifoldapp.org/) and [Humanities Commons (Michigan State University)](https://hcommons.org/) platforms to support creative reuse of the published collections.
 
 <table class="table table-bordered">
-    <caption><a class="btn btn-secondary btn-lg" href="https://ftp.fulcrum.org/UMPEBC/KBART/">Download KBART files</a></caption>
+    <!-- <caption><a class="btn btn-secondary btn-lg" href="https://ftp.fulcrum.org/UMPEBC/KBART/">Download KBART files</a></caption> -->
 
-  <caption><a class="btn btn-secondary btn-lg" href="https://ftp.fulcrum.org/UMPEBC/MARC/">Download MARC records</a></caption>
+ <!-- <caption><a class="btn btn-secondary btn-lg" href="https://ftp.fulcrum.org/UMPEBC/MARC/">Download MARC records</a></caption> -->
 
 BTAA has several agreements to make titles more discoverable and to enable auto-loading of MARC records. Our agreements allow BTAA titles to be indexed in the following services.
     <thead class="thead-light">
