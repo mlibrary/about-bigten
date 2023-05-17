@@ -6,7 +6,7 @@ taglineSection:
   text: Big Ten Open Books connects readers everywhere to fully accessible,
     trusted books from leading university presses.
 firstCallToActionSection:
-  description: Ready to add Big Ten books to your library?
+  description: Add Big Ten books to your library?
   buttonLabel: Support OA
   buttonUrl: /librarians
 secondCallToActionSection:
