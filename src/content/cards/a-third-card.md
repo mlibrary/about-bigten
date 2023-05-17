@@ -1,7 +1,8 @@
 ---
 templateKey: card
 title: Access for Everyone
-description: All titles in Big Ten Open Books have been reformatted to EPUB3 and remediated using the latest standards in accessible publishing.
+description: All titles in Big Ten Open Books have been reformatted using the
+  latest standards in accessible publishing.
 buttonLabel: Learn More
 buttonUrl: /librarians
 cardImage: assets/website-accessibility.png
