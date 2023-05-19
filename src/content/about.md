@@ -2,7 +2,7 @@
 templateKey: about-page
 title: About
 ---
-The Big Ten Open Books collection is a collaboration between the university presses and libraries of the [Big Ten Academic Alliance](https://btaa.org). The first collection, published in June of 2023, is [on the subject of Gender and Sexuality studies](https://www.fulcrum.org/bigten). Participating presses are Indiana University Press, Michigan State University Press, Northwestern University Press, Purdue University Press, University of Michigan Press, and University of Wisconsin Press.
+Big Ten Open Books is a collaboration between the university presses and libraries of the [Big Ten Academic Alliance](https://btaa.org). The first collection, published in June of 2023, is [on the subject of Gender and Sexuality studies](https://www.fulcrum.org/bigten). Participating presses are Indiana University Press, Michigan State University Press, Northwestern University Press, Purdue University Press, University of Michigan Press, and University of Wisconsin Press.
 
 This collection has established a model for unified, open-access publishing of scholarly monographs. It creates open content, on open infrastructure, using open distribution models - to envision a robust programmatic future for open monograph publishing. This work is aligned with the Big Ten Academic Alliance’s development of the [BIG Collection's ambition of uniting the collections of the libraries](https://btaa.org/library/big-collection/the-big-collection-introduction) of the Big Ten Academic Alliance, and is supported by [The Andrew W. Mellon Foundation's Public Knowledge program.](https://www.mellon.org/grant-programs/public-knowledge)
 
