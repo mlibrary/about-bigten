@@ -14,14 +14,9 @@ if (process.env.BRANCH === "preview") {
   CMS.init({
     config: {
       backend: {
-        name: 'gitlab',
-        repo: 'michigan-publishing/about-bigten',
-        branch: 'preview',
-        auth_type: 'implicit',
-        app_id: '',
-        api_root: 'https://gitlab.umich.edu/api/v4',
-        base_url: 'https://gitlab.umich.edu',
-        auth_endpoint: 'oauth/authorize'
+        name: 'github',
+        repo: 'mlibrary/about-bigten',
+        branch: 'preview'
       }
     }
   });
@@ -29,14 +24,9 @@ if (process.env.BRANCH === "preview") {
   CMS.init({
     config: {
       backend: {
-        name: 'gitlab',
-        repo: 'michigan-publishing/about-bigten',
-        branch: 'main',
-        auth_type: 'pkce',
-        app_id: 'ef64e073f2199f834f8db883cc63abe05719da49c1ab37391a81150a6d1b51fc',
-        api_root: 'https://gitlab.umich.edu/api/v4',
-        base_url: 'https://gitlab.umich.edu',
-        auth_endpoint: 'oauth/authorize'
+        name: 'github',
+        repo: 'mlibrary/about-bigten',
+        branch: 'main'
       }
     }
   });
