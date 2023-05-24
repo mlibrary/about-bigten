@@ -2,7 +2,7 @@
 templateKey: librarians-page
 title: For Librarians
 ---
-Notice: MARC and KBART files for titles in Big Ten Open Books collection will be available in Fall 2023.
+***Notice: MARC and KBART files for titles in Big Ten Open Books collection will be available in Fall 2023.***
 
 A﻿s a unique collaboration between the libraries and university presses of the Big Ten Academic Alliance, Big Ten Open Books is naturally committed to creating ebook collections that aspire to the highest standards of discoverability, accessibility, durability, and flexibility. Here is how the collection lives our shared values:
 
