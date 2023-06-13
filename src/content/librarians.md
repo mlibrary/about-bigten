@@ -4,6 +4,10 @@ title: For Librarians
 ---
 ***Notice: MARC and KBART files for titles in Big Ten Open Books collection will be available in Fall 2023.***
 
+
+
+<a class="btn btn-secondary btn-lg" href="[https://www.dropbox.com/sh/​fnrz7sqqmrv7v6u/AABLW-​XkcGWBvLW4E9YkeQFla?dl=0](https://www.dropbox.com/sh/fnrz7sqqmrv7v6u/AABLW-XkcGWBvLW4E9YkeQFla?dl=0)">Download Title List</a>
+
 A﻿s a unique collaboration between the libraries and university presses of the Big Ten Academic Alliance, Big Ten Open Books is naturally committed to creating ebook collections that aspire to the highest standards of discoverability, accessibility, durability, and flexibility. Here is how the collection lives our shared values:
 
 * **D﻿iscoverability:** MARC records for the books in Big Ten Open Books collections are prepared by [Backstage Library Works](https://www.bslw.com/history-of-backstage-library-works/)[](https://www.bslw.com/history-of-backstage-library-works/)﻿ and are made available when each collection is launched, along with KBART files, for direct download. Collections are also available for auto-loading via the services listed below. Books in the Big Ten Open Books collections are also distributed via [JSTOR](https://about.jstor.org/librarians/books/open-access-books-jstor/), [Project MUSE](https://muse.jhu.edu/museopen/), and [OAPEN](https://www.oapen.org/). They are indexed in the [Directory of Open Access Books](https://doabooks.org/).
