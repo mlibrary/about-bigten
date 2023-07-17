@@ -5,7 +5,7 @@ readershipMapDescription: >-
   ## Readership Map
 
 
-  The Readership Map replays every view or download of Big Ten Open Books monographs or media components that occurred the previous four weeks. We are currently gathering data and will display readership once some history has been compiled.
+  The Readership Map replays every view or download of Big Ten Open Books monographs or media components that occurred the previous four weeks.
 googleDataStudioDescription: >-
   ## All Book Usage
 
