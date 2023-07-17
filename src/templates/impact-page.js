@@ -9,8 +9,8 @@ import ReactMarkdown from "react-markdown"
 const Impact = ({data}) => {
   const {
     title,
-    readershipMapDescription,
-    googleDataStudioDescription
+    readershipMapDescription
+    // googleDataStudioDescription
   } = data.markdownRemark.frontmatter
 
   const stories = data.stories.edges
@@ -36,14 +36,8 @@ const Impact = ({data}) => {
           <div id="readership-map" className="readership-map">
             <ReactMarkdown source={readershipMapDescription} />
             <div className="readership-map-embed">
-              {/* <iframe title="Readership Map" frameborder="0" height="650" width="100%" src="https://maps.publishing.umich.edu/readership-map/?filter.view=132442623"></iframe> */}
+              <iframe title="Readership Map" frameborder="0" height="650" width="100%" src="https://maps.publishing.umich.edu/readership-map/?filter.view=284971125"></iframe>
             </div>
-          </div>
-          <div id="book-usage" className="google-data-studio">
-            <ReactMarkdown source={googleDataStudioDescription} />
-            {/* <div className="embed-responsive embed-responsive-1by1"> */}
-              {/* <iframe title="All Book Usage Report" className="embed-responsive-item" src="https://lookerstudio.google.com/embed/reporting/dd97f816-2d1e-4e43-9ab6-818de8e4ca5b/page/9LCE"></iframe> */}
-            {/* </div> */}
           </div>
         </section>
       </div>
@@ -57,7 +51,6 @@ export const query = graphql`
       frontmatter{
         title
         readershipMapDescription
-        googleDataStudioDescription
       }
     },
     stories: allMarkdownRemark(filter: {frontmatter: {templateKey: {eq: "story"}}}, sort: {fields: frontmatter___date, order: DESC}, limit: 2) {
