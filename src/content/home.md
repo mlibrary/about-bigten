@@ -2,7 +2,7 @@
 templateKey: home-page
 taglineSection:
   buttonLabel: Explore the Collection
-  buttonUrl: http://fulcrum.org/bigten
+  buttonUrl: https://fulcrum.org/bigten
   text: Big Ten Open Books connects readers everywhere to fully accessible,
     trusted books from leading university presses.
 firstCallToActionSection:
