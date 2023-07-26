@@ -2,7 +2,7 @@
 templateKey: librarians-page
 title: For Librarians
 ---
-***Notice: MARC and KBART files for titles in Big Ten Open Books collection will be available in Fall 2023.***
+***Notice: MARC and KBART files for titles in Big Ten Open Books collection will be available in early August 2023 and discovery services should be featuring the collection by the end of August.***
 
 <a class="btn btn-secondary btn-lg" href="https://www.dropbox.com/sh/fnrz7sqqmrv7v6u/AABLW-XkcGWBvLW4E9YkeQFla?dl=0">Download Title List</a>
 
