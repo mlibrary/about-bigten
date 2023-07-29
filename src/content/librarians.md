@@ -2,7 +2,7 @@
 templateKey: librarians-page
 title: For Librarians
 ---
-***Notice: A MARC (.mrc) file [can be downloaded directly here](https://www.dropbox.com/s/6lnl19lfpbdtch3/UofMichigan_BigTenOpenBooks_2.mrc?dl=0). MARC and KBART files for titles in Big Ten Open Books collection are also being delivered to discovery services who should be featuring the collection by the end of August.***
+***Notice: MARC (.mrc) records for the collection [are now available to download directly here](https://www.dropbox.com/s/6lnl19lfpbdtch3/UofMichigan_BigTenOpenBooks_2.mrc?dl=0). MARC and KBART files for titles in Big Ten Open Books collection are also being delivered to discovery services who should be featuring the collection by the end of August.***
 
 <a class="btn btn-secondary btn-lg" href="https://www.dropbox.com/sh/fnrz7sqqmrv7v6u/AABLW-XkcGWBvLW4E9YkeQFla?dl=0">Download Title List</a>
 
