@@ -22,18 +22,28 @@ const Impact = ({data}) => {
   return (
     <Layout>
       <SEO title={title} />
-      <div className="container">
-        <Title title={title} />
+      <div className="impact">
         
-        <section className="cards-container">
+        <section className="cards-container container">
+        <Title title={title} />
           <h2 id="stories" className="mb-4">Making an Impact</h2>
           <StoryList stories={stories} />
           <Link to="/stories" className="btn btn-secondary mt-4 float-right">
               Read More Stories
           </Link>
         </section>
+        <section className="tagline-container">
+          <div className="container">
+            <div className="row">
+              <div className="tagline col-md-12 text-center">
+                <span className="text-white">Did Big Ten Open Books impact you?</span>
+                <a className="btn btn-lg btn-secondary" href="https://umich.qualtrics.com/jfe/form/SV_72nTB41pi7pzn9A" target="_blank">Please tell us about it</a>
+              </div>
+            </div>
+          </div>
+        </section>
         <section>
-          <div id="readership-map" className="readership-map">
+          <div id="readership-map" className="readership-map container">
             <ReactMarkdown source={readershipMapDescription} />
             <div className="readership-map-embed">
               <iframe title="Readership Map" frameborder="0" height="650" width="100%" src="https://maps.publishing.umich.edu/readership-map/?filter.view=284971125"></iframe>

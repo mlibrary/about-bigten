@@ -352,6 +352,27 @@ p.social {
   padding-bottom: 3rem;
 }
 
+// impact page
+.impact .tagline-container {
+  margin-top: 3rem;
+
+  span {
+    padding-right: 2.5rem;
+  }
+}
+
+@media (max-width: 767px) {
+  .impact .tagline-container {
+    span {
+      padding: 0;
+    }
+    a {
+      margin-top: 1rem;
+    }
+  }
+}
+
+
 // footer
 .footer {
   background-color: $accent-color;
