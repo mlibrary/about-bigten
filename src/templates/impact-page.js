@@ -49,6 +49,13 @@ const Impact = ({data}) => {
               <iframe title="Readership Map" frameborder="0" height="650" width="100%" src="https://maps.publishing.umich.edu/readership-map/?filter.view=284971125"></iframe>
             </div>
           </div>
+          <div className="google-data-studio-oa container">
+            <h2 id="oa-book-usage">Book Usage</h2>
+            <p>This report is created by the <a href="https://openknowledge.community/projects/bad-project/" target="_blank" rel="noreferrer">Book Analytics Dashboard project</a> and represents usage across a number of different platforms. For more information or if you are encountering display issues, see the information panel within the dashboard or contact fulcrum-info@umich.edu.</p>
+            <div className="embed-responsive embed-responsive-1by1">
+	            <iframe title="Big Ten Open Books Usage" className="embed-responsive-item bad-dashboard" src="https://lookerstudio.google.com/embed/reporting/37e8eae6-0d75-4cf3-b843-988bc3d99eb6/page/imr4C" allowfullscreen></iframe>
+            </div>
+          </div>
         </section>
       </div>
     </Layout>
