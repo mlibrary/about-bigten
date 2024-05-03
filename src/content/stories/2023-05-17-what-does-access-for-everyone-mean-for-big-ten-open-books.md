@@ -2,7 +2,7 @@
 templateKey: story
 title: What does "access for everyone" mean for Big Ten Open Books?
 summary: 'Making ebooks "free to read" is just part of the story. '
-storyImage: assets/readers.jpg
+storyImage: assets/cjs_5823.jpg
 date: 2023-05-17T22:28:04.029Z
 ---
 Big Ten Academic Alliance university presses and libraries have partnered to make Big Ten Open Books titles open access. This means they are free-to-read to anyone with an Internet connection. They are also openly-licensed under Creative Commons licenses which make most of the titles free to reuse in any non-commercial way. All the books can also be downloaded as both PDF and EPUB3 files, meaning that readers can use them offline as well as online. We don't apply any "digital rights management" (DRM), so when you download a file it won't "expire."
