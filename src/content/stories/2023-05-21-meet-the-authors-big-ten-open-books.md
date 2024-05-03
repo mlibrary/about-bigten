@@ -3,7 +3,7 @@ templateKey: story
 title: "Meet the Authors: Big Ten Open Books"
 summary: For the authors of titles included in Big Ten Open Books, open access
   offers an opportunity to reach beyond the academy and counter misinformation.
-storyImage: assets/royster-and-taylor.png
+storyImage: assets/cjs_5831.jpg
 date: 2023-05-21T14:19:59.663Z
 ---
 [Big Ten Open Books](https://bigtenopenbooks.org/) offers university press authors an opportunity to share their work with new audiences. Titles that previously required affiliation with a university library or individual payment to access can now be read free-of-charge around the world. For the featured authors, the proliferation of library book bans in the US has made this a particularly important time to open access to stories of LGBTQ+ identity. Learn more about select books and their authors in the author interviews linked below, and then read for free online:
