@@ -9,8 +9,13 @@ The first collection on the topic of gender and sexuality studies has been curat
 * [Indiana University Press](https://iupress.org/)
 * [Michigan State University Press](https://msupress.org/)
 * [Northwestern University Press](https://nupress.northwestern.edu/)
+* [The Ohio State University Press](https://ohiostatepress.org/)
+* [Penn State University Press](https://www.psupress.org/)
 * [Purdue University Press](https://www.press.purdue.edu/)
+* [University of Illinois Press](https://www.press.uillinois.edu/)
 * [University of Michigan Press](https://www.press.umich.edu/)
+* [University of Minnesota Press](https://www.upress.umn.edu/)
+* [University of Nebraska Press](https://www.nebraskapress.unl.edu/)
 * [University of Wisconsin Press](https://uwpress.wisc.edu/)
 
 ## W﻿hy you can trust Big Ten Open Books
