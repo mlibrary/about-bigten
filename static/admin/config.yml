@@ -80,6 +80,13 @@ collections:
           - { name: templateKey, label: "Template Key", widget: hidden, default: about-page }
           - { name: title, label: About }
           - { name: body, label: Body, widget: markdown }
+      - file: "src/content/collections.md"
+        name: collections
+        label: Our Collections
+        fields:
+          - { name: templateKey, label: "Template Key", widget: hidden, default: collections-page }
+          - { name: title, label: Our Collections }
+          - { name: body, label: Body, widget: markdown }
       - file: "src/content/contact.md"
         name: contact
         label: Contact
