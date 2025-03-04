@@ -6,8 +6,14 @@ The participating institutions, all members of the Big Ten Academic Alliance, ha
 
 These presses first collaborated in the Gender and Sexuality Studies Collection (2023), and are collaborating again on the FOUR upcoming collections:
 
-* [Indiana University Press](https://iupress.org/)
-* [Michigan State University Press](https://msupress.org/)
+![](assets/iu_press_logo_rgb_144dpi_500px.png)
+
+[Indiana University Press](https://iupress.org/)
+
+![](assets/msup-logo_4c-text-h.jpg)
+
+[Michigan State University Press](https://msupress.org/)
+
 * [Northwestern University Press](https://nupress.northwestern.edu/)
 * [The Ohio State University Press](https://ohiostatepress.org/)
 * [Penn State University Press](https://www.psupress.org/)
