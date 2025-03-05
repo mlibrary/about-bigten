@@ -10,16 +10,6 @@ The Big Ten Open Books collections offer an insightful journey into crucial them
 
 <!--EndFragment-->
 
-### P﻿revious Collections
-
-#### Gender and Sexuality Studies (2023)
-
-<!--StartFragment-->
-
-This collection explores the complexities of gender and sexuality, examining cultural, historical, and social influences that shape identity and expression. Through interdisciplinary and intersectional perspectives, the books explore themes like power dynamics, reproductive rights, body politics, and the evolution of sexual norms. By highlighting personal narratives and societal changes, the collection provides a nuanced understanding of the challenges and triumphs in gender and sexuality. It invites readers to engage with transformative ideas and reimagine traditional roles and relationships.
-
-<!--EndFragment-->
-
 ### U﻿pcoming Collections
 
 #### **Indigenous North Americans (Summer 2025)**
@@ -47,5 +37,13 @@ This collection explores health disparities and intersectional experiences, high
 <!--StartFragment-->
 
 This collection explores humanity's environmental impact through conservation, sustainability, and ecological ethics. It delves into policy and activism, highlighting key legislation and movements worldwide. Analyzing urban sustainability, sustainable agriculture, and genetically engineered crops, these books offer dynamic solutions to environmental challenges. The collection reveals how art, cinema, and literature influence environmental consciousness and advocacy. By integrating traditional knowledge with modern strategies, it inspires renewed engagement with pressing environmental issues and pathways to a sustainable future.
+
+<!--EndFragment-->P﻿revious Collections
+
+#### Gender and Sexuality Studies (2023)
+
+<!--StartFragment-->
+
+This collection explores the complexities of gender and sexuality, examining cultural, historical, and social influences that shape identity and expression. Through interdisciplinary and intersectional perspectives, the books explore themes like power dynamics, reproductive rights, body politics, and the evolution of sexual norms. By highlighting personal narratives and societal changes, the collection provides a nuanced understanding of the challenges and triumphs in gender and sexuality. It invites readers to engage with transformative ideas and reimagine traditional roles and relationships.
 
 <!--EndFragment-->
