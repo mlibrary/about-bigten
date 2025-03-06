@@ -50,4 +50,4 @@ This collection explores the complexities of gender and sexuality, examining cul
 
 <!--EndFragment-->
 
-S﻿tart reading today.
+S﻿tart reading today!
