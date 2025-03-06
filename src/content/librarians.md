@@ -2,7 +2,9 @@
 templateKey: librarians-page
 title: For Librarians
 ---
-A﻿s a unique collaboration between the libraries and university presses of the Big Ten Academic Alliance, Big Ten Open Books is naturally committed to creating ebook collections that aspire to the highest standards of discoverability, accessibility, durability, and flexibility. Here is how the collection lives our shared values:
+### Our Mission
+
+A﻿s a unique collaboration between the libraries and university presses of the Big Ten Academic Alliance, Big Ten Open Books is naturally committed to creating ebook collections that aspire to the highest standards of discoverability, accessibility, durability, and flexibility. Here is how the collection lives our shared values:ur 
 
 * **D﻿iscoverability:** MARC records for the books in Big Ten Open Books collections are prepared by [Backstage Library Works](https://www.bslw.com/history-of-backstage-library-works/)[](https://www.bslw.com/history-of-backstage-library-works/)﻿ and are made available when each collection is launched, along with KBART files, for direct download. Collections are also available for auto-loading via the services listed below. Books in the Big Ten Open Books collections are also distributed via [JSTOR](https://about.jstor.org/librarians/books/open-access-books-jstor/), [Project MUSE](https://muse.jhu.edu/museopen/), and [OAPEN](https://www.oapen.org/). They are indexed in the [Directory of Open Access Books](https://doabooks.org/).
 * **A﻿ccessibility:** All titles in Big Ten Open Books collections have been converted to reflowable EPUB3 files with alt-text and described-by text. The files are produced using a [Benetech Certified Global Accessible](https://bornaccessible.benetech.org/global-certified-accessible/) workflow. The [Fulcrum](https://www.fulcrum.org/) platform that delivers the version of record of the titles meets the latest WCAG 2AA Standards and [reports its compliance with WCAG 2.0 and Section 508 through a regularly updated VPAT.](https://www.fulcrum.org/accessibility/)
