@@ -20,6 +20,10 @@ T﻿he four upcoming collections:
 * H﻿ealth Disparities and Disability Culture (*Fall 2025*)
 * H﻿uman Environmental Impact (*Fall 2025*)
 
+P﻿revious collections:
+
+* G﻿ender and Sexuality Studies (*2023*)
+
 <a class="btn btn-secondary btn-lg" href="https://www.dropbox.com/sh/fnrz7sqqmrv7v6u/AABLW-XkcGWBvLW4E9YkeQFla?dl=0">Download Title List</a>
 
 ## F﻿unding and Support
