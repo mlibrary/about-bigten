@@ -6,7 +6,9 @@ title: Our Collections
 
 <!--StartFragment-->
 
-The Big Ten Open Books collections offer an insightful journey into crucial themes shaping our world. Exploring gender and sexuality, the evolution of norms, Indigenous North American history, and the experiences of African, Asian, and Hispanic Americans, these collections invite readers to rethink roles, spirituality, migration, and cultural dynamics. They also examine humanity's environmental impact through conservation and sustainability, and address health disparities and diverse abilities, illuminating societal impacts on well-being. Together, they foster thoughtful scholarship and knowledge sharing supported by our collaborating presses and libraries.
+The Big Ten Open Books collections offer an insightful journey into crucial themes shaping our world. Exploring gender and sexuality, the evolution of norms, Indigenous North American history, and the experiences of African, Asian, and Hispanic Americans, these collections invite readers to rethink roles, spirituality, migration, and cultural dynamics. They also examine humanity's environmental impact through conservation and sustainability, address health disparities and diverse abilities, illuminating societal impacts on adversity, inequality, and overall well-being.
+
+Together, these five collections foster thoughtful scholarship and knowledge sharing from the collaboration of the Big Ten Academic Alliance university presses and affiliated libraries.
 
 <!--EndFragment-->
 
@@ -49,5 +51,3 @@ This collection explores humanity's environmental impact through conservation, s
 This collection explores the complexities of gender and sexuality, examining cultural, historical, and social influences that shape identity and expression. Through interdisciplinary and intersectional perspectives, the books explore themes like power dynamics, reproductive rights, body politics, and the evolution of sexual norms. By highlighting personal narratives and societal changes, the collection provides a nuanced understanding of the challenges and triumphs in gender and sexuality. It invites readers to engage with transformative ideas and reimagine traditional roles and relationships.
 
 <!--EndFragment-->
-
-S﻿tart reading today!
