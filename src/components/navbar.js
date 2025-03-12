@@ -59,6 +59,9 @@ const Navbar = () => {
             <Link to="/publishers" className="nav-link text-light">
               Our Publishers
             </Link>
+            <Link to="/collections" className="nav-link text-light">
+              Our Collections
+            </Link>
             <Link to="/librarians" className="nav-link text-light">
               For Librarians
             </Link>            
