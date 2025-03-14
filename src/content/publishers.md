@@ -4,7 +4,7 @@ title: Our Publishers
 ---
 The participating institutions, all members of the Big Ten Academic Alliance, have collaborated to create open access ebook collections of scholarly monographs. 
 
-These presses first collaborated in the Gender and Sexuality Studies Collection (2023), and are collaborating once again.
+
 
 * [Indiana University Press](https://iupress.org/)
 * [Michigan State University Press](https://msupress.org/)
