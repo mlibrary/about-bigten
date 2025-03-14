@@ -6,7 +6,7 @@ title: Our Collections
 
 <!--StartFragment-->
 
-The Big Ten Open Books collections offer an insightful journey into crucial themes shaping our world. Exploring gender and sexuality, the evolution of norms, Indigenous North American history, and the experiences of African, Asian, and Hispanic Americans, these collections invite readers to rethink roles, spirituality, migration, and cultural dynamics. They also examine humanity's environmental impact through conservation and sustainability, address health disparities and diverse abilities, illuminating societal impacts on adversity, inequality, and overall well-being.
+The Big Ten Open Books collections offer an insightful journey into crucial themes shaping our world. Exploring gender and sexuality, the evolution of norms, Indigenous North American history, and the experiences of African, Asian, and Hispanic Americans, these collections invite readers to rethink roles, spirituality, migration, and cultural dynamics. They also examine humanity's environmental impact through conservation and sustainability, address health disparities and different abilities, illuminating societal impacts on adversity, inequality, and overall well-being.
 
 Together, these five collections foster thoughtful scholarship and knowledge sharing from the collaboration of the Big Ten Academic Alliance university presses and affiliated libraries.
 
@@ -26,7 +26,7 @@ This collection explores Indigenous North American history, culture, and literat
 
 <!--StartFragment-->
 
-This collection explores the diverse experiences of African, Asian, and Hispanic American identities through personal journeys and the intricate dynamics of race, politics, and culture. Highlighting narratives of migration and aspiration, these books offer insightful perspectives on identity negotiations and their literary and historical contexts. Engaging with themes of resilience, transformation, and cultural expression, this collection underscores the enduring impact of identity on American society, revealing its influence on artistic, political, and social landscapes across generations. 
+This collection explores the experiences of African, Asian, and Hispanic American identities through personal journeys and the intricate dynamics of race, politics, and culture. Highlighting narratives of migration and aspiration, these books offer insightful perspectives on identity negotiations and their literary and historical contexts. Engaging with themes of resilience, transformation, and cultural expression, this collection underscores the enduring impact of identity on American society, revealing its influence on artistic, political, and social landscapes across generations. 
 
 <!--EndFragment-->
 
