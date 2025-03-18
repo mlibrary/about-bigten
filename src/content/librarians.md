@@ -48,8 +48,6 @@ To create sustainable funding, BTAA has proposed a mixed model, which includes a
 ### Mechanism for Funding Collections 
 
 * Funding Support Collection via External Partner: Big Ten Open Books collections will be marketed and distributed through the University of Michigan’s Publishing Services unit, with funds collected via ﻿[Lyrasis](https://my.lyrasis.org/s/product-details?id=a1BUh000001nx4nMAA). This ensures streamlined administration and communication with institutions.
-
-
 * Transparency: Real-time tracking of secured sponsorship funds will be available online to ensure transparency and encourage broad participation.
 
 **Activation: Collections will be published on a rolling basis as support is secured to open a specific title. Collections will be capped at 100 titles per theme area.**
@@ -125,3 +123,21 @@ BTAA has several agreements to make titles more discoverable and to enable auto-
 </table>
 
 <!--StartFragment-->
+
+<!--EndFragment-->
+
+<!--StartFragment-->
+
+<!--EndFragment-->
+
+<!--StartFragment-->
+
+F﻿or librarian general inquiries and questions, please contact:
+
+<!--StartFragment-->
+
+**Brandi M. Borkosky** *(she/they)*\
+Product Marketing Specialist, Big Ten Open Books\
+[bmbork@umich.edu](mailto:%20bmbork@umich.edu)
+
+<!--EndFragment-->
