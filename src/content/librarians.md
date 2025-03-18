@@ -13,16 +13,19 @@ A﻿s a unique collaboration between the libraries and university presses of the
 
 ***Notice: MARC (.mrc) records for the collection [are now available to download directly here](https://www.dropbox.com/s/6lnl19lfpbdtch3/UofMichigan_BigTenOpenBooks_2.mrc?dl=0). MARC and KBART files for titles in Big Ten Open Books collection are also being delivered to discovery services, listed below, who should be featuring the 2023 BTOB Collection: Gender and Sexuality Studies and will include the four upcoming collections as they are supported and unlocked.***
 
-T﻿he four upcoming collections: 
+E﻿xpected Summer 2025 collections:
 
-* I﻿ndigenous North Americans *(Summer 2025)*
-* A﻿frican-, Asian, and Hispanic Americans (*Fall 2025*)
-* H﻿ealth Disparities and Disability Culture (*Fall 2025*)
-* H﻿uman Environmental Impact (*Fall 2025*)
+* I﻿ndigenous North Americans
 
-P﻿revious collections:
+E﻿xpected Fall 2025 collections:
 
-* G﻿ender and Sexuality Studies (*2023*)
+* A﻿frican-, Asian, and Hispanic Americans
+* H﻿ealth Disparities and Disability Culture
+* H﻿uman Environmental Impact
+
+P﻿ublished collections:
+
+* G﻿ender and Sexuality Studies (2023)
 
 <a class="btn btn-secondary btn-lg" href="https://www.dropbox.com/sh/fnrz7sqqmrv7v6u/AABLW-XkcGWBvLW4E9YkeQFla?dl=0">Download Title List</a>
 
