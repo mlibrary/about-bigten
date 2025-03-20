@@ -12,9 +12,13 @@ Together, these five collections foster thoughtful scholarship and knowledge sha
 
 <!--EndFragment-->
 
-### U﻿pcoming Collections
+### F﻿orthcoming Collections
 
-#### **Indigenous North Americans (Summer 2025)**
+T﻿he four forthcoming collections will be released on a rolling basis starting in Summer or Fall 2025. To learn more about how to support these collections, click [here](https://bigtenopenbooks.org/librarians).
+
+#### **Indigenous North Americans (Indigenous)**
+
+*E﻿xpected Publication: Summer 2025*
 
 *<!--StartFragment-->*
 
@@ -22,7 +26,9 @@ This collection explores Indigenous North American history, culture, and literat
 
 *<!--EndFragment-->*
 
-#### African-, Asian-, and Hispanic American Experiences (Fall 2025)
+#### African-, Asian-, and Hispanic American Experiences (Experiences)
+
+*Expected Publication: Fall 2025*
 
 <!--StartFragment-->
 
@@ -30,11 +36,15 @@ This collection explores the experiences of African, Asian, and Hispanic America
 
 <!--EndFragment-->
 
-#### Health Disparities and Disability Culture (Fall 2025)
+#### Health Disparities and Disability Culture (Health)
+
+*E﻿xpected Publication: Fall 2025*
 
 This collection explores health disparities and intersectional experiences, highlighting different abilities and cultural narratives. Dive into the complexities of chronic illness, global mental health practices, and personal stories for thought-provoking insights. Topics cover reproductive rights, medical advancements, and socio-political aspects of well-being. These works offer a deeper understanding of health challenges and triumphs, showing their intersection with societal perceptions and policies. Engage with this collection to enhance your perspective on human health's intricate cultural and political dimensions.
 
-#### Human Environmental Impact (Fall 2025)
+#### Human Environmental Impact (Environment)
+
+*E﻿xpected Publication: Fall 2025*
 
 <!--StartFragment-->
 
@@ -42,9 +52,11 @@ This collection explores humanity's environmental impact through conservation, s
 
 <!--EndFragment-->
 
-### P﻿revious Collections
+### P﻿ublished Collections:
 
-#### Gender and Sexuality Studies (2023)
+#### Gender and Sexuality Studies (Gender)
+
+*P﻿ublished 2023*
 
 <!--StartFragment-->
 
