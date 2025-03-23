@@ -9,7 +9,7 @@ A﻿s a unique collaboration between the libraries and university presses of the
 * **D﻿iscoverability:** MARC records for the books in Big Ten Open Books collections are prepared by [Backstage Library Works](https://www.bslw.com/history-of-backstage-library-works/)[](https://www.bslw.com/history-of-backstage-library-works/)﻿ and are made available when each collection is launched, along with KBART files, for direct download. Collections are also available for auto-loading via the services listed below. Books in the Big Ten Open Books collections are also distributed via [JSTOR](https://about.jstor.org/librarians/books/open-access-books-jstor/), [Project MUSE](https://muse.jhu.edu/museopen/), and [OAPEN](https://www.oapen.org/). They are indexed in the [Directory of Open Access Books](https://doabooks.org/).
 * **A﻿ccessibility:** All titles in Big Ten Open Books collections have been converted to reflowable EPUB3 files with alt-text and described-by text. The files are produced using a [Benetech Certified Global Accessible](https://bornaccessible.benetech.org/global-certified-accessible/) workflow. The [Fulcrum](https://www.fulcrum.org/) platform that delivers the version of record of the titles meets the latest WCAG 2AA Standards and [reports its compliance with WCAG 2.0 and Section 508 through a regularly updated VPAT.](https://www.fulcrum.org/accessibility/)
 * **D﻿urability:** Without an explicit commitment to digital preservation, it would be impossible for libraries and users to trust the stability of Big Ten Open Books. For this reasons, the titles are not only preserved in the collections of the University of Michigan, but also managed in the distributed frameworks provided by [CLOCKSS](https://clockss.org/) and the [Academic Preservation Trust](https://aptrust.org/).
-* **F﻿lexibility:** True open access requires that titles are not only readable for free, but also reusable in contexts such as open textbooks and text and data mining. While the choice of Creative Commons license is determined by individual publishers after consultation with their authors, the default is a \[CC-BY NC license](https://creativecommons.org/licenses/by-nc/4.0/legalcode). A particular focus of reuse is on teaching, and the BTAA is investing in the [Manifold (University of Minnesota)](https://manifoldapp.org/) and [Humanities Commons (Michigan State University)](https://hcommons.org/) platforms to support creative reuse of the published collections.
+* **F﻿lexibility:** True open access requires that titles are not only readable for free, but also reusable in contexts such as open textbooks and text and data mining. While the choice of Creative Commons license is determined by individual publishers after consultation with their authors, the default is a \[CC-BY NC license](https://creativecommons.org/licenses/by-nc/4.0/legalcode). 
 
 ***Notice: MARC (.mrc) records for the collection [are now available to download directly here](https://www.dropbox.com/s/6lnl19lfpbdtch3/UofMichigan_BigTenOpenBooks_2.mrc?dl=0). MARC and KBART files for titles in Big Ten Open Books collection are also being delivered to discovery services, listed below, who should be featuring the 2023 BTOB Collection: Gender and Sexuality Studies and will include the four upcoming collections as they are supported and unlocked.***
 
@@ -139,7 +139,8 @@ F﻿or librarian general inquiries and questions, please contact:
 
 <!--StartFragment-->
 
-**Brandi M. Borkosky** *(she/they)*\
+**Brandi M. Borkosky** *(she/they)*
+
 Product Marketing Specialist, Big Ten Open Books\
 [bmbork@umich.edu](mailto:%20bmbork@umich.edu)
 
