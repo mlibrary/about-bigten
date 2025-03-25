@@ -18,7 +18,7 @@ T﻿he four forthcoming collections will be released on a rolling basis starting
 
 #### **Indigenous North Americans (Indigenous)**
 
-*E﻿xpected Publication: Summer 2025*
+*Anticipated Publication: Summer 2025*
 
 *<!--StartFragment-->*
 
@@ -28,7 +28,7 @@ This collection explores Indigenous North American history, culture, and literat
 
 #### African-, Asian-, and Hispanic American Experiences (Experiences)
 
-*Expected Publication: Fall 2025*
+*Anticipated Publication: Fall 2025*
 
 <!--StartFragment-->
 
@@ -38,13 +38,13 @@ This collection explores the experiences of African, Asian, and Hispanic America
 
 #### Health Disparities and Disability Culture (Health)
 
-*E﻿xpected Publication: Fall 2025*
+*Anticipated Publication: Fall 2025*
 
 This collection explores health disparities and intersectional experiences, highlighting different abilities and cultural narratives. Dive into the complexities of chronic illness, global mental health practices, and personal stories for thought-provoking insights. Topics cover reproductive rights, medical advancements, and socio-political aspects of well-being. These works offer a deeper understanding of health challenges and triumphs, showing their intersection with societal perceptions and policies. Engage with this collection to enhance your perspective on human health's intricate cultural and political dimensions.
 
 #### Human Environmental Impact (Environment)
 
-*E﻿xpected Publication: Fall 2025*
+*Anticipated Publication: Fall 2025*
 
 <!--StartFragment-->
 
