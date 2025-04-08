@@ -16,13 +16,9 @@ Together, these five collections foster thoughtful scholarship and knowledge sha
 
 * #### Gender and Sexuality Studies (2023)
 
-This collection explores the complexities of gender and sexuality, examining cultural, historical, and social influences that shape identity and expression. Through interdisciplinary and intersectional perspectives, the books explore themes like power dynamics, reproductive rights, body politics, and the evolution of sexual norms. By highlighting personal narratives and societal changes, the collection provides a nuanced understanding of the challenges and triumphs in gender and sexuality. It invites readers to engage with transformative ideas and reimagine traditional roles and relationships.
-
-*<!--EndFragment-->*
+This collection explores the complexities of gender and sexuality, examining cultural, historical, and social influences that shape identity and expression. Through interdisciplinary and intersectional perspectives, the books explore themes like power dynamics, reproductive rights, body politics, and the evolution of sexual norms. By highlighting personal narratives and societal changes, the collection provides a nuanced understanding of the challenges and triumphs in gender and sexuality. It invites readers to engage with transformative ideas and reimagine traditional roles and relationships. *<!--EndFragment-->*
 
 ### E﻿xpected Starting Fall 2025 Collections:
-
-<!--StartFragment-->
 
 The four forthcoming collections will be released on a rolling basis starting in Summer or Fall 2025. To learn more about how to support these collections, click [here](https://bigtenopenbooks.org/librarians).
 
@@ -46,11 +42,7 @@ This collection explores the experiences of African, Asian, and Hispanic America
 
 * #### Health Disparities and Disability Culture (Health)
 
-<!--StartFragment-->
-
 This collection explores health disparities and intersectional experiences, highlighting different abilities and cultural narratives. Dive into the complexities of chronic illness, global mental health practices, and personal stories for thought-provoking insights. Topics cover reproductive rights, medical advancements, and socio-political aspects of well-being. These works offer a deeper understanding of health challenges and triumphs, showing their intersection with societal perceptions and policies. Engage with this collection to enhance your perspective on human health's intricate cultural and political dimensions.
-
-<!--EndFragment-->
 
 * #### Human Environmental Impact (Environment)
 
