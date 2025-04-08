@@ -10,15 +10,23 @@ The Big Ten Open Books collections offer an insightful journey into crucial them
 
 Together, these five collections foster thoughtful scholarship and knowledge sharing from the collaboration of the Big Ten Academic Alliance university presses and affiliated libraries.
 
-<!--EndFragment-->
+### Published Collections
 
-### F﻿orthcoming Collections
+* #### Gender and Sexuality Studies (2023)
 
-T﻿he four forthcoming collections will be released on a rolling basis starting in Summer or Fall 2025. To learn more about how to support these collections, click [here](https://bigtenopenbooks.org/librarians).
+  <!--StartFragment-->
 
-#### **Indigenous North Americans (Indigenous)**
+This collection explores the complexities of gender and sexuality, examining cultural, historical, and social influences that shape identity and expression. Through interdisciplinary and intersectional perspectives, the books explore themes like power dynamics, reproductive rights, body politics, and the evolution of sexual norms. By highlighting personal narratives and societal changes, the collection provides a nuanced understanding of the challenges and triumphs in gender and sexuality. It invites readers to engage with transformative ideas and reimagine traditional roles and relationships.
 
-*Anticipated Publication: Summer 2025*
+* <!--EndFragment-->
+
+### E﻿xpected Starting Fall 2025 Collections:
+
+The four forthcoming collections will be released on a rolling basis starting in Summer or Fall 2025. To learn more about how to support these collections, click [here](https://bigtenopenbooks.org/librarians).
+
+*<!--EndFragment-->*
+
+* #### Indigenous North Americans (Indigenous)
 
 *<!--StartFragment-->*
 
@@ -26,9 +34,7 @@ This collection explores Indigenous North American history, culture, and literat
 
 *<!--EndFragment-->*
 
-#### African-, Asian-, and Hispanic American Experiences (Experiences)
-
-*Anticipated Publication: Fall 2025*
+* #### African-, Asian-, and Hispanic American Experiences (Experiences)
 
 <!--StartFragment-->
 
@@ -36,30 +42,14 @@ This collection explores the experiences of African, Asian, and Hispanic America
 
 <!--EndFragment-->
 
-#### Health Disparities and Disability Culture (Health)
-
-*Anticipated Publication: Fall 2025*
+* #### Health Disparities and Disability Culture (Health)
 
 This collection explores health disparities and intersectional experiences, highlighting different abilities and cultural narratives. Dive into the complexities of chronic illness, global mental health practices, and personal stories for thought-provoking insights. Topics cover reproductive rights, medical advancements, and socio-political aspects of well-being. These works offer a deeper understanding of health challenges and triumphs, showing their intersection with societal perceptions and policies. Engage with this collection to enhance your perspective on human health's intricate cultural and political dimensions.
 
-#### Human Environmental Impact (Environment)
-
-*Anticipated Publication: Fall 2025*
+* #### Human Environmental Impact (Environment)
 
 <!--StartFragment-->
 
 This collection explores humanity's environmental impact through conservation, sustainability, and ecological ethics. It delves into policy and activism, highlighting key legislation and movements worldwide. Analyzing urban sustainability, sustainable agriculture, and genetically engineered crops, these books offer dynamic solutions to environmental challenges. The collection reveals how art, cinema, and literature influence environmental consciousness and advocacy. By integrating traditional knowledge with modern strategies, it inspires renewed engagement with pressing environmental issues and pathways to a sustainable future.
-
-<!--EndFragment-->
-
-### P﻿ublished Collections:
-
-#### Gender and Sexuality Studies (Gender)
-
-*P﻿ublished 2023*
-
-<!--StartFragment-->
-
-This collection explores the complexities of gender and sexuality, examining cultural, historical, and social influences that shape identity and expression. Through interdisciplinary and intersectional perspectives, the books explore themes like power dynamics, reproductive rights, body politics, and the evolution of sexual norms. By highlighting personal narratives and societal changes, the collection provides a nuanced understanding of the challenges and triumphs in gender and sexuality. It invites readers to engage with transformative ideas and reimagine traditional roles and relationships.
 
 <!--EndFragment-->
