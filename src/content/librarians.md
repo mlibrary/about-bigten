@@ -44,8 +44,7 @@ P﻿ublished collections:
 To create sustainable funding, BTAA has proposed a mixed model, which includes an author-affiliation model where institutions contribute based on their scholars’ participation in the collections as well as general support from interested, but institutions without affiliated authors. Specifically:
 
 * Contribution Target: $3,800 per title. This fully funds the creation of an open access version of the book.
-* Institutional Outreach: Libraries at institutions affiliated with authors of works in the collections will be asked to sponsor opening those titles. For example, Syracuse University, with five authors represented, would be asked to support opening those 5 works at a cost of $19,000. Sponsorship will be sought for 120 titles per collection but each collection will be capped at the first 100 books sponsored.
-* General Support: Libraries without affiliated authors will also be invited to support the opening of individual titles. They would be able to either select an unsponsored individual title, or that would be done on their behalf. Consortia can combine funds in increments of $3,800 to open titles.
+* Institutional Outreach: Libraries at institutions affiliated with authors of works in the collections will be asked to sponsor opening those titles. For example, Purdue University, with three authors represented, has supported opening those 3 works at a cost of $10,500. Sponsorship will be sought for 120 titles per collection but each collection will be capped at the first 100 books sponsored.
 
 ### Mechanism for Funding Collections 
 
