@@ -22,6 +22,8 @@ This collection explores the complexities of gender and sexuality, examining cul
 
 ### E﻿xpected Starting Fall 2025 Collections:
 
+<!--StartFragment-->
+
 The four forthcoming collections will be released on a rolling basis starting in Summer or Fall 2025. To learn more about how to support these collections, click [here](https://bigtenopenbooks.org/librarians).
 
 *<!--EndFragment-->*
@@ -44,7 +46,11 @@ This collection explores the experiences of African, Asian, and Hispanic America
 
 * #### Health Disparities and Disability Culture (Health)
 
+<!--StartFragment-->
+
 This collection explores health disparities and intersectional experiences, highlighting different abilities and cultural narratives. Dive into the complexities of chronic illness, global mental health practices, and personal stories for thought-provoking insights. Topics cover reproductive rights, medical advancements, and socio-political aspects of well-being. These works offer a deeper understanding of health challenges and triumphs, showing their intersection with societal perceptions and policies. Engage with this collection to enhance your perspective on human health's intricate cultural and political dimensions.
+
+<!--EndFragment-->
 
 * #### Human Environmental Impact (Environment)
 
