@@ -10,6 +10,8 @@ The Big Ten Open Books collections offer an insightful journey into crucial them
 
 Together, these five collections foster thoughtful scholarship and knowledge sharing from the collaboration of the Big Ten Academic Alliance university presses and affiliated libraries.
 
+*<!--EndFragment-->*
+
 ### Published Collections
 
 * #### Gender and Sexuality Studies (2023)
