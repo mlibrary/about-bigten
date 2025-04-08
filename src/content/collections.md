@@ -14,11 +14,9 @@ Together, these five collections foster thoughtful scholarship and knowledge sha
 
 * #### Gender and Sexuality Studies (2023)
 
-  <!--StartFragment-->
-
 This collection explores the complexities of gender and sexuality, examining cultural, historical, and social influences that shape identity and expression. Through interdisciplinary and intersectional perspectives, the books explore themes like power dynamics, reproductive rights, body politics, and the evolution of sexual norms. By highlighting personal narratives and societal changes, the collection provides a nuanced understanding of the challenges and triumphs in gender and sexuality. It invites readers to engage with transformative ideas and reimagine traditional roles and relationships.
 
-* <!--EndFragment-->
+*<!--EndFragment-->*
 
 ### E﻿xpected Starting Fall 2025 Collections:
 
