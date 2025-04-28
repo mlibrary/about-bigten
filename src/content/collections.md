@@ -20,7 +20,9 @@ This collection explores the complexities of gender and sexuality, examining cul
 
 ### E﻿xpected Starting Fall 2025 Collections:
 
-The four forthcoming collections will be released on a rolling basis starting in Summer or Fall 2025. To learn more about how to support these collections, click [here](https://bigtenopenbooks.org/librarians).
+The four forthcoming collections will be released on a rolling basis starting in Summer or Fall 2025.  To look at the list of titles to be included in these collections, click [here](https://docs.google.com/spreadsheets/d/1ric6_P3u456JbwnXoAD_ias0qLEL7uM2bvOBuBQtY4c/edit?usp=sharing)
+
+To learn more about how to support these collections, click [here](https://bigtenopenbooks.org/librarians).
 
 *<!--EndFragment-->*
 
