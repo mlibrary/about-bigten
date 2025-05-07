@@ -2,20 +2,24 @@
 templateKey: librarians-page
 title: For Librarians
 ---
-## Our Mission
+<ul class="list-unstyled">
+    <li><a href="#mission">Mission</a></li>
+    <li><a href="#funding">Funding and Support</a></li>
+    <li><a href="#sponsorship">Titles Available for Sponsorship</a></li>
+    <li><a href="#implement">Implement the Collections</a></li>
+    <li><a href="#contact">Contact</a></li>
+</ul>
+
+<h2 id="mission">Our Mission</h2>
 
 As a unique collaboration between the libraries and university presses of the Big Ten Academic Alliance, Big Ten Open Books is naturally committed to creating ebook collections, published on a rolling basis, that aspire to the highest standards of discoverability, accessibility, durability, and flexibility. Here is how the collection lives our shared values. 
 
-<!--EndFragment-->
-
-* **Discoverability:** MARC records for the books in Big Ten Open Books collections are prepared by [Backstage Library Works](https://www.bslw.com/history-of-backstage-library-works/)[](https://www.bslw.com/history-of-backstage-library-works/)﻿ and are made available when each collection is launched, along with KBART files, for direct download. Collections are also available for auto-loading via the services listed below. Books in the Big Ten Open Books collections are also distributed via [JSTOR](https://about.jstor.org/librarians/books/open-access-books-jstor/), [Project MUSE](https://muse.jhu.edu/museopen/), and [OAPEN](https://www.oapen.org/). They are indexed in the [Directory of Open Access Books](https://doabooks.org/).
+* **Discoverability:** MARC records for the books in Big Ten Open Books collections are prepared by [Backstage Library Works](https://www.bslw.com/history-of-backstage-library-works/) and are made available when each collection is launched, along with KBART files, for direct download. Collections are also available for auto-loading via the services listed below. Books in the Big Ten Open Books collections are also distributed via [JSTOR](https://about.jstor.org/librarians/books/open-access-books-jstor/), [Project MUSE](https://muse.jhu.edu/museopen/), and [OAPEN](https://www.oapen.org/). They are indexed in the [Directory of Open Access Books](https://doabooks.org/).
 * **Accessibility:** All titles in Big Ten Open Books collections have been converted to reflowable EPUB3 files with alt-text and described-by text. The files are produced using a [Benetech Certified Global Accessible](https://bornaccessible.benetech.org/global-certified-accessible/) workflow. The [Fulcrum](https://www.fulcrum.org/) platform that delivers the version of record of the titles meets the latest WCAG 2AA Standards and [reports its compliance with WCAG 2.0 and Section 508 through a regularly updated VPAT.](https://www.fulcrum.org/accessibility/)
 * **Durability:** Without an explicit commitment to digital preservation, it would be impossible for libraries and users to trust the stability of Big Ten Open Books. For this reasons, the titles are not only preserved in the collections of the University of Michigan, but also managed in the distributed frameworks provided by [CLOCKSS](https://clockss.org/) and the [Academic Preservation Trust](https://aptrust.org/).
 * **Flexibility:** True open access requires that titles are not only readable for free, but also reusable in contexts such as open textbooks and text and data mining. While the choice of Creative Commons license is determined by individual publishers after consultation with their authors, the default is a [CC-BY NC license](https://creativecommons.org/licenses/by-nc/4.0/legalcode). 
 
 ***Notice: MARC (.mrc) records for the collection [are now available to download directly here](https://www.dropbox.com/s/6lnl19lfpbdtch3/UofMichigan_BigTenOpenBooks_2.mrc?dl=0).*** MARC and KBART files for titles in Big Ten Open Books collection are also being delivered to discovery services, listed below, who should be featuring the 2023 BTOB Collection: Gender and Sexuality Studies and will include the four upcoming collections as they are supported and unlocked.
-
-<!--EndFragment-->
 
 Expected Summer 2025 collections:
 
@@ -33,11 +37,8 @@ Published collections:
 
 <a class="btn btn-secondary btn-lg" href="https://www.dropbox.com/sh/fnrz7sqqmrv7v6u/AABLW-XkcGWBvLW4E9YkeQFla?dl=0">Download Title List</a>
 
-<!--EndFragment-->
 
-## Funding and Support
-
-<!--EndFragment-->
+<h2 id="funding">Funding and Support</h2>
 
 ### Funding Model: Author Affiliation + General Support Contributions
 
@@ -48,25 +49,23 @@ To create sustainable funding, BTAA has proposed a mixed model, which includes a
 
 ### Mechanism for Funding Collections 
 
-* Funding Support Collection via External Partner: Big Ten Open Books collections will be marketed and distributed through the University of Michigan’s Publishing Services unit, with funds collected via ﻿[Lyrasis](https://my.lyrasis.org/s/product-details?id=a1BUh000001nx4nMAA). This ensures streamlined administration and communication with institutions.
+* Funding Support Collection via External Partner: Big Ten Open Books collections will be marketed and distributed through the University of Michigan’s Publishing Services unit, with funds collected via [Lyrasis](https://my.lyrasis.org/s/product-details?id=a1BUh000001nx4nMAA). This ensures streamlined administration and communication with institutions.
 * Transparency: Real-time tracking of secured sponsorship funds will be available online to ensure transparency and encourage broad participation.
 
 **Activation: Collections will be published on a rolling basis as support is secured to open a specific title. Collections will be capped at 100 titles per theme area.**
 
-### Titles Available for Sponsorship
+<h2 id="sponsorship">Titles Available for Sponsorship</h2>
+
 The spreadsheet below identifies titles in upcoming collections that are available for sponsor.
 
 <iframe height="800px" width="100%" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQchFDdn0mb_vdiTSR3GwmZay17Rnt3Gw16KZYtpUWs2a-35xJjJhf4hDGcWKo4mJk_DC85tmcaXSGJ/pubhtml?gid=550005235&amp;single=true&amp;widget=false&amp;headers=false&amp;range=A1:K161&amp;chrome=false"></iframe>
-
-
-<!--EndFragment-->
 
 <table class="table table-bordered">
     <!-- <caption><a class="btn btn-secondary btn-lg" href="https://ftp.fulcrum.org/UMPEBC/KBART/">Download KBART files</a></caption> -->
 
  <!-- <caption><a class="btn btn-secondary btn-lg" href="https://ftp.fulcrum.org/UMPEBC/MARC/">Download MARC records</a></caption> -->
 
-## Implement the Collections
+<h2 id="implement">Implement the Collections</h2>
 
 BTAA has several agreements to make titles more discoverable and to enable auto-loading of MARC records. Our agreements allow BTAA titles to be indexed in the following services.
     <thead class="thead-light">
@@ -131,23 +130,10 @@ BTAA has several agreements to make titles more discoverable and to enable auto-
 
 </table>
 
-<!--StartFragment-->
+<h2 id="contact">Contact</h2>
 
-<!--EndFragment-->
+For librarian general inquiries and questions, please contact:
 
-<!--StartFragment-->
-
-<!--EndFragment-->
-
-<!--StartFragment-->
-
-F﻿or librarian general inquiries and questions, please contact:
-
-<!--StartFragment-->
-
-**Brandi M. Borkosky** *(she/they)*
-
-Product Marketing Specialist, Big Ten Open Books\
-[bmbork@umich.edu](mailto:%20bmbork@umich.edu)
-
-<!--EndFragment-->
+**Brandi M. Borkosky** *(she/they)* <br/>
+Product Marketing Specialist, Big Ten Open Books <br/>
+[bmbork@umich.edu](mailto:bmbork@umich.edu)
