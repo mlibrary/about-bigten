@@ -72,7 +72,7 @@ The spreadsheet below identifies titles in upcoming collections that are availab
 
 **R﻿eady to Sponsor?** 
 
-<a class="btn btn-primary" href="/https://my.lyrasis.org/s/product-details?id=a1BUh000001nx4nMAA">Click here.</a>
+<a class="btn btn-primary" href="/https://my.lyrasis.org/s/product-details?id=a1BUh000001nx4nMAA">Click here</a>
 
 .
 
