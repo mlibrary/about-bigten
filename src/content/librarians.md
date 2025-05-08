@@ -14,6 +14,8 @@ title: For Librarians
 
 
 
+
+
 <a class="btn btn-primary" href="/https://my.lyrasis.org/s/product-details?id=a1BUh000001nx4nMAA">Sponsor a Book</a>
 
 <h2 id="mission">Our Mission</h2>
@@ -65,16 +67,18 @@ Titles can be sponsored by individual title name or by general collection. (i.e.
 
 The spreadsheet below identifies titles in upcoming collections that are available for sponsorship.
 
+**R﻿eady to Sponsor?** 
+
+<a class="btn btn-primary" href="/https://my.lyrasis.org/s/product-details?id=a1BUh000001nx4nMAA">Click here</a>
+
+
+
 <iframe height="800px" width="100%" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQchFDdn0mb_vdiTSR3GwmZay17Rnt3Gw16KZYtpUWs2a-35xJjJhf4hDGcWKo4mJk_DC85tmcaXSGJ/pubhtml?gid=550005235&amp;single=true&amp;widget=false&amp;headers=false&amp;range=A1:K161&amp;chrome=false"></iframe>
 
 <table class="table table-bordered">
     <!-- <caption><a class="btn btn-secondary btn-lg" href="https://ftp.fulcrum.org/UMPEBC/KBART/">Download KBART files</a></caption> -->
 
  <!-- <caption><a class="btn btn-secondary btn-lg" href="https://ftp.fulcrum.org/UMPEBC/MARC/">Download MARC records</a></caption> -->
-
-**R﻿eady to Sponsor?** 
-
-<a class="btn btn-primary" href="/https://my.lyrasis.org/s/product-details?id=a1BUh000001nx4nMAA">Click here</a>
 
 BTAA has several agreements to make titles more discoverable and to enable auto-loading of MARC records. Our agreements allow BTAA titles to be indexed in the following services.
     <thead class="thead-light">
