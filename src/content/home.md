@@ -7,8 +7,8 @@ taglineSection:
     trusted books from leading university presses.
 firstCallToActionSection:
   description: Making reading accessible for everyone
-  buttonLabel: Making Reading Accessible
-  buttonUrl: https://bigtenopenbooks.org/stories/2023-05-17-what-does-access-for-everyone-mean-for-big-ten-open-books/
+  buttonLabel: Our Mission
+  buttonUrl: https://bigtenopenbooks.org/librarians#mission
 secondCallToActionSection:
   description: Learn more about how we're doing
   buttonLabel: Visualize Impact
