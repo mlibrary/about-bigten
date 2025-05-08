@@ -11,7 +11,7 @@ title: For Librarians
     <li><a href="#implement">Implement the Collections</a></li>
     <li><a href="#contact">Contact</a></li>
 
-<a class="btn btn-primary" href="/https://docs.google.com/forms/d/e/1FAIpQLSce3SqniMEqisdfv_JpSP3O9g96sAFifmJf2TQixKNgJwEYoQ/viewform">Sponsor a Book</a>
+
 
 ## Our Mission
 
