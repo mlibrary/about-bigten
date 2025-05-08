@@ -12,6 +12,8 @@ title: For Librarians
     <li><a href="#contact">Contact</a></li>
 
 
+<a class="btn btn-primary" href="/https://my.lyrasis.org/s/product-details?id=a1BUh000001nx4nMAA">Sponsor a Book</a>
+
 <h2 id="mission">Our Mission</h2>
 
 As a unique collaboration between the libraries and university presses of the Big Ten Academic Alliance, Big Ten Open Books is naturally committed to creating ebook collections, published on a rolling basis, that aspire to the highest standards of discoverability, accessibility, durability, and flexibility. Here is how the collection lives our shared values. 
