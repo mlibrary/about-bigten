@@ -64,7 +64,7 @@ The spreadsheet below identifies titles in upcoming collections that are availab
 
 **R﻿eady to Sponsor?** 
 
-<p><a class="btn btn-secondary btn-lg mb-3" href="https://forms.gle/Syzt31PM3n3haf628">Sponsor a Book</a></p>
+<p><a class="btn btn-secondary btn-lg mb-3" href="https://forms.gle/Syzt31PM3n3haf628">sponsor a Book</a></p>
 
 <a class="btn btn-primary" href="/https://docs.google.com/forms/d/e/1FAIpQLSce3SqniMEqisdfv_JpSP3O9g96sAFifmJf2TQixKNgJwEYoQ/viewform">Sponsor a Book</a>
 
