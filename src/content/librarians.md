@@ -10,6 +10,8 @@ title: For Librarians
     <li><a href="#contact">Contact</a></li>
 </ul>
 
+<a class="btn btn-primary" href="/https://my.lyrasis.org/s/product-details?id=a1BUh000001nx4nMAA">Ready to Sponsor?</a>
+
 <h2 id="mission">Our Mission</h2>
 
 As a unique collaboration between the libraries and university presses of the Big Ten Academic Alliance, Big Ten Open Books is naturally committed to creating ebook collections, published on a rolling basis, that aspire to the highest standards of discoverability, accessibility, durability, and flexibility. Here is how the collection lives our shared values. 
@@ -36,7 +38,6 @@ Published collections:
 * Gender and Sexuality Studies (2023)
 
 <a class="btn btn-secondary btn-lg" href="https://www.dropbox.com/sh/fnrz7sqqmrv7v6u/AABLW-XkcGWBvLW4E9YkeQFla?dl=0">Download Title List</a>
-
 
 <h2 id="funding">Funding and Support</h2>
 
