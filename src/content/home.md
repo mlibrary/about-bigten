@@ -6,9 +6,9 @@ taglineSection:
   text: Big Ten Open Books. Connecting readers everywhere to fully accessible,
     trusted books from leading university presses.
 firstCallToActionSection:
-  description: Help support forthcoming collections
-  buttonLabel: Sponsor a Book
-  buttonUrl: /librarians#sponsorship
+  description: Accessibility for Everyone
+  buttonLabel: Accessibility Standards
+  buttonUrl: https://bigtenopenbooks.org/stories/2023-05-17-what-does-access-for-everyone-mean-for-big-ten-open-books/
 secondCallToActionSection:
   description: Learn more about how we're doing
   buttonLabel: Visualize Impact
