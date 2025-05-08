@@ -1,6 +1,6 @@
 ---
 templateKey: card
-title: Forthcoming Open Books Collections
+title: Forthcoming Collections
 description: Titles available for sponsorship in our forthcoming 2025-2026 collections.
 buttonLabel: Books Available For Sponsorship
 buttonUrl: https://bigtenopenbooks.org/librarians#sponsorship
