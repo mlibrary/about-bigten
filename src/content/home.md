@@ -6,7 +6,7 @@ taglineSection:
   text: Big Ten Open Books. Connecting readers everywhere to fully accessible,
     trusted books from leading university presses.
 firstCallToActionSection:
-  description: Accessibility for Everyone
+  description: Making BTOB accessible for everyone
   buttonLabel: Accessibility Standards
   buttonUrl: https://bigtenopenbooks.org/stories/2023-05-17-what-does-access-for-everyone-mean-for-big-ten-open-books/
 secondCallToActionSection:
