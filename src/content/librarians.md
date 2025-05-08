@@ -12,6 +12,8 @@ title: For Librarians
     <li><a href="#contact">Contact</a></li>
 
 
+
+
 <a class="btn btn-primary" href="/https://my.lyrasis.org/s/product-details?id=a1BUh000001nx4nMAA">Sponsor a Book</a>
 
 <h2 id="mission">Our Mission</h2>
@@ -73,8 +75,6 @@ The spreadsheet below identifies titles in upcoming collections that are availab
 **R﻿eady to Sponsor?** 
 
 <a class="btn btn-primary" href="/https://my.lyrasis.org/s/product-details?id=a1BUh000001nx4nMAA">Click here</a>
-
-.
 
 BTAA has several agreements to make titles more discoverable and to enable auto-loading of MARC records. Our agreements allow BTAA titles to be indexed in the following services.
     <thead class="thead-light">
