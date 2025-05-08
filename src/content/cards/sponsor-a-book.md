@@ -1,0 +1,10 @@
+---
+templateKey: card
+title: Sponsor a Book
+description: Have a look at the titles available for sponsorship in our
+  forthcoming 2025-2026 collections.
+buttonLabel: Sponsor a Book
+buttonUrl: https://bigtenopenbooks.org/librarians#sponsorship
+cardImage: assets/library-round.jpg
+date: 2025-05-08T15:43:57.187Z
+---
