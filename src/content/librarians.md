@@ -11,8 +11,6 @@ title: For Librarians
     <li><a href="#implement">Implement the Collections</a></li>
     <li><a href="#contact">Contact</a></li>
 
-
-
 ## Our Mission
 
 As a unique collaboration between the libraries and university presses of the Big Ten Academic Alliance, Big Ten Open Books is naturally committed to creating ebook collections, published on a rolling basis, that aspire to the highest standards of discoverability, accessibility, durability, and flexibility. Here is how the collection lives our shared values. 
@@ -28,15 +26,21 @@ Expected Summer 2025 collections:
 
 * Indigenous North Americans
 
+
+
 Expected Fall 2025 collections:
 
 * African-, Asian, and Hispanic Americans
 * Health Disparities and Disability Culture
 * Human Environmental Impact
 
+
+
 Published collections:
 
 * Gender and Sexuality Studies (2023)
+
+
 
 <a class="btn btn-secondary btn-lg" href="https://www.dropbox.com/sh/fnrz7sqqmrv7v6u/AABLW-XkcGWBvLW4E9YkeQFla?dl=0">Download Title List</a>
 
@@ -65,8 +69,6 @@ The spreadsheet below identifies titles in upcoming collections that are availab
 **R﻿eady to Sponsor?** 
 
 <p><a class="btn btn-secondary btn-lg mb-3" href="https://forms.gle/Syzt31PM3n3haf628">Sponsor a Book</a></p>
-
-
 
 <iframe height="800px" width="100%" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQchFDdn0mb_vdiTSR3GwmZay17Rnt3Gw16KZYtpUWs2a-35xJjJhf4hDGcWKo4mJk_DC85tmcaXSGJ/pubhtml?gid=550005235&amp;single=true&amp;widget=false&amp;headers=false&amp;range=A1:K161&amp;chrome=false"></iframe>
 
