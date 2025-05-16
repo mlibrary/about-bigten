@@ -26,21 +26,15 @@ Expected Summer 2025 collections:
 
 * Indigenous North Americans
 
-
-
 Expected Fall 2025 collections:
 
 * African-, Asian, and Hispanic Americans
 * Health Disparities and Disability Culture
 * Human Environmental Impact
 
-
-
 Published collections:
 
 * Gender and Sexuality Studies (2023)
-
-
 
 <a class="btn btn-secondary btn-lg" href="https://www.dropbox.com/sh/fnrz7sqqmrv7v6u/AABLW-XkcGWBvLW4E9YkeQFla?dl=0">Download Title List</a>
 
@@ -64,7 +58,7 @@ To create sustainable funding, BTAA has proposed a mixed model, which includes a
 
 Titles can be sponsored by individual title name or by general collection. (i.e. Environment, Experiences, Health).
 
-The spreadsheet below identifies titles in upcoming collections that are available for sponsorship.
+[The spreadsheet below](https://docs.google.com/spreadsheets/d/1ric6_P3u456JbwnXoAD_ias0qLEL7uM2bvOBuBQtY4c/edit?usp=sharing) identifies titles in upcoming collections that are available for sponsorship.
 
 **R﻿eady to Sponsor?** 
 
