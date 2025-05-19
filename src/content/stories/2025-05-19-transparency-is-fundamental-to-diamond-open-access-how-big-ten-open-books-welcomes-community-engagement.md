@@ -32,8 +32,6 @@ Leadership of the program is supported in-kind by both the University of Michiga
 
 The four forthcoming collections, each containing 100 titles, were written by faculty from over 100 institutions across the country. The collection themes are Indigenous North Americans,  Health Disparities and Disabilities, African-, Asian- and Hispanic American Experiences, and Human Environmental Impact. To learn more about the financial model and the sponsorship program please visit [BigTenOpenBooks.org/librarians](http://bigtenopenbooks.org/librarians).
 
-Author: Kate McCready
-
-Email: [kate.mccready@btaa.org](mailto:kate.mccready@btaa.org)
+Author: Kate McCready, [kate.mccready@btaa.org](mailto:kate.mccready@btaa.org)
 
 <!--EndFragment-->
