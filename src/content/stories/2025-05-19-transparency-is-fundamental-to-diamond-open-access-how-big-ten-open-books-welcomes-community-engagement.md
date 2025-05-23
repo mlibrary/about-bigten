@@ -3,7 +3,7 @@ templateKey: story
 title: How much does a Big Ten Open Book cost?
 summary: When supporting open access initiatives, libraries should expect full
   transparency on how their contributions are being spent.
-storyImage: assets/aditya-sethia-so8yaykcb0w-unsplash.jpg
+storyImage: assets/alexander-mils-lcphgxs7pww-unsplash.jpg
 date: 2025-05-19T18:02:22.444Z
 ---
 <!--StartFragment-->
