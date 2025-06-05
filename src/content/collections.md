@@ -14,7 +14,7 @@ Together, these five collections foster thoughtful scholarship and knowledge sha
 
 ### Published Collections
 
-![](assets/big-ten-open-books-collection-introduction-headers-600-x-300-px-5-.png "Gender and Sexuality Studies - 2023")
+![](assets/big-ten-open-books-collection-introduction-headers-600-x-300-px-6-.png "Gender and Sexuality Studies - 2023")
 
 * #### [Gender and Sexuality Studies](https://www.fulcrum.org/bigten) (2023)
 
