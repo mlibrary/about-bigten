@@ -14,7 +14,7 @@ Together, these five collections foster thoughtful scholarship and knowledge sha
 
 ### Published Collections
 
-![](assets/big-ten-open-books-collection-introduction-headers-600-x-300-px-3-.png "Gender and Sexuality Studies - 2023")
+![](assets/big-ten-open-books-collection-introduction-headers-600-x-300-px-5-.png "Gender and Sexuality Studies - 2023")
 
 * #### [Gender and Sexuality Studies](https://www.fulcrum.org/bigten) (2023)
 
@@ -35,8 +35,6 @@ This collection explores Indigenous North American history, culture, and literat
 The forthcoming collections will be released on a rolling basis starting in Fall 2025. To look at the list of titles to be included in these collections, click [here](https://docs.google.com/spreadsheets/d/1ric6_P3u456JbwnXoAD_ias0qLEL7uM2bvOBuBQtY4c/edit?usp=sharing)
 
 To learn more about how to support these collections, click [here](https://bigtenopenbooks.org/librarians).
-
-
 
 * #### African-, Asian-, and Hispanic American Experiences (Experiences)
 
