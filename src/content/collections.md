@@ -36,7 +36,7 @@ The forthcoming collections will be released on a rolling basis starting in Fall
 
 To learn more about how to support these collections, click [here](https://bigtenopenbooks.org/librarians).
 
-*<!--EndFragment--*
+
 
 * #### African-, Asian-, and Hispanic American Experiences (Experiences)
 
