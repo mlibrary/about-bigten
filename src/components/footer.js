@@ -51,6 +51,7 @@ const Footer = () => {
                 <li><a className="text-light" href="https://fulcrum.org/bigten">Browse and Search</a></li>
                 <li><Link className="text-light" to="/about">About</Link></li>
                 <li><Link className="text-light" to="/publishers">Our Publishers</Link></li>
+                <li><Link className="text-light" to="/collections">Our Collections</Link></li>
                 <li><Link className="text-light" to="/librarians">For Librarians</Link></li>
                 <li><Link className="text-light" to="/impact">Impact and Usage</Link></li>
               </ul>

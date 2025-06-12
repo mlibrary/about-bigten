@@ -9,8 +9,9 @@ import Footer from "./footer"
 const Layout = ({ children }) => {
   return (
     <div>
+      <a className="sr-only sr-only-focusable text-dark" href="#content">Skip to main content</a>
       <Navbar />
-      <main className="page-container">
+      <main id="content" className="page-container">
         {children}
       </main>
       <Footer />

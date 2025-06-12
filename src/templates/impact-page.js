@@ -37,7 +37,7 @@ const Impact = ({data}) => {
             <div className="row">
               <div className="tagline col-md-12 text-center">
                 <span className="text-white">Did Big Ten Open Books impact you?</span>
-                <a className="btn btn-lg btn-secondary" href="https://fulcrum.org/bigten" target="_blank">Find a book and tell us about it</a>
+                <a className="btn btn-lg btn-secondary" href="https://fulcrum.org/bigten">Find a book and tell us about it</a>
               </div>
             </div>
           </div>
@@ -45,7 +45,7 @@ const Impact = ({data}) => {
         <section>
           <div className="google-data-studio-oa container">
             <h2 id="oa-book-usage">Book Usage</h2>
-            <p>This report is created by the <a href="https://openknowledge.community/projects/bad-project/" target="_blank" rel="noreferrer">Book Analytics Dashboard project</a> and represents usage across a number of different platforms. For more information or if you are encountering display issues, see the information panel within the dashboard or contact fulcrum-info@umich.edu.</p>
+            <p>This report is created by the <a href="https://openknowledge.community/projects/bad-project/" rel="noreferrer">Book Analytics Dashboard project</a> and represents usage across a number of different platforms. For more information or if you are encountering display issues, see the information panel within the dashboard or contact fulcrum-info@umich.edu.</p>
             <div className="embed-responsive embed-responsive-1by1">
 	            <iframe title="Big Ten Open Books Usage" className="embed-responsive-item bad-dashboard" src="https://lookerstudio.google.com/embed/reporting/37e8eae6-0d75-4cf3-b843-988bc3d99eb6/page/imr4C" allowfullscreen></iframe>
             </div>
