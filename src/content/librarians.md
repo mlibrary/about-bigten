@@ -111,7 +111,7 @@ BTAA has several agreements to make titles more discoverable and to enable auto-
 
 </table>
 
-**I﻿mplementing the Collection**
+**I﻿mplementing the Collections**
 
 As a unique collaboration between the libraries and university presses of the Big Ten Academic Alliance, Big Ten Open Books is naturally committed to creating ebook collections, published on a rolling basis, that aspire to the highest standards of discoverability, accessibility, durability, and flexibility. Here is how the collection lives our shared values. 
 
