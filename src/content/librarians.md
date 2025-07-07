@@ -111,11 +111,7 @@ BTAA has several agreements to make titles more discoverable and to enable auto-
 
 </table>
 
-
-
 **I﻿mplementing the Collection**
-
-
 
 As a unique collaboration between the libraries and university presses of the Big Ten Academic Alliance, Big Ten Open Books is naturally committed to creating ebook collections, published on a rolling basis, that aspire to the highest standards of discoverability, accessibility, durability, and flexibility. Here is how the collection lives our shared values. 
 
@@ -126,7 +122,7 @@ As a unique collaboration between the libraries and university presses of the Bi
 
 ***Notice: MARC (.mrc) records for the collection [are now available to download directly here](https://ftp.fulcrum.org/bigten/).*** MARC and KBART files for titles in Big Ten Open Books collection are also being delivered to discovery services, listed below, who should be featuring the 2023 BTOB Collection: Gender and Sexuality Studies and will include the four upcoming collections as they are supported and unlocked.
 
-<a class="btn btn-secondary btn-lg" href="https://www.dropbox.com/sh/fnrz7sqqmrv7v6u/AABLW-XkcGWBvLW4E9YkeQFla?dl=0">Download Title List</a>
+<a class="btn btn-secondary btn-lg" href="https://www.dropbox.com/sh/fnrz7sqqmrv7v6u/AABLW-XkcGWBvLW4E9YkeQFla?dl=0">Download Collection Title Lists</a>
 
 <h2 id="contact">Contact</h2>
 
