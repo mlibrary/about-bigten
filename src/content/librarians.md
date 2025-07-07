@@ -7,7 +7,7 @@ title: For Librarians
     <li><a href="#funding">Funding and Support</a></li>
     <li><a href="#sponsorship">Titles Available for Sponsorship</a></li>
 
-   <li><a href="#sponsorship">Sponsor a Book</a></li>
+\    <li><a href="#sponsorship">Sponsor a Book</a></li>
     <li><a href="#implement">Implement the Collections</a></li>
     <li><a href="#contact">Contact</a></li>
 
