@@ -5,9 +5,11 @@ title: For Librarians
 <ul class="list-unstyled">
     <li><a href="#mission">Mission</a></li>
     <li><a href="#funding">Funding and Support</a></li>
-    <li><a href="#sponsorship">Titles Available for Sponsorship</a></li>     <li><a href="#sponsorship">Sponsor a Book</a></li>
+    <li><a href="#sponsorship">Titles Available for Sponsorship</a></li>     
+
+   <li><a href="#sponsorship">Sponsor a Book</a></li>
     <li><a href="#implement">Implement the Collections</a></li>
-    <li><a href="#contact">Contact</a></li>
+    <li><a href="#contact">Contact</a></li> 
 
 ## Our Mission
 
