@@ -28,6 +28,8 @@ This collection explores the complexities of gender and sexuality, examining cul
 
 This collection explores Indigenous North American history, culture, and literature, from the 15th century to today. It examines historical encounters, the interplay between Native spirituality and culture, colonial religion, and land dispossession. Key events such as the evolution of Indigenous law, diplomacy, and education are examined. The voices of Indigenous poets and authors illuminate literary traditions, while themes of resistance and adaptation are showcased through treaty negotiations and verbal arts, capturing enduring contributions to North American history.
 
+Please note: The books in this collection were published a number of years ago. They may include outdated representations of Indigenous culture and society.
+
 *<!--EndFragment-->*
 
 ### E﻿xpected Starting Fall 2025 Collections:
