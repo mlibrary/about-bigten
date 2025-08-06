@@ -1,11 +1,10 @@
 ---
 templateKey: story
-title: Big Ten Open Books Presents New 'Indigenous First Americans' Collection
-summary: The Indigenous North Americans collection explores the history,
-  culture, religion, and resilience of Indigenous populations from the 15th
-  century to present day. Events of Indigenous diplomacy, evolution, education,
-  and contributions to North American history are highlighted in this
-  collection.
+title: Big Ten Open Books presents new 'Indigenous First Americans' Collection
+summary: To inform public understanding of Indigenous and native individuals,
+  and particularly their diverse identities and experiences, a collection of 100
+  high quality books from seven BTAA presses is the newest Big Ten Open Books
+  collection, launched in 2025.
 storyImage: assets/indigenous-north-american.jpg
 date: 2025-08-06T13:49:52.066Z
 ---
