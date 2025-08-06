@@ -6,7 +6,7 @@ summary: The Indigenous North Americans collection explores the history,
   century to present day. Events of Indigenous diplomacy, evolution, education,
   and contributions to North American history are highlighted in this
   collection.
-storyImage: assets/big-ten-open-books-collection-introduction-headers-600-x-300-px-1-.png
+storyImage: assets/indigenous-north-american.jpg
 date: 2025-08-06T13:49:52.066Z
 ---
 In partnership with seven Big Ten-affiliated university presses, the Big Ten Academic Alliance's Center for Library Programs announces the expansion of the Big Ten Open Books project with the publication of the second 100-book collection.
