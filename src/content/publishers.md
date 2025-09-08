@@ -16,7 +16,7 @@ The participating institutions, all members of the Big Ten Academic Alliance, ha
 * [University of Nebraska Press](https://www.nebraskapress.unl.edu/)
 * [University of Wisconsin Press](https://uwpress.wisc.edu/)
 
-The works in Big Ten Open Books collection have all been previously published by these presses and have undergone a rigorous selection and quality certification process that allows readers and users of this collection to trust the veracity of the content made available. The exact details of the process depend on the type of book, but usually involve the following steps.
+The works in Big Ten Open Books collections have all been previously published by these presses and have undergone a rigorous selection and quality certification process that allows readers and users of this collection to trust the veracity of the content made available. The exact details of the process depend on the type of book, but usually involve the following steps.
 
 1. A﻿n acquisitions editor identifies a high-quality, interesting project and works with the author to prepare their manuscript for consideration. They work with other experts, such as fellow acquisition editors and series editors - scholars with expertise in the field.
 2. Once the manuscript is ready for outside eyes, it is sent to external experts in the subject matter who conduct a peer review process. They receive honoraria in return for detailed reviews - often several pages long. The reviewers either do or do not know the author's identity, but the author never knows the reviewers' identity unless they opt to waive their anonymity. The presses follow the Association of University Presses ["Best Practices for Peer Review﻿."](https://peerreview.up.hcommons.org/)
