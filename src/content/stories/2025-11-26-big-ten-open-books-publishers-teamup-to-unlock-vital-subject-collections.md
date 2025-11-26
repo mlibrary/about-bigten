@@ -1,9 +1,10 @@
 ---
 templateKey: story
 title: "Big Ten Open Books Publishers #TeamUP to Unlock Vital Subject Collections"
-summary: The Big Ten Open Book project is dedicated to promoting open
-  scholarship through the development of open book collections of curated
-  scholarly monographs published by university presses.
+summary: Collaborative work is the heart of university presses. Authors and
+  publishing professionals work together to advance knowledge, joining with a
+  vast network of reviewers, booksellers, freelancers, translators, librarians,
+  teachers, and students in the essential project of understanding the world.
 storyImage: assets/pykb6a1c.jpeg
 date: 2025-11-26T19:18:32.560Z
 ---
