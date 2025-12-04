@@ -14,13 +14,13 @@ Together, these five collections foster thoughtful scholarship and knowledge sha
 
 ### Published Collections
 
-* #### [Gender and Sexuality Studies](https://www.fulcrum.org/bigten?f%5Bseries_sim%5D%5B%5D=Gender+and+Sexuality+Studies&locale=en) (2023)
+* #### [Gender and Sexuality Studies](https://www.fulcrum.org/bigten?f%5Bcollection_sim%5D%5B%5D=Gender+and+Sexuality+Studies&locale=en) (2023)
 
 This collection explores the complexities of gender and sexuality, examining cultural, historical, and social influences that shape identity and expression. Through interdisciplinary and intersectional perspectives, the books explore themes like power dynamics, reproductive rights, body politics, and the evolution of sexual norms. By highlighting personal narratives and societal changes, the collection provides a nuanced understanding of the challenges and triumphs in gender and sexuality. It invites readers to engage with transformative ideas and reimagine traditional roles and relationships. 
 
 *<!--EndFragment-->*
 
-* #### [﻿Indigenous North Americans ](https://www.fulcrum.org/bigten?f%5Bseries_sim%5D%5B%5D=Indigenous+North+Americans&locale=en) (2025)
+* #### [﻿Indigenous North Americans ](https://www.fulcrum.org/bigten?f%5Bcollection_sim%5D%5B%5D=Indigenous+North+Americans&locale=en) (2025)
 
 This collection explores Indigenous North American history, culture, and literature, from the 15th century to today. It examines historical encounters, the interplay between Native spirituality and culture, colonial religion, and land dispossession. Key events such as the evolution of Indigenous law, diplomacy, and education are examined. The voices of Indigenous poets and authors illuminate literary traditions, while themes of resistance and adaptation are showcased through treaty negotiations and verbal arts, capturing enduring contributions to North American history.
 
