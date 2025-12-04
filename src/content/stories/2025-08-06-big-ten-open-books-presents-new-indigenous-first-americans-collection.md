@@ -20,4 +20,4 @@ The Big Ten Open Books projects has established a distinctive model for unified,
 
 This work is aligned with the Big Ten Academic Alliance's vision for the BIG collection, which seeks to unite the collections of the libraries of the Big Ten Academic Alliance into one collection, shared and fully networked. 
 
-[Start reading in the collection today.](https://www.fulcrum.org/bigten?f%5Bseries_sim%5D%5B%5D=Indigenous+North+Americans&locale=en)
+[Start reading in the collection today.](https://www.fulcrum.org/bigten?f%5Bcollection_sim%5D%5B%5D=Indigenous+North+Americans&locale=en)
