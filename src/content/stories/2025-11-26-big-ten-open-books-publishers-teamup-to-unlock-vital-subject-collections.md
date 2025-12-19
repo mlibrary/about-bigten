@@ -20,7 +20,7 @@ The [Gender and Sexuality Studies](https://www.fulcrum.org/bigten?f%5Bcollection
 
 This involved extensive collaboration between the presses, the libraries, and the Michigan Publishing staff (the collections are hosted on Michigan Publishing’s [Fulcrum platform](https://www.fulcrum.org/bigten?locale=en)). Rights and permissions needed to be cleared, library sponsorship was secured, contracts were negotiated, book data was gathered and enhanced, and then finally the ebook files were created using a [Benetech Certified Global Accessible](https://bornaccessible.benetech.org/global-certified-accessible/) workflow to meet WCAG 2AA standards. It was crucial to #TeamUP and share the work required to make these vital subject area collections accessible to today’s readers.
 
-### Participating Presses
+## Participating Presses
 
 * [University of Illinois Press](https://www.press.uillinois.edu/)
 * [Indiana University Press](https://iupress.org/)
@@ -33,7 +33,7 @@ This involved extensive collaboration between the presses, the libraries, and th
 * [Purdue University Press](https://www.press.purdue.edu/)
 * [University of Wisconsin Press](https://www.uwpress.org/)
 
-### Supporting Statements
+## Supporting Statements
 
 When asked about the benefit of teaming up and creating a sustainable platform for open scholarship, directors from participating university presses had a lot of great things to say.
 
@@ -57,7 +57,7 @@ When asked about the benefit of teaming up and creating a sustainable platform f
 
 * Charles Watkinson, Director, University of Michigan Press
 
-### Big Ten Open Books Collections
+## Big Ten Open Books Collections
 
 Two subject area collections have now been published, one in 2023 on [Gender and Sexuality Studies](https://www.fulcrum.org/bigten?f%5Bcollection_sim%5D%5B%5D=Gender+and+Sexuality+Studies&locale=en), and one in 2025 on [Indigenous North Americans](https://www.fulcrum.org/bigten?f[collection_sim][]=Indigenous+North+Americans&locale=en). Each collection includes 100 Open Access books. Since the launch, [these titles have been accessed over one million times](https://bigtenopenbooks.org/impact), and have reached readers in 220 different countries and territories worldwide. Three more collections are on the way, in the subject areas of African-, Asian-, and Hispanic-American Experiences, Health Disparities and Disability Culture, and Human Environmental Impact. 
 
