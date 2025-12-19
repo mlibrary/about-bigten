@@ -31,7 +31,7 @@ To create sustainable funding, BTAA has proposed a mixed model, which includes a
 
 **Activation: Collections will be published on a rolling basis as support is secured to open a specific title. Collections will be capped at 100 titles per theme area.**
 
-<iframe id="kaltura_player" src='https://cdnapisec.kaltura.com/p/1038472/embedPlaykitJs/uiconf_id/54883762?iframeembed=true&amp;entry_id=1_mu3q49w2&amp;config%5Bprovider%5D=%7B%22widgetId%22%3A%221_vkxjfl6o%22%7D&amp;config%5Bplayback%5D=%7B%22startTime%22%3A0%7D'  style="width: 640px;height: 360px;border: 0;" allowfullscreen webkitallowfullscreen mozAllowFullScreen allow="autoplay \\\*; fullscreen \\\*; encrypted-media *" sandbox="allow-downloads allow-forms allow-same-origin allow-scripts allow-top-navigation allow-pointer-lock allow-popups allow-modals allow-orientation-lock allow-popups-to-escape-sandbox allow-presentation allow-top-navigation-by-user-activation" title="Big Ten Open Books"></iframe>
+<iframe id="kaltura_player" src='https://cdnapisec.kaltura.com/p/1038472/embedPlaykitJs/uiconf_id/54883762?iframeembed=true&amp;entry_id=1_mu3q49w2&amp;config%5Bprovider%5D=%7B%22widgetId%22%3A%221_vkxjfl6o%22%7D&amp;config%5Bplayback%5D=%7B%22startTime%22%3A0%7D'  style="width: 640px;height: 360px;border: 0;" allowfullscreen webkitallowfullscreen mozAllowFullScreen allow="autoplay \\\\*; fullscreen \\\\*; encrypted-media *" sandbox="allow-downloads allow-forms allow-same-origin allow-scripts allow-top-navigation allow-pointer-lock allow-popups allow-modals allow-orientation-lock allow-popups-to-escape-sandbox allow-presentation allow-top-navigation-by-user-activation" title="Big Ten Open Books"></iframe>
 
 <h2 id="sponsorship">Titles Available for Sponsorship</h2>
 
@@ -43,7 +43,7 @@ Titles can be sponsored by individual title name or by general collection. (i.e.
 
 <p><a class="btn btn-secondary btn-lg mb-3" href="https://forms.gle/Syzt31PM3n3haf628">Sponsor a Book</a></p>
 
-<iframe height="800px" width="100%" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQchFDdn0mb_vdiTSR3GwmZay17Rnt3Gw16KZYtpUWs2a-35xJjJhf4hDGcWKo4mJk_DC85tmcaXSGJ/pubhtml?gid=550005235&amp;single=true&amp;widget=false&amp;headers=false&amp;range=A1:K266&amp;chrome=false"></iframe>
+<iframe title="List of Big Ten Open Books titles available for sponsorship" height="800px" width="100%" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQchFDdn0mb_vdiTSR3GwmZay17Rnt3Gw16KZYtpUWs2a-35xJjJhf4hDGcWKo4mJk_DC85tmcaXSGJ/pubhtml?gid=550005235&amp;single=true&amp;widget=false&amp;headers=false&amp;range=A1:K266&amp;chrome=false"></iframe>
 
 <table class="table table-bordered">
     <!-- <caption><a class="btn btn-secondary btn-lg" href="https://ftp.fulcrum.org/UMPEBC/KBART/">Download KBART files</a></caption> -->
