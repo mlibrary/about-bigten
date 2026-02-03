@@ -23,11 +23,10 @@ const Impact = ({data}) => {
     <Layout>
       <SEO title={title} />
       <div className="impact">
-        
         <section className="cards-container container">
         <Title title={title} />
+        <p className="lead">Explore stories and book usage data and learn about the impact of the Big Ten Open Books project.</p>
           <h2 id="stories" className="mb-4">Making an Impact</h2>
-          <p>Explore stories and book usage data to learn about the impact of the Big Ten Open Books project.</p>
           <StoryList stories={stories} />
           <Link to="/stories" className="btn btn-secondary mt-4 float-right">
               Read More Stories
