@@ -22,9 +22,9 @@ Please note: The books in this collection were published a number of years ago. 
 
 *<!--EndFragment-->*
 
-## E﻿xpected Starting Fall 2025 Collections:
+## Collections Under Development:
 
-The forthcoming collections will be released on a rolling basis starting in Fall 2025. [View the list of titles to be included in these collections](https://docs.google.com/spreadsheets/d/1ric6_P3u456JbwnXoAD_ias0qLEL7uM2bvOBuBQtY4c/edit?usp=sharing).
+These collections are being released on a rolling basis starting in 2026. [View the list of titles to be included in these collections](https://docs.google.com/spreadsheets/d/1ric6_P3u456JbwnXoAD_ias0qLEL7uM2bvOBuBQtY4c/edit?usp=sharing).
 
 Learn more about [how to support these collections](https://bigtenopenbooks.org/librarians).
 
