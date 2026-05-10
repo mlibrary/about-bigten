@@ -11,7 +11,7 @@ summary: Thanks to U-M Rackham Graduate School doctoral intern Yuru Chen, we
 storyImage: assets/image_432a2bad.png
 date: 2026-05-10T22:22:52.828Z
 ---
-The data refinement strategy executed by Yuru Chen utilized data science and machine learning to transform messy bibliographic records into a strategic roadmap for future collections. It consisted of five main steps.
+The data refinement strategy executed by [biomedical engineering PhD candidate Yuru Chen](linkedin.com/in/yuruc) utilized data science and machine learning to transform messy bibliographic records into a strategic roadmap for future collections. It consisted of five main steps.
 
 * **Multidimensional Deduplication:** Before new subjects could be identified, the data required rigorous cleaning. The workflow analyzed 144 different types of identifiers, including title, author, ISBN, OCLC, and LCCN, using fuzzy matching logic to identify unique works. By applying thresholds for title similarity (>0.95) and author similarity (>0.86), the project condensed the massive dataset into a clean list of approximately 36,000 unique records.
 * **Filling the Metadata Gaps with LLMs:** Approximately 6.3% of the records (over 2,300 titles) were missing both LC and Dewey call numbers. The project integrated a Large Language Model to analyze these titles and descriptions, assigning them to appropriate standardized subject classifications and call number categories. This ensured that recent or under-cataloged works were not excluded from discovery.
