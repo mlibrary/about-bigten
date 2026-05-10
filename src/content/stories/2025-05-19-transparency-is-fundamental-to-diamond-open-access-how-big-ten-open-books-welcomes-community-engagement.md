@@ -2,8 +2,13 @@
 templateKey: story
 title: How much does a Big Ten Open Book cost to make available?
 summary: When supporting open access initiatives, libraries should expect full
-  transparency on how their contributions are being spent.
-storyImage: assets/alexander-mils-lcphgxs7pww-unsplash.jpg
+  transparency on how their contributions are being spent. Developed in
+  collaboration between librarians and university presses, Big Ten Open Books is
+  committed to such transparency. Big Ten Open Books creates thematic
+  collections of scholarly monographs previously published by Big Ten-affiliated
+  university presses. BTAA is the nation’s preeminent model for effective
+  collaboration among research universities.
+storyImage: assets/image_f83258d8.png
 date: 2026-05-10T22:34:14.944Z
 ---
 Developed in collaboration between librarians and university presses, Big Ten Open Books is committed to transparency. Big Ten Open Books creates thematic collections of scholarly monographs previously published by Big Ten-affiliated university presses. [The Big Ten Academic Alliance](https://btaa.org/about) is the nation’s preeminent model for effective collaboration among research universities.  
