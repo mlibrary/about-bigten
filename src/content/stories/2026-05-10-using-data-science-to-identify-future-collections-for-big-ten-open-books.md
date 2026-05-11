@@ -1,13 +1,13 @@
 ---
 templateKey: story
 title: Using Data Science to Identify Future Collections for Big Ten Open Books
-summary: Thanks to U-M Rackham Graduate School doctoral intern Yuru Chen, we
-  have applied a data science and machine learning workflow to sort over 500,000
-  book records exported from Big Ten libraries to identify in-demand subject
-  areas for future Big Ten Open Books collections. These topic areas are timely
-  and have a "critical mass" of at least 500 candidate titles each. Contributing
-  Big Ten presses will identify 100 titles in each subject collection that can
-  find a new audience through open access.
+summary: Thanks to University of Michigan Rackham Graduate School doctoral
+  intern Yuru Chen, we have applied a data science and machine learning workflow
+  to sort over 500,000 book records exported from Big Ten libraries to identify
+  in-demand subject areas for future Big Ten Open Books collections. These topic
+  areas are timely and have a "critical mass" of at least 500 candidate titles
+  each. Contributing Big Ten presses will identify 100 titles in each subject
+  collection that can find a new audience through open access.
 storyImage: assets/image_432a2bad.png
 date: 2026-05-10T22:22:52.828Z
 ---
@@ -19,9 +19,9 @@ The data refinement strategy executed by [biomedical engineering PhD candidate Y
 * **Semantic Discovery via Embedding Systems:** To move beyond simple keyword matching, the project implemented an embedding system. This AI technique maps the semantic meaning of words, allowing the system to recognize that a book about "carbon footprint", "renewable energy", or “sustainability” belongs in the "Environment" collection even when those exact theme keywords aren't in the metadata.
 * **Author_Iden.** To further enrich these collections with scholarly context, a specialized software tool was developed to harvest missing author metadata and institutional affiliations from multiple sources including library authority records, ORCID, and institutional repositories. This tool identifies author names, resolves institutional affiliations across multiple variants and historical changes, and creates linked authority records (ISNI/VIAF) where available. This ensures that the scholars behind these works are properly recognized.
 
-This automated workflow fundamentally changed the scale of BTOB’s collection building. The discovery process shifted from identifying individual books to mapping 74 new thematic areas, each containing nearly 500 candidate titles. The top 14 of these will now be presented to the participating Big Ten university presses for their final title selection.
+This automated workflow fundamentally changed the scale of BTOB’s collection building. The discovery process shifted from identifying individual books to mapping 74 new thematic areas, each containing nearly 500 candidate titles that will be whittled down to 100 for each final collection. The top 14 of these will now be presented to the participating Big Ten university presses for their final title selection.
 
-The data-driven analysis also refined and expanded the three upcoming collections:
+The data-driven analysis also refined and expanded the "candidate list" for the three upcoming collections. While each final collection will only feature 100 curated titles, we now have more to choose from:
 
 * Health Disparities and Disability Culture (491 titles)
 * African-, Asian-, and Hispanic-American Experiences (499 titles)
