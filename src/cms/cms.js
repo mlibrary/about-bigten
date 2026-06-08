@@ -16,7 +16,7 @@ if (process.env.BRANCH === "preview") {
       backend: {
         name: 'github',
         repo: 'mlibrary/about-bigten',
-        branch: 'preview'
+        branch: 'preview/2026-update'
       }
     }
   });

@@ -4,6 +4,14 @@
   functions = "netlify/functions"
   publish = "public"
 
+# Branch Deploy context: all deploys that are not from
+# a pull/merge request or from the Production branch
+# will inherit these settings.
+[context.branch-deploy.environment]
+  NODE_ENV = "development"
+  BRANCH = "preview"
+
+
   ## Uncomment to use this redirect for Single Page Applications like create-react-app.
   ## Not needed for static site generators.
   #[[redirects]]
