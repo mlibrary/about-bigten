@@ -54,5 +54,8 @@
   },
   "bugs": {
     "url": "https://github.com/gatsbyjs/gatsby/issues"
+  },
+  "resolutions": {
+    "cheerio": "1.0.0-rc.12"
   }
 }

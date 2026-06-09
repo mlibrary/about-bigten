@@ -17,8 +17,5 @@ const branch = process.env.GATSBY_CMS_BRANCH || "main";
         repo: 'mlibrary/about-bigten',
         branch,
       },
-      media_folder: "static/assets",
-      public_folder: "assets",
-      public_folder_relative: false,
     }
   });
