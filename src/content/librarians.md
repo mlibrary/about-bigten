@@ -10,10 +10,11 @@ title: For Librarians
    <li><a href="#sponsorship">Sponsor a Book</a></li>
     <li><a href="#implement">Implement the Collections</a></li>
     <li><a href="#contact">Contact</a></li> 
+</ul>
 
 ## Our Mission
 
-B﻿ig Ten Open Books works to provide vital-subject collections to everyone. This mission would not be possible without the collaboration between the University Presses of the Big Ten Academic Alliance and supporting academic libraries.
+Big Ten Open Books works to provide vital-subject collections to everyone. This mission would not be possible without the collaboration between the University Presses of the Big Ten Academic Alliance and supporting academic libraries.
 
 <h2 id="funding">Funding and Support</h2>
 
@@ -41,7 +42,7 @@ Titles can be sponsored by individual title name or by general collection. (i.e.
 
 [The spreadsheet below](https://docs.google.com/spreadsheets/d/1ric6_P3u456JbwnXoAD_ias0qLEL7uM2bvOBuBQtY4c/edit?usp=sharing) identifies titles in upcoming collections that are available for sponsorship.
 
-**R﻿eady to Sponsor?** 
+**Ready to Sponsor?** 
 
 <p><a class="btn btn-secondary btn-lg mb-3" href="https://forms.gle/Syzt31PM3n3haf628">Sponsor a Book</a></p>
 
