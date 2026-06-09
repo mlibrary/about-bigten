@@ -5,6 +5,7 @@ module.exports = {
     author: `Big Ten Academic Alliance`,
   },
   plugins: [
+    `gatsby-plugin-image`,
     {
       // keep as first gatsby-source-filesystem plugin for gatsby image support
       // for netlify
@@ -13,12 +14,6 @@ module.exports = {
         path: `${__dirname}/static/assets`,
         name: 'assets',
       },
-    },
-    {
-      resolve: `gatsby-plugin-google-analytics`,
-      options: {
-        trackingId: "UA-77847516-28",
-      }
     },
     {
       resolve: `gatsby-plugin-gtag`,
@@ -34,17 +29,20 @@ module.exports = {
     {
       resolve: `gatsby-plugin-sass`,
       options: {
-        precision: 6
+        implementation: require("node-sass"),        
+        sassOptions: {
+          precision: 6,
+        },
       }
     },
     {
       resolve: `gatsby-plugin-env-variables`,
       options: {
-        whitelist: ["BRANCH"]
+        allowlist: ["BRANCH"]
       },
     },
     {
-      resolve: `gatsby-plugin-netlify-cms`,
+      resolve: `gatsby-plugin-decap-cms`,
       options: {
         manualInit: true, // https://github.com/netlify/netlify-cms/issues/1737#issuecomment-530992998 HELIO-3241
         enableIdentityWidget: false,
