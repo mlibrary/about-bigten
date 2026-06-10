@@ -1,5 +1,5 @@
 ---
-templateKey: collections-page
+templateKey: publishers-page
 title: Our Collections
 ---
 The Big Ten Open Books collections offer an insightful journey into crucial themes shaping our world. Exploring gender and sexuality, the evolution of norms, Indigenous North American history, and the experiences of African, Asian, and Hispanic Americans, these collections invite readers to rethink roles, spirituality, migration, and cultural dynamics. They also examine humanity's environmental impact through conservation and sustainability, address health disparities and different abilities, illuminating societal impacts on adversity, inequality, and overall well-being.
