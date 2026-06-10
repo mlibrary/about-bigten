@@ -82,10 +82,10 @@ collections:
           - { name: body, label: Body, widget: markdown }            
       - file: "src/content/publishers.md"
         name: publishers
-        label: Publishers
+        label: Our Publishers
         fields:
           - { name: templateKey, label: "Template Key", widget: hidden, default: publishers-page }
-          - { name: title, label: Publishers }
+          - { name: title, label: Our Publishers }
           - { name: body, label: Body, widget: markdown }
       - file: "src/content/collections.md"
         name: collections
@@ -117,10 +117,10 @@ collections:
           - { name: body, label: Body, widget: markdown }
       - file: "src/content/librarians.md"
         name: librarians
-        label: Librarians
+        label: For Librarians
         fields:
           - { name: templateKey, label: "Template Key", widget: hidden, default: librarians-page }
-          - { name: title, label: Librarians }
+          - { name: title, label: For Librarians }
           - { name: body, label: Body, widget: markdown }
       - file: "src/content/investment.md"
         name: investment
