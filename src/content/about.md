@@ -4,8 +4,6 @@ title: About
 ---
 Welcome to Big Ten Open Books, a collaboration between the university presses and libraries of the Big Ten Academic Alliance. We are dedicated to promoting open scholarship through the curation of open book collections from scholarly monographs published by our university presses.
 
-Test EDIT!
-
 Driven by the core values of discoverability, accessibility, durability, and flexibility, the project aims to transform how academic resources are shared and used. By emphasizing discoverability, we make it easy for scholars and readers to find the information they need. Accessibility ensures that everyone, no matter their affiliation or location, can freely access these publications. Durability preserves this knowledge through technological and accessibility advancement. Flexibility allows the Big Ten Open books project to support diverse interests across an everchanging scholarly landscape. 
 
 The first Big Ten Open Books project was launched in 2023 as a collection of 100 open access books on Gender and Sexuality Studies. [Start reading in the Gender and Sexuality Studies collection](https://www.fulcrum.org/bigten) while we work on our forthcoming 2025-2026 open book collections.
