@@ -36,6 +36,20 @@ To create sustainable funding, BTAA has proposed a mixed model, which includes a
 
 
 
+
+
+
+
+
+
+
+
+<!-- <caption><a class="btn btn-secondary btn-lg" href="https://ftp.fulcrum.org/UMPEBC/MARC/">Download MARC records</a></caption> -->
+
+
+
+
+
 BTAA has several agreements to make titles more discoverable and to enable auto-loading of MARC records. Our agreements allow BTAA titles to be indexed in the following services.
     <thead class="thead-light">
         <tr>
