@@ -26,4 +26,4 @@ The foundation of [Big Ten Open Books](http://bigtenopenbooks.org) is collective
 
 For technical questions or problems with this website or a title in the collection, please email [fulcrum-info@umich.edu](mailto:fulcrum-info@umich.edu).
 
-For general inquiries please email [kate.mccready@btaa.org](mailto:kate.mccready@btaa.org) or, to sponsor a book right now, you fill in [this short form](forms.gle/Syzt31PM3n3haf628) and our partners at Lyrasis will pick up your details and be in touch soon.
+For general inquiries please email [kate.mccready@btaa.org](mailto:kate.mccready@btaa.org) or, to sponsor a book right now, you fill in [this short form](https://docs.google.com/forms/d/e/1FAIpQLSce3SqniMEqisdfv_JpSP3O9g96sAFifmJf2TQixKNgJwEYoQ/viewform) and our partners at Lyrasis will pick up your details and be in touch soon.
