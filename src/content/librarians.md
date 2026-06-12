@@ -34,11 +34,7 @@ To create sustainable funding, BTAA has proposed a mixed model, which includes a
 
 <p><a class="btn btn-secondary btn-lg mb-3" href="https://drive.google.com/file/d/1bxqAMiTyNq8lEQn05aOaLYNLDnDLQBqa/view?usp=sharing">Download OA Criteria</a></p>
 
-<iframe id="kaltura_player" src='https://cdnapisec.kaltura.com/p/1038472/embedPlaykitJs/uiconf_id/54883762?iframeembed=true&amp;entry_id=1_mu3q49w2&amp;config%5Bprovider%5D=%7B%22widgetId%22%3A%221_vkxjfl6o%22%7D&amp;config%5Bplayback%5D=%7B%22startTime%22%3A0%7D'  style="width: 640px;height: 360px;border: 0;" allowfullscreen webkitallowfullscreen mozAllowFullScreen allow="autoplay \\\\\\*; fullscreen \\\\\\*; encrypted-media *" sandbox="allow-downloads allow-forms allow-same-origin allow-scripts allow-top-navigation allow-pointer-lock allow-popups allow-modals allow-orientation-lock allow-popups-to-escape-sandbox allow-presentation allow-top-navigation-by-user-activation" title="Big Ten Open Books"></iframe>
 
-
-
- <!-- <caption><a class="btn btn-secondary btn-lg" href="https://ftp.fulcrum.org/UMPEBC/MARC/">Download MARC records</a></caption> -->
 
 BTAA has several agreements to make titles more discoverable and to enable auto-loading of MARC records. Our agreements allow BTAA titles to be indexed in the following services.
     <thead class="thead-light">
