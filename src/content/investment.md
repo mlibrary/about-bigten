@@ -6,9 +6,7 @@ title: Investment Criteria
 
 ## Collection Subject Areas
 
-The Big Ten Open Books collections offer an insightful journey into crucial themes shaping our world, fostering
-
-thoughtful scholarship and knowledge sharing from backlist titles in the following subject areas:
+The Big Ten Open Books collections offer an insightful journey into crucial themes shaping our world, fostering thoughtful scholarship and knowledge sharing from backlist titles in the following subject areas:
 
 • Gender and Sexuality Studies
 
@@ -31,45 +29,23 @@ The cost of sponsorship is $3,800 per title. This fully funds the creation of an
 
 Big Ten Open Books collections are distributed through Michigan Publishing, with funds collected via the trusted non-profit [library partner Lyrasis](https://my.lyrasis.org/s/product-details?id=a1BUh000001nx4nMAA).
 
-
-
 ## Title Selection Process
 
-Librarians and publishers engaged in a robust process to identify theme areas for collections that are
-
-pertinent and of interest to researchers, students, and readers everywhere. From there, the catalogs of the
-
-participating university presses were mined for titles that aligned with the theme areas, contain relevant
-
-materials, and have been rigorously reviewed against the highest quality standards.
-
-
+Librarians and publishers engaged in a robust process to identify theme areas for collections that are pertinent and of interest to researchers, students, and readers everywhere. From there, the catalogs of the participating university presses were mined for titles that aligned with the theme areas, contain relevant materials, and have been rigorously reviewed against the highest quality standards.
 
 ## Metrics & Usage Reporting
 
-The Book Analytics Dashboard represents usage for the published collections across a number of different
-
-platforms including JSTOR, OAPEN, Project MUSE, and Fulcrum. We can provide reporting on usage of
-
-works by authors affiliated with a specific institution on demand.
-
-
+The Book Analytics Dashboard represents usage for the published collections across a number of different platforms including JSTOR, OAPEN, Project MUSE, and Fulcrum. We can provide reporting on usage of works by authors affiliated with a specific institution on demand.
 
 ## Copyright
 
-True open access requires that titles are not only readable for free, but also reusable in contexts such as
-
-open textbooks and text and data mining. While the choice of Creative Commons license is determined by
-
-individual publishers after consultation with their authors, the default is a [CC-BY NC license](https://creativecommons.org/licenses/by-nc/4.0/legalcode).
+True open access requires that titles are not only readable for free, but also reusable in contexts such as open textbooks and text and data mining. While the choice of Creative Commons license is determined by individual publishers after consultation with their authors, the default is a [CC-BY NC license](https://creativecommons.org/licenses/by-nc/4.0/legalcode).
 
 ## Metadata
 
 • Both KBART files and MARC records are available from [ftp.fulcrum.org/bigten](https://ftp.fulcrum.org/bigten/)
 
-• The collections are available via common discovery systems (e.g. OCLC, ExLibris, EBSCO, etc.)
-
-
+• The collections are available via common discovery systems (e.g. OCLC, ExLibris, EBSCO, etc.) Books in the Big Ten Open Books collections are also distributed via [JSTOR](https://about.jstor.org/librarians/books/open-access-books-jstor/), [Project MUSE](https://muse.jhu.edu/museopen/), and [OAPEN](https://www.oapen.org/). They are indexed in the [Directory of Open Access Books](https://doabooks.org/).
 
 ## Accessibility Standards
 
