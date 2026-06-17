@@ -20,7 +20,7 @@ The Big Ten Open Books collections offer an insightful journey into crucial them
 
 ## Cost
 
-To create sustainable funding, the BTAA employs a mixed funding model, including:
+To establish sustainable funding, the BTAA employs a mixed funding model:
 
 * Institutions affiliated with authors in the collections can sponsor specific titles written by their institution’s scholars.
 * Institutions without affiliated authors can contribute general support for the program or can sponsor individual titles.
