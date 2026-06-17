@@ -2,15 +2,11 @@
 templateKey: librarians-page
 title: For Librarians
 ---
-<ul class="list-unstyled">
-    <li><a href="#mission">Mission</a></li>
-    <li><a href="#funding">Funding and Support</a></li>
-        <li><a href="#contact">Contact</a></li> 
-</ul>
+# Our Mission
 
+Big Ten Open Books works to provide vital subject collections to everyone without paywalls to read or charges to authors. This mission would not be possible without the collaboration between the University Presses of the Big Ten Academic Alliance and supporting academic libraries.
 
-
-<h2 id="funding">Funding and Support</h2>
+## Funding and Support
 
 ### Our funding model allows participation by anyone
 
