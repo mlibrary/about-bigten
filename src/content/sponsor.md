@@ -10,7 +10,7 @@ Titles can be sponsored by individual title name or by general collection. (i.e.
 
 **Ready to Sponsor?** 
 
-<p><a class="btn btn-secondary btn-lg mb-3" href="https://forms.gle/Syzt31PM3n3haf628">Sponsor a Book</a></p>
+<p><a class="btn btn-secondary btn-lg mb-3" href="https://forms.gle/Syzt31PM3n3haf628">Fill in this simple form to Sponsor a Book</a></p>
 
 <iframe title="List of Big Ten Open Books titles available for sponsorship" height="800px" width="100%" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQchFDdn0mb_vdiTSR3GwmZay17Rnt3Gw16KZYtpUWs2a-35xJjJhf4hDGcWKo4mJk_DC85tmcaXSGJ/pubhtml?gid=550005235&amp;single=true&amp;widget=false&amp;headers=false&amp;range=A1:K266&amp;chrome=false"></iframe>
 
