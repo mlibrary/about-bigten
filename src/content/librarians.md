@@ -33,80 +33,14 @@ Real-time tracking of secured funds will be available online to ensure transpare
 
 Big Ten Open Books collections are marketed and distributed through the University of Michigan’s Publishing Services unit, with funds collected via the trusted non-profit library organization, [Lyrasis](https://my.lyrasis.org/s/product-details?id=a1BUh000001nx4nMAA). This ensures streamlined administration and communication with institutions.
 
-## Aligning investment with your library rubric
+### Aligning investment with your library rubric
 
 We've created a set of short FAQs covering Subject Areas, Costs, Title Selection Process, Metrics & Usage Reporting, Copyright, Metadata, Accessibility Standards, and Preservation. You can [download those as a PDF](https://drive.google.com/file/d/1bxqAMiTyNq8lEQn05aOaLYNLDnDLQBqa/view?usp=sharing) or view them on the website under **\[Investment Criteria].**
 
-## Metadata
+### Metadata
 
-BTAA has several agreements to make titles more discoverable and to enable auto-loading of MARC records. Our agreements allow BTAA titles to be indexed in the following services.
-    <thead class="thead-light">
-        <tr>
-            <th scope="col">Vendor</th>
-            <th scope="col">Product Type</th>
-            <th scope="col">Product Name</th>
-        </tr>
-    </thead>
-    <tbody>
-       <tr>
-            <th scope="row">EBSCO</th>
-            <td>Discovery</td>
-            <td>EBSCO Discovery Service</td>
-        </tr>
-         <tr>
-            <th scope="row"><span class="sr-only">EBSCO</span></th>
-            <td>Knowledge Base</td>
-            <td>Holdings & Linking Manager (HLM)</td>
-        </tr>
-        <tr>
-            <th scope="row">OCLC</th>
-            <td>Knowledge Base</td>
-            <td>Collection Manager</td>
-        </tr>
-               <tr>
-            <th scope="row"><span class="sr-only">OCLC</span></th>
-            <td>Knowledge Base</td>
-            <td>WorldCat</td>
-        </tr>
-               <tr>
-            <th scope="row"><span class="sr-only">OCLC</span></th>
-            <td>Knowledge Base</td>
-            <td>WorldShare</td>
-        </tr>
-               <tr>
-            <th scope="row">ProQuest / Ex Libris</th>
-            <td>Discovery</td>
-            <td>Primo (Central Discovery Index)</td>
-        </tr>
-               <tr>
-            <th scope="row"><span class="sr-only">ProQuest / Ex Libris</span></th>
-            <td>Discovery</td>
-            <td>Summon (Central Discovery Index)</td>
-        </tr>
-               <tr>
-            <th scope="row"><span class="sr-only">ProQuest / Ex Libris</span></th>
-            <td>Knowledge Base</td>
-            <td>360 (Client Center, Intota)</td>
-        </tr>
-               <tr>
-            <th scope="row"><span class="sr-only">ProQuest / Ex Libris</span></th>
-            <td>Knowledge Base</td>
-            <td>Alma Community Zone</td>
-        </tr>
-               <tr>
-            <th scope="row"><span class="sr-only">ProQuest / Ex Libris</span></th>
-            <td>Knowledge Base</td>
-            <td>SFX</td>
-        </tr>
-    </tbody>
-
-</table>
-
-
-
-<a class="btn btn-primary" href="/https://ftp.fulcrum.org/UMPEBC/MARC/">Download MARC records now</a>
-
-
+BTAA has several agreements to make titles more discoverable and to enable auto-loading of MARC records, including with EBSCO, ExLibris, OCLC, and Proquest. You can find more details on our Implement the Collections page, including a link to download MARC records.
+   
 
 <h2 id="contact">Contact</h2>
 
