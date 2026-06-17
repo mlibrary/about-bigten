@@ -1,11 +1,7 @@
 ---
 templateKey: about-page
-title: Our Mission
+title: About
 ---
-# About
-
-Big Ten Open Books works to provide vital-subject collections to everyone. This mission would not be possible without the collaboration between the University Presses of the Big Ten Academic Alliance and supporting academic libraries.
-
 Welcome to Big Ten Open Books, a collaboration between the university presses and libraries of the Big Ten Academic Alliance. We are dedicated to promoting open scholarship through the curation of open book collections from scholarly monographs published by our university presses.
 
 Driven by the core values of discoverability, accessibility, durability, and flexibility, the project aims to transform how academic resources are shared and used. By emphasizing discoverability, we make it easy for scholars and readers to find the information they need. Accessibility ensures that everyone, no matter their affiliation or location, can freely access these publications. Durability preserves this knowledge through technological and accessibility advancement. Flexibility allows the Big Ten Open books project to support diverse interests across an everchanging scholarly landscape. 
