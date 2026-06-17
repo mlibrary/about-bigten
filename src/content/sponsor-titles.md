@@ -1,5 +1,5 @@
 ---
 templateKey: librarians-page
-title: Titles Available for Sponsorship
+title: Titles Available for Sponsorship [to delete]
 ---
-Titles can be sponsored by individual title name or by general collection. (i.e. Environment, Experiences, Health). The spreadsheet below identifies titles in upcoming collections that are available for sponsorship.
+\[this page to be deleted - agreed with Jon M]
