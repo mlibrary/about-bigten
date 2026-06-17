@@ -6,7 +6,9 @@ The Big Ten Open Books collections offer an insightful journey into crucial them
 
 Together, these five collections foster thoughtful scholarship and knowledge sharing from the collaboration of the Big Ten Academic Alliance university presses and affiliated libraries.
 
-## Published Collections
+<a class="btn btn-secondary btn-lg" href="https://www.dropbox.com/sh/fnrz7sqqmrv7v6u/AABLW-XkcGWBvLW4E9YkeQFla?dl=0">Download Collection Title Lists</a>
+
+## Collections already funded and published
 
 * ### [Gender and Sexuality Studies](https://www.fulcrum.org/bigten?f%5Bcollection_sim%5D%5B%5D=Gender+and+Sexuality+Studies&locale=en) (2023)
 
@@ -18,11 +20,9 @@ This collection explores Indigenous North American history, culture, and literat
 
 Please note: The books in this collection were published a number of years ago. They may include outdated representations of Indigenous culture and society.
 
-## Collections Under Development:
+## Collections under development and seeking sponsorship
 
-These collections are being released on a rolling basis starting in 2026. [View the list of titles to be included in these collections](https://docs.google.com/spreadsheets/d/1ric6_P3u456JbwnXoAD_ias0qLEL7uM2bvOBuBQtY4c/edit?usp=sharing).
-
-Learn more about [how to support these collections](https://bigtenopenbooks.org/librarians).
+These collections are being released on a rolling basis starting in 2026. You can see a live list of each title seeking funding on the **\[Sponsor A Book]** page of this website. 
 
 * ### African-, Asian-, and Hispanic American Experiences (Experiences)
 
@@ -43,3 +43,7 @@ This collection explores health disparities and intersectional experiences, high
 This collection explores humanity's environmental impact through conservation, sustainability, and ecological ethics. It delves into policy and activism, highlighting key legislation and movements worldwide. Analyzing urban sustainability, sustainable agriculture, and genetically engineered crops, these books offer dynamic solutions to environmental challenges. The collection reveals how art, cinema, and literature influence environmental consciousness and advocacy. By integrating traditional knowledge with modern strategies, it inspires renewed engagement with pressing environmental issues and pathways to a sustainable future.
 
 <!--EndFragment-->
+
+**Ready to Sponsor?** 
+
+<p><a class="btn btn-secondary btn-lg mb-3" href="https://forms.gle/Syzt31PM3n3haf628">Fill in this simple form to Sponsor a Book</a></p>
