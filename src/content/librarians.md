@@ -8,7 +8,7 @@ title: For Librarians
         <li><a href="#contact">Contact</a></li> 
 </ul>
 
-## Our Mission
+# Our Mission
 
 Big Ten Open Books works to provide vital-subject collections to everyone. This mission would not be possible without the collaboration between the University Presses of the Big Ten Academic Alliance and supporting academic libraries.
 
@@ -40,9 +40,8 @@ We've created a set of short FAQs covering Subject Areas, Costs, Title Selection
 ### Metadata
 
 BTAA has several agreements to make titles more discoverable and to enable auto-loading of MARC records, including with EBSCO, ExLibris, OCLC, and Proquest. You can find more details on our Implement the Collections page, including a link to download MARC records.
-   
 
-<h2 id="contact">Contact</h2>
+<h1 id="contact">Contact</h1>
 
 For librarian general inquiries and questions, please contact:
 
