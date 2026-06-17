@@ -16,3 +16,7 @@ Titles can be sponsored by individual title name or by general collection. (i.e.
 
 <table class="table table-bordered">
     <!-- <caption><a class="btn btn-secondary btn-lg" href="https://ftp.fulcrum.org/UMPEBC/KBART/">Download KBART files</a></caption> -->
+
+**Ready to Sponsor?** 
+
+<p><a class="btn btn-secondary btn-lg mb-3" href="https://forms.gle/Syzt31PM3n3haf628">Fill in this simple form to Sponsor a Book</a></p>
