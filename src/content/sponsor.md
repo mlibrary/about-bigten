@@ -2,11 +2,11 @@
 templateKey: about-page
 title: Sponsor a Book
 ---
-<h2 id="sponsorship">Titles Available for Sponsorship</h2>
+## Titles Available for Sponsorship
 
-Titles can be sponsored by individual title name or by general collection. (i.e. Environment, Experiences, Health).
+Titles can be sponsored by individual title name or by general collection (i.e. Environment, Experiences, Health).
 
-[The spreadsheet below](https://docs.google.com/spreadsheets/d/1ric6_P3u456JbwnXoAD_ias0qLEL7uM2bvOBuBQtY4c/edit?usp=sharing) identifies titles in upcoming collections that are available for sponsorship.
+The spreadsheet below displays all titles seeking funding: each of these books can be made open access through your investment of $3800.
 
 **Ready to Sponsor?** 
 
@@ -18,5 +18,7 @@ Titles can be sponsored by individual title name or by general collection. (i.e.
     <!-- <caption><a class="btn btn-secondary btn-lg" href="https://ftp.fulcrum.org/UMPEBC/KBART/">Download KBART files</a></caption> -->
 
 **Ready to Sponsor?** 
+
+To fund an OA book right now, click on the button below and fill in your details, and our partners at Lyrasis will pick up your details and be in touch soon.
 
 <p><a class="btn btn-secondary btn-lg mb-3" href="https://forms.gle/Syzt31PM3n3haf628">Fill in this simple form to Sponsor a Book</a></p>
