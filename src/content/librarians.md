@@ -2,7 +2,7 @@
 templateKey: librarians-page
 title: For Librarians - Our Mission
 ---
-Big Ten Open Books works to provide vital subject collections to everyone without paywalls to read or charges to authors. This mission would not be possible without the collaboration between the University Presses of the Big Ten Academic Alliance and supporting academic libraries.
+Big Ten Open Books works to provide vital subject collections to everyone without paywalls for readers or charges to authors. This mission would not be possible without the collaboration between the University Presses of the Big Ten Academic Alliance and supporting academic libraries.
 
 ## Funding and Support
 
@@ -23,7 +23,7 @@ Real-time tracking of secured funds will be available online to ensure transpare
 
 ### Our partners helping to make it happen
 
-Big Ten Open Books collections are marketed and distributed through the University of Michigan’s Publishing Services unit, with funds collected via the trusted non-profit library organization, [Lyrasis](https://my.lyrasis.org/s/product-details?id=a1BUh000001nx4nMAA). This ensures streamlined administration and communication with institutions.
+Big Ten Open Books collections are marketed and distributed through the University of Michigan’s Publishing Services unit, with funds collected via the [trusted non-profit library organization, Lyrasis](https://my.lyrasis.org/s/product-details?id=a1BUh000001nx4nMAA). This ensures streamlined administration and communication with institutions.
 
 ### Aligning investment with your library rubric
 
@@ -31,9 +31,9 @@ We've created a set of short FAQs covering Subject Areas, Costs, Title Selection
 
 ### Metadata
 
-BTAA has several agreements to make titles more discoverable and to enable auto-loading of MARC records, including with EBSCO, ExLibris, OCLC, and Proquest. You can find more details on our Implement the Collections page, including a link to download MARC records.
+BTAA has several agreements to make titles more discoverable and to enable auto-loading of MARC records, including with EBSCO, ExLibris, OCLC, and Proquest. You can find more details on our **\[Implement the Collections page]**, including a link to download MARC records.
 
-<h1 id="contact">Contact</h1>
+# Contact
 
 For librarian general inquiries and questions, please contact:
 
