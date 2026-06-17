@@ -5,9 +5,6 @@ title: For Librarians
 <ul class="list-unstyled">
     <li><a href="#mission">Mission</a></li>
     <li><a href="#funding">Funding and Support</a></li>
-    <li><a href="#sponsorship">Titles Available for Sponsorship</a></li>     
-
-   <li><a href="#sponsorship">Sponsor a Book</a></li>
     <li><a href="#implement">Implement the Collections</a></li>
     <li><a href="#contact">Contact</a></li> 
 </ul>
@@ -34,21 +31,7 @@ To create sustainable funding, BTAA has proposed a mixed model, which includes a
 
 <p><a class="btn btn-secondary btn-lg mb-3" href="https://drive.google.com/file/d/1bxqAMiTyNq8lEQn05aOaLYNLDnDLQBqa/view?usp=sharing">Download OA Criteria</a></p>
 
-
-
-
-
-
-
-
-
-
-
 <!-- <caption><a class="btn btn-secondary btn-lg" href="https://ftp.fulcrum.org/UMPEBC/MARC/">Download MARC records</a></caption> -->
-
-
-
-
 
 BTAA has several agreements to make titles more discoverable and to enable auto-loading of MARC records. Our agreements allow BTAA titles to be indexed in the following services.
     <thead class="thead-light">
