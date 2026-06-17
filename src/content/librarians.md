@@ -8,9 +8,7 @@ title: For Librarians
         <li><a href="#contact">Contact</a></li> 
 </ul>
 
-# Our Mission
 
-Big Ten Open Books works to provide vital-subject collections to everyone. This mission would not be possible without the collaboration between the University Presses of the Big Ten Academic Alliance and supporting academic libraries.
 
 <h2 id="funding">Funding and Support</h2>
 
