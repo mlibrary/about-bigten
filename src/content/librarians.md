@@ -5,8 +5,7 @@ title: For Librarians
 <ul class="list-unstyled">
     <li><a href="#mission">Mission</a></li>
     <li><a href="#funding">Funding and Support</a></li>
-    <li><a href="#implement">Implement the Collections</a></li>
-    <li><a href="#contact">Contact</a></li> 
+        <li><a href="#contact">Contact</a></li> 
 </ul>
 
 ## Our Mission
@@ -15,23 +14,28 @@ Big Ten Open Books works to provide vital-subject collections to everyone. This 
 
 <h2 id="funding">Funding and Support</h2>
 
-### Funding Model: Author Affiliation + General Support Contributions
+### Our funding model allows participation by anyone
 
-To create sustainable funding, BTAA has proposed a mixed model, which includes an author-affiliation model where institutions contribute based on their scholars’ participation in the collections as well as general support from interested, but institutions without affiliated authors. Specifically:
+To establish sustainable funding, the BTAA employs a mixed funding model:
 
-* Contribution Target: $3,800 per title. This fully funds the creation of an open access version of the book.
-* Institutional Outreach: Libraries at institutions affiliated with authors of works in the collections will be asked to sponsor opening those titles. For example, Purdue University, with three authors represented, has supported opening those 3 works at a cost of $10,500. Sponsorship will be sought for 120 titles per collection but each collection will be capped at the first 100 books sponsored.
+* Institutions affiliated with authors in the collections can sponsor specific titles written by their institution’s scholars. For example, Purdue University, with three authors represented, has supported opening those 3 works at a cost of $10,500. 
+* Institutions without affiliated authors can contribute general support for the program or can sponsor individual titles.
 
-## Mechanism for Funding Collections 
+### Cost & transparency
 
-* Funding Support Collection via External Partner: Big Ten Open Books collections are marketed and distributed through the University of Michigan’s Publishing Services unit, with funds collected via [Lyrasis](https://my.lyrasis.org/s/product-details?id=a1BUh000001nx4nMAA). This ensures streamlined administration and communication with institutions.
-* Transparency: Real-time tracking of secured sponsorship funds will be available online to ensure transparency and encourage broad participation.
+The cost of sponsorship is $3,800 per title. This fully funds the creation of an open access version of the backlist title and you can [read on the website how that figure breaks down](https://bigtenopenbooks.org/stories/2025-05-19-transparency-is-fundamental-to-diamond-open-access-how-big-ten-open-books-welcomes-community-engagement/). The full list of titles available for sponsorship can also be found on the website under [Sponsor A Book](https://bigtenopenbooks.org/librarians/#sponsorship).
 
-**Activation: Collections will be published on a rolling basis as support is secured to open a specific title. Collections will be capped at 100 titles per theme area.**
+We're seeking sponsorship for 120 titles per collection but each collection will be capped at the first 100 books sponsored. Collections and the books within them are published on a rolling basis when support is secured to open a specific title. 
+
+Real-time tracking of secured funds will be available online to ensure transparency and encourage broad participation.
+
+### Our partners helping to make it happen
+
+Big Ten Open Books collections are marketed and distributed through the University of Michigan’s Publishing Services unit, with funds collected via the trusted non-profit library organization, [Lyrasis](https://my.lyrasis.org/s/product-details?id=a1BUh000001nx4nMAA). This ensures streamlined administration and communication with institutions.
 
 ## Aligning investment with your library rubric
 
-We've created a set of short FAQs covering Collection Subject Areas, Costs, Title Selection Process, Metrics & Usage Reporting, Copyright, Metadata, Accessibility Standards, and Preservation. You can [download those as a PDF](https://drive.google.com/file/d/1bxqAMiTyNq8lEQn05aOaLYNLDnDLQBqa/view?usp=sharing) or view them on the website under **\[Investment Criteria].**
+We've created a set of short FAQs covering Subject Areas, Costs, Title Selection Process, Metrics & Usage Reporting, Copyright, Metadata, Accessibility Standards, and Preservation. You can [download those as a PDF](https://drive.google.com/file/d/1bxqAMiTyNq8lEQn05aOaLYNLDnDLQBqa/view?usp=sharing) or view them on the website under **\[Investment Criteria].**
 
 ## Metadata
 
