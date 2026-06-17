@@ -22,18 +22,18 @@ To create sustainable funding, BTAA has proposed a mixed model, which includes a
 * Contribution Target: $3,800 per title. This fully funds the creation of an open access version of the book.
 * Institutional Outreach: Libraries at institutions affiliated with authors of works in the collections will be asked to sponsor opening those titles. For example, Purdue University, with three authors represented, has supported opening those 3 works at a cost of $10,500. Sponsorship will be sought for 120 titles per collection but each collection will be capped at the first 100 books sponsored.
 
-### Mechanism for Funding Collections 
+## Mechanism for Funding Collections 
 
 * Funding Support Collection via External Partner: Big Ten Open Books collections are marketed and distributed through the University of Michigan’s Publishing Services unit, with funds collected via [Lyrasis](https://my.lyrasis.org/s/product-details?id=a1BUh000001nx4nMAA). This ensures streamlined administration and communication with institutions.
 * Transparency: Real-time tracking of secured sponsorship funds will be available online to ensure transparency and encourage broad participation.
 
 **Activation: Collections will be published on a rolling basis as support is secured to open a specific title. Collections will be capped at 100 titles per theme area.**
 
-Matching
+## Aligning investment with your library rubric
 
-<p><a class="btn btn-secondary btn-lg mb-3" href="https://drive.google.com/file/d/1bxqAMiTyNq8lEQn05aOaLYNLDnDLQBqa/view?usp=sharing">Download OA Criteria</a></p>
+We've created a set of short FAQs covering Collection Subject Areas, Costs, Title Selection Process, Metrics & Usage Reporting, Copyright, Metadata, Accessibility Standards, and Preservation. You can [download those as a PDF](https://drive.google.com/file/d/1bxqAMiTyNq8lEQn05aOaLYNLDnDLQBqa/view?usp=sharing) or view them on the website under **\[Investment Criteria].**
 
-<!-- <caption><a class="btn btn-secondary btn-lg" href="https://ftp.fulcrum.org/UMPEBC/MARC/">Download MARC records</a></caption> -->
+## Metadata
 
 BTAA has several agreements to make titles more discoverable and to enable auto-loading of MARC records. Our agreements allow BTAA titles to be indexed in the following services.
     <thead class="thead-light">
@@ -98,6 +98,12 @@ BTAA has several agreements to make titles more discoverable and to enable auto-
 
 </table>
 
+
+
+<a class="btn btn-primary" href="/https://ftp.fulcrum.org/UMPEBC/MARC/">Download MARC records now</a>
+
+
+
 <h2 id="contact">Contact</h2>
 
 For librarian general inquiries and questions, please contact:
@@ -112,7 +118,5 @@ Center for Library Programs\
 For technical questions or problems with this website or a title in the collection, please email [fulcrum-info@umich.edu](mailto:fulcrum-info@umich.edu).
 
 To sponsor a book right now, you can fill in [this short form](https://docs.google.com/forms/d/e/1FAIpQLSce3SqniMEqisdfv_JpSP3O9g96sAFifmJf2TQixKNgJwEYoQ/viewform) and our partners at Lyrasis will pick up your details and be in touch soon.
-
-
 
 <!--EndFragment-->
