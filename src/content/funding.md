@@ -32,6 +32,6 @@ We're seeking sponsorship for 120 titles per collection but each collection will
 
 Real-time tracking of secured funds will be available online to ensure transparency and encourage broad participation.
 
-Ready to sponsor a title?
+**Ready to Sponsor?** 
 
-\[insert here]
+<p><a class="btn btn-secondary btn-lg mb-3" href="https://forms.gle/Syzt31PM3n3haf628">Fill in this simple form to Sponsor a Book</a></p>
