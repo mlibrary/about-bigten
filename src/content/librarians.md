@@ -4,7 +4,7 @@ title: For Librarians - Our Mission
 ---
 Big Ten Open Books works to provide vital subject collections to everyone without paywalls for readers or charges to authors. This mission would not be possible without the collaboration between the University Presses of the Big Ten Academic Alliance and supporting academic libraries.
 
-### Aligning investment with your library rubric
+## Aligning investment with your library rubric
 
 We've created a set of short FAQs covering Subject Areas, Costs, Title Selection Process, Metrics & Usage Reporting, Copyright, Metadata, Accessibility Standards, and Preservation. You can [download those as a PDF](https://drive.google.com/file/d/1bxqAMiTyNq8lEQn05aOaLYNLDnDLQBqa/view?usp=sharing) or view them on the website under **\[Investment Criteria].**
 
