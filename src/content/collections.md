@@ -24,11 +24,11 @@ Please note: The books in this collection were published a number of years ago. 
 
 ## Collections Under Development:
 
-These collections are being released on a rolling basis starting in 2026. [View the list of titles to be included in these collections](https://docs.google.com/spreadsheets/d/1ric6_P3u456JbwnXoAD_ias0qLEL7uM2bvOBuBQtY4c/edit?usp=sharing).
+These collections are being released on a rolling basis. [View the list of titles to be included in these collections](https://docs.google.com/spreadsheets/d/1ric6_P3u456JbwnXoAD_ias0qLEL7uM2bvOBuBQtY4c/edit?usp=sharing).
 
-Learn more about [how to support these collections](https://bigtenopenbooks.org/librarians).
+Learn more about [how to support these collections](https://bigtenopenbooks.org/librarians)
 
-* ### African-, Asian-, and Hispanic American Experiences (Experiences)
+* ### [African-, Asian-, and Hispanic American Experiences (Experiences)](https://www.fulcrum.org/bigten?f%5Bcollection_sim%5D%5B%5D=African-%2C+Asian-%2C+and+Hispanic+American+Experiences&locale=en)
 
 <!--StartFragment-->
 
@@ -36,11 +36,11 @@ This collection explores the experiences of African, Asian, and Hispanic America
 
 <!--EndFragment-->
 
-* ### Health Disparities and Disability Culture (Health)
+* ### [Health Disparities and Disability Culture (Health)](https://www.fulcrum.org/bigten?f%5Bcollection_sim%5D%5B%5D=Health+Disparities+and+Disability+Culture&locale=en)
 
 This collection explores health disparities and intersectional experiences, highlighting different abilities and cultural narratives. Dive into the complexities of chronic illness, global mental health practices, and personal stories for thought-provoking insights. Topics cover reproductive rights, medical advancements, and socio-political aspects of well-being. These works offer a deeper understanding of health challenges and triumphs, showing their intersection with societal perceptions and policies. Engage with this collection to enhance your perspective on human health's intricate cultural and political dimensions.
 
-* ### Human Environmental Impact (Environment)
+* ### [Human Environmental Impact (Environment)](https://www.fulcrum.org/bigten?f%5Bcollection_sim%5D%5B%5D=Human+Environmental+Impact&locale=en)
 
 <!--StartFragment-->
 
