@@ -24,7 +24,7 @@ Please note: The books in this collection were published a number of years ago. 
 
 ## Collections Under Development:
 
-These collections are being released on a rolling basis. [View the list of titles to be included in these collections](https://docs.google.com/spreadsheets/d/1ric6_P3u456JbwnXoAD_ias0qLEL7uM2bvOBuBQtY4c/edit?usp=sharing).
+These collections are being released on a rolling basis. [View the list of titles being included in these collections](https://docs.google.com/spreadsheets/d/1ric6_P3u456JbwnXoAD_ias0qLEL7uM2bvOBuBQtY4c/edit?usp=sharing).
 
 Learn more about [how to support these collections](https://bigtenopenbooks.org/librarians)
 
