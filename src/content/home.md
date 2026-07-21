@@ -3,8 +3,9 @@ templateKey: home-page
 taglineSection:
   buttonLabel: Explore the Collection
   buttonUrl: https://fulcrum.org/bigten
-  text: Big Ten Open Books. Connecting readers everywhere to fully accessible,
-    trusted books from leading university presses.
+  text: \[Move this text and banner to just below the nav bar] Big Ten Open Books.
+    Connecting readers everywhere to fully accessible, trusted books from
+    leading university presses.
 firstCallToActionSection:
   description: Making reading accessible for everyone
   buttonLabel: Our Mission
