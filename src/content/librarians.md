@@ -6,11 +6,11 @@ Big Ten Open Books works to provide vital subject collections to everyone withou
 
 ## Aligning investment with your library rubric
 
-We've created a set of short FAQs covering Subject Areas, Costs, Title Selection Process, Metrics & Usage Reporting, Copyright, Metadata, Accessibility Standards, and Preservation. You can [download those as a PDF](https://drive.google.com/file/d/1bxqAMiTyNq8lEQn05aOaLYNLDnDLQBqa/view?usp=sharing) or view them on the website under **\[Investment Criteria].**
+We've created a set of short FAQs covering Subject Areas, Costs, Title Selection Process, Metrics & Usage Reporting, Copyright, Metadata, Accessibility Standards, and Preservation. You can [download those as a PDF](https://drive.google.com/file/d/1bxqAMiTyNq8lEQn05aOaLYNLDnDLQBqa/view?usp=sharing) or view them on the website on the **[Investment Criteria](/investment)** page.
 
 ### Discovery & metadata
 
-BTAA has several agreements to make titles discoverable and to enable auto-loading of MARC records, including with EBSCO, ExLibris, OCLC, and Proquest. You can find more details on our **\[Implement the Collections page]**, including a link to download MARC records.
+BTAA has several agreements to make titles discoverable and to enable auto-loading of MARC records, including with EBSCO, ExLibris, OCLC, and Proquest. You can find more details on the **[Implement the Collections](/implement)** page, including a link to download MARC records.
 
 ### Our partners helping to make it happen
 
