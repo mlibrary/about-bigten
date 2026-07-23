@@ -39,6 +39,8 @@ This 3 minute video goes into some of the benefits of our collaboration:
 
 <a class="btn btn-primary" href="/https://forms.gle/Syzt31PM3n3haf628">Fill in this simple form to Sponsor a Book</a>
 
+<p><a class="btn btn-primary btn-lg mb-3" href="https://forms.gle/Syzt31PM3n3haf628">Fill in this simple form to Sponsor a Book</a></p>
+
 #### Questions?
 
 * For technical questions or problems with this website or a title in the collection, please email [fulcrum-info@umich.edu](mailto:fulcrum-info@umich.edu)
