@@ -8,9 +8,9 @@ Driven by the core values of discoverability, accessibility, durability, and fle
 
 The first Big Ten Open Books project was launched in 2023 as a collection of 100 open access books on Gender and Sexuality Studies. [Start reading in the Gender and Sexuality Studies collection](https://www.fulcrum.org/bigten) while we work on our forthcoming 2025-2026 open book collections.
 
-* [Learn more about the 2025-2026 collections](https://bigtenopenbooks.org/collections/).
+<a class="btn btn-primary" href="/https://bigtenopenbooks.org/collections/">Learn more about the 2025-2026 collections</a>
 
-Participating presses include: I﻿ndiana University Press, Michigan State University Press, Northwestern University Press, Ohio State University Press, Penn State University Press, Purdue University Press, University of Illinois Press, University of Michigan Press, University of Minnesota Press, and University of Wisconsin Press.
+[](https://bigtenopenbooks.org/collections/)Participating presses include: I﻿ndiana University Press, Michigan State University Press, Northwestern University Press, Ohio State University Press, Penn State University Press, Purdue University Press, University of Illinois Press, University of Michigan Press, University of Minnesota Press, and University of Wisconsin Press.
 
 ## Collective action, at scale, to open trusted content for the public good.
 
@@ -31,11 +31,11 @@ The foundation of this program is collective action - from the partnership betwe
 
 This 3 minute video goes into some of the benefits of our collaboration:
 
-<div style="max-width:608px"><div style="position:relative;padding-bottom:66.118421052632%"><iframe id="kaltura_player" src="https://cdnapisec.kaltura.com/p/1038472/sp/103847200/embedIframeJs/uiconf_id/46145191/partner_id/1038472?iframeembed=true&playerId=kaltura_player&entry_id=1_jldc0a2r&flashvars\\\\\\\\\\\\\\\\\\\\\[streamerType]=auto&amp;flashvars\\\\\\\\\\\\\\\\\\\\\[localizationCode]=en_US&amp;flashvars\\\\\\\\\\\\\\\\\\\\\[sideBarContainer.plugin]=true&amp;flashvars\\\\\\\\\\\\\\\\\\\\\[sideBarContainer.position]=left&amp;flashvars\\\\\\\\\\\\\\\\\\\\\[sideBarContainer.clickToClose]=true&amp;flashvars\\\\\\\\\\\\\\\\\\\\\[chapters.plugin]=true&amp;flashvars\\\\\\\\\\\\\\\\\\\\\[chapters.layout]=vertical&amp;flashvars\\\\\\\\\\\\\\\\\\\\\[chapters.thumbnailRotator]=false&amp;flashvars\\\\\\\\\\\\\\\\\\\\\[streamSelector.plugin]=true&amp;flashvars\\\\\\\\\\\\\\\\\\\\\[EmbedPlayer.SpinnerTarget]=videoHolder&amp;flashvars\\\\\\\\\\\\\\\\\\\\\[dualScreen.plugin]=true&amp;flashvars\\\\\\\\\\\\\\\\\\\\\[hotspots.plugin]=1&amp;flashvars\\\\\\\\\\\\\\\\\\\\\[Kaltura.addCrossoriginToIframe]=true&amp;&wid=1_kjeke3t9" width="608" height="402" allowfullscreen webkitallowfullscreen mozAllowFullScreen allow="autoplay \\\\\\\\\\\\\\\\\\\\\*; fullscreen \\\\\\\\\\\\\\\\\\\\\*; encrypted-media *" sandbox="allow-downloads allow-forms allow-same-origin allow-scripts allow-top-navigation allow-pointer-lock allow-popups allow-modals allow-orientation-lock allow-popups-to-escape-sandbox allow-presentation allow-top-navigation-by-user-activation" frameborder="0" title="Introducing Big Ten Open Books" style="position:absolute;top:0;left:0;width:100%;height:100%"></iframe></div></div>
+<div style="max-width:608px"><div style="position:relative;padding-bottom:66.118421052632%"><iframe id="kaltura_player" src="https://cdnapisec.kaltura.com/p/1038472/sp/103847200/embedIframeJs/uiconf_id/46145191/partner_id/1038472?iframeembed=true&playerId=kaltura_player&entry_id=1_jldc0a2r&flashvars\\\\\\\\\\\\\\\\\\\\\\[streamerType]=auto&amp;flashvars\\\\\\\\\\\\\\\\\\\\\\[localizationCode]=en_US&amp;flashvars\\\\\\\\\\\\\\\\\\\\\\[sideBarContainer.plugin]=true&amp;flashvars\\\\\\\\\\\\\\\\\\\\\\[sideBarContainer.position]=left&amp;flashvars\\\\\\\\\\\\\\\\\\\\\\[sideBarContainer.clickToClose]=true&amp;flashvars\\\\\\\\\\\\\\\\\\\\\\[chapters.plugin]=true&amp;flashvars\\\\\\\\\\\\\\\\\\\\\\[chapters.layout]=vertical&amp;flashvars\\\\\\\\\\\\\\\\\\\\\\[chapters.thumbnailRotator]=false&amp;flashvars\\\\\\\\\\\\\\\\\\\\\\[streamSelector.plugin]=true&amp;flashvars\\\\\\\\\\\\\\\\\\\\\\[EmbedPlayer.SpinnerTarget]=videoHolder&amp;flashvars\\\\\\\\\\\\\\\\\\\\\\[dualScreen.plugin]=true&amp;flashvars\\\\\\\\\\\\\\\\\\\\\\[hotspots.plugin]=1&amp;flashvars\\\\\\\\\\\\\\\\\\\\\\[Kaltura.addCrossoriginToIframe]=true&amp;&wid=1_kjeke3t9" width="608" height="402" allowfullscreen webkitallowfullscreen mozAllowFullScreen allow="autoplay \\\\\\\\\\\\\\\\\\\\\\*; fullscreen \\\\\\\\\\\\\\\\\\\\\\*; encrypted-media *" sandbox="allow-downloads allow-forms allow-same-origin allow-scripts allow-top-navigation allow-pointer-lock allow-popups allow-modals allow-orientation-lock allow-popups-to-escape-sandbox allow-presentation allow-top-navigation-by-user-activation" frameborder="0" title="Introducing Big Ten Open Books" style="position:absolute;top:0;left:0;width:100%;height:100%"></iframe></div></div>
 
 <br>
 
-### **Ready to Sponsor?** 
+### **Ready to Sponsor?**
 
 <p><a class="btn btn-secondary btn-lg mb-3" href="https://forms.gle/Syzt31PM3n3haf628">Fill in this simple form to Sponsor a Book</a></p>
 
