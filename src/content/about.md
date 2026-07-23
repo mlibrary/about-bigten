@@ -37,7 +37,7 @@ This 3 minute video goes into some of the benefits of our collaboration:
 
 ### **Ready to Sponsor?**
 
-<p><a class="btn btn-secondary btn-lg mb-3" href="https://forms.gle/Syzt31PM3n3haf628">Fill in this simple form to Sponsor a Book</a></p>
+<a class="btn btn-primary" href="/https://forms.gle/Syzt31PM3n3haf628">Fill in this simple form to Sponsor a Book</a>
 
 #### Questions?
 
