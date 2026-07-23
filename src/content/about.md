@@ -4,7 +4,7 @@ title: About
 ---
 Welcome to Big Ten Open Books, a collaboration between the university presses and libraries of the Big Ten Academic Alliance. We are dedicated to promoting open scholarship through the curation of open book collections from scholarly monographs published by our university presses.
 
-Driven by the core values of discoverability, accessibility, durability, and flexibility, the project aims to transform how academic resources are shared and used. By emphasizing discoverability, we make it easy for scholars and readers to find the information they need. Accessibility ensures that everyone, no matter their affiliation or location, can freely access these publications. Durability preserves this knowledge through technological and accessibility advancement. Flexibility allows the Big Ten Open books project to support diverse interests across an everchanging scholarly landscape. 
+Driven by the core values of **discoverability, accessibility, durability, and flexibility**, the project aims to transform how academic resources are shared and used. By emphasizing discoverability, we make it easy for scholars and readers to find the information they need. Accessibility ensures that everyone, no matter their affiliation or location, can freely access these publications. Durability preserves this knowledge through technological and accessibility advancement. Flexibility allows the Big Ten Open books project to support diverse interests across an everchanging scholarly landscape. 
 
 The first Big Ten Open Books project was launched in 2023 as a collection of 100 open access books on Gender and Sexuality Studies. [Start reading in the Gender and Sexuality Studies collection](https://www.fulcrum.org/bigten) while we work on our forthcoming 2025-2026 open book collections.
 
@@ -21,7 +21,7 @@ The first Big Ten Open Books project was launched in 2023 as a collection of 100
 
 ### Open Content On Open Infrastructure Built By Libraries
 
-The Big Ten Open Books project has established a model for unified, open-access publishing of scholarly monographs. It creates open content, on open infrastructure, using open distribution models - to envision a robust programmatic future for open monograph publishing. This work is aligned with the Big Ten Academic Alliance’s development of the [BIG Collection's ambition of uniting the collections of the libraries](https://btaa.org/library/big-collection/the-big-collection-introduction) of the Big Ten Academic Alliance.
+The Big Ten Open Books project has established a model for unified, open-access publishing of scholarly monographs. It creates open content, on open infrastructure, using open distribution models - to envision a robust future for open monograph publishing. This work is aligned with the development of the [BIG Collection's ambition of uniting the collections of the libraries](https://btaa.org/library/big-collection/the-big-collection-introduction) of the Big Ten Academic Alliance.
 
 The [Big Ten Academic Alliance continues its advocacy for a sustainable and open ecosystem of publication.](https://btaa.org/about/news-and-publications/news/2019/06/10/sustaining-values-and-scholarship-a-statement-by-the-provosts-of-the-big-ten-academic-alliance) Collectively, our institutions’ more than 50,000 faculty are supported by over $11 billion in research funding, and our institutions have similarly invested significantly in our capacity to further our missions to advance knowledge. Together, we produce roughly 15% of the research publications in the United States.
 
@@ -29,7 +29,7 @@ The [Big Ten Academic Alliance continues its advocacy for a sustainable and open
 
 The foundation of this program is collective action - from the partnership between University Presses and libraries to develop the program’s model, to the multi-press collaboration that populates the content.
 
-This 3 minute video goes into some of the benefits of our collaboration:
+This 3 minute video gives an overview of the benefits of our collaboration:
 
 <div style="max-width:608px"><div style="position:relative;padding-bottom:66.118421052632%"><iframe id="kaltura_player" src="https://cdnapisec.kaltura.com/p/1038472/sp/103847200/embedIframeJs/uiconf_id/46145191/partner_id/1038472?iframeembed=true&playerId=kaltura_player&entry_id=1_jldc0a2r&flashvars\\\\\\\\\\\\\\\\\\\\\\[streamerType]=auto&amp;flashvars\\\\\\\\\\\\\\\\\\\\\\[localizationCode]=en_US&amp;flashvars\\\\\\\\\\\\\\\\\\\\\\[sideBarContainer.plugin]=true&amp;flashvars\\\\\\\\\\\\\\\\\\\\\\[sideBarContainer.position]=left&amp;flashvars\\\\\\\\\\\\\\\\\\\\\\[sideBarContainer.clickToClose]=true&amp;flashvars\\\\\\\\\\\\\\\\\\\\\\[chapters.plugin]=true&amp;flashvars\\\\\\\\\\\\\\\\\\\\\\[chapters.layout]=vertical&amp;flashvars\\\\\\\\\\\\\\\\\\\\\\[chapters.thumbnailRotator]=false&amp;flashvars\\\\\\\\\\\\\\\\\\\\\\[streamSelector.plugin]=true&amp;flashvars\\\\\\\\\\\\\\\\\\\\\\[EmbedPlayer.SpinnerTarget]=videoHolder&amp;flashvars\\\\\\\\\\\\\\\\\\\\\\[dualScreen.plugin]=true&amp;flashvars\\\\\\\\\\\\\\\\\\\\\\[hotspots.plugin]=1&amp;flashvars\\\\\\\\\\\\\\\\\\\\\\[Kaltura.addCrossoriginToIframe]=true&amp;&wid=1_kjeke3t9" width="608" height="402" allowfullscreen webkitallowfullscreen mozAllowFullScreen allow="autoplay \\\\\\\\\\\\\\\\\\\\\\*; fullscreen \\\\\\\\\\\\\\\\\\\\\\*; encrypted-media *" sandbox="allow-downloads allow-forms allow-same-origin allow-scripts allow-top-navigation allow-pointer-lock allow-popups allow-modals allow-orientation-lock allow-popups-to-escape-sandbox allow-presentation allow-top-navigation-by-user-activation" frameborder="0" title="Introducing Big Ten Open Books" style="position:absolute;top:0;left:0;width:100%;height:100%"></iframe></div></div>
 
@@ -37,7 +37,7 @@ This 3 minute video goes into some of the benefits of our collaboration:
 
 ### **Ready to Sponsor?**
 
-<a class="btn btn-primary" href="/https://forms.gle/Syzt31PM3n3haf628">Fill in this simple form to Sponsor a Book</a>
+<a class="btn btn-primary" href="/">Fill in this simple form to Sponsor a Book</a>
 
 <p><a class="btn btn-primary btn-lg mb-3" href="https://forms.gle/Syzt31PM3n3haf628">Fill in this simple form to Sponsor a Book</a></p>
 
