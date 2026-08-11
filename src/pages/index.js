@@ -71,10 +71,7 @@ const IndexPage = ({data}) => {
 
   return (
     <Layout>
-      <SEO title="Home" />
-        <section className="cards-container container">
-          <CardList cards={cards} />
-        </section>
+      <SEO title="Home" />        
         <section className="tagline-container">
           <div className="container">
             <div className="row">
@@ -86,6 +83,9 @@ const IndexPage = ({data}) => {
               </div>
             </div>
           </div>
+        </section>
+        <section className="cards-container container">
+          <CardList cards={cards} />
         </section>
         <section className="cta-container">
           <div className="container">

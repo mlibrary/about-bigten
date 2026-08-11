@@ -22,7 +22,7 @@ const Impact = ({data}) => {
   return (
     <Layout>
       <SEO title={title} />
-      <div className="impact">
+      <div className="impact pb-5">
         <section className="cards-container container">
         <Title title={title} />
         <p className="lead">Explore stories and book usage data and learn about the impact of the Big Ten Open Books project.</p>
@@ -51,7 +51,7 @@ const Impact = ({data}) => {
             </div>
           </div>
           <div id="readership-map" className="readership-map container">
-            <ReactMarkdown source={readershipMapDescription} />
+            <ReactMarkdown children={readershipMapDescription} />
             <div className="readership-map-embed">
               <iframe title="Readership Map" frameborder="0" height="650" width="100%" src="https://maps.publishing.umich.edu/readership-map/?filter.stream=4644734036"></iframe>
             </div>

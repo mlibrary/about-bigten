@@ -4,17 +4,27 @@ title: Our Publishers
 ---
 The following participating University Presses, all members of the Big Ten Academic Alliance, are collaborating to create open access digital collections of scholarly monographs. 
 
-* [Indiana University Press](https://iupress.org/)
-* [Michigan State University Press](https://msupress.org/)
-* [Northwestern University Press](https://nupress.northwestern.edu/)
-* [The Ohio State University Press](https://ohiostatepress.org/)
-* [Penn State University Press](https://www.psupress.org/)
-* [Purdue University Press](https://www.press.purdue.edu/)
-* [University of Illinois Press](https://www.press.uillinois.edu/)
-* [University of Michigan Press](https://www.press.umich.edu/)
-* [University of Minnesota Press](https://www.upress.umn.edu/)
-* [University of Nebraska Press](https://www.nebraskapress.unl.edu/)
-* [University of Wisconsin Press](https://uwpress.wisc.edu/)
+<div class="row">
+    <div class="col-md-5">
+      <ul>
+        <li><a href="https://iupress.org/">Indiana University Press</a></li>
+        <li><a href="https://msupress.org">Michigan State University Press</a></li>
+        <li><a href="https://nupress.northwestern.edu/">Northwestern University Press</a></li>
+        <li><a href="https://ohiostatepress.org/">The Ohio State University Press</a></li>
+        <li><a href="https://www.psupress.org/">Penn State University Press</a></li>
+        <li><a href="https://www.press.purdue.edu/">Purdue University Press</a></li>
+      </ul>
+    </div>
+    <div class="col-md-5">
+      <ul>
+        <li><a href="https://www.press.uillinois.edu/">University of Illinois Press</a></li>
+        <li><a href="https://www.press.umich.edu">University of Michigan Press</a></li>
+        <li><a href="https://www.upress.umn.edu">University of Minnesota Press</a></li>
+        <li><a href="https://www.nebraskapress.unl.edu">University of Nebraska Press</a></li>
+        <li><a href="https://uwpress.wisc.edu">University of Wisconsin Press</a></li>
+      </ul>
+    </div>
+</div>
 
 The books in the Big Ten Open Books collections have all been previously published by these presses and have undergone a rigorous selection and quality certification process that allows readers to trust the veracity of the content made available. The specific details of the publishing process depends on the type of book, but usually involves the following steps.
 
