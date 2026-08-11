@@ -10,7 +10,7 @@ const About = ({data}) => {
   return (
     <Layout>
       <SEO title={title} />
-      <div className="container">
+      <div className="container pt-5 pb-5">
         <Title title={title} />
         <div dangerouslySetInnerHTML={{ __html: html }} />
       </div>

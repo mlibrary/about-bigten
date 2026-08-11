@@ -23,8 +23,8 @@ const Card = ({cardImage, card}) => {
         <div className="col-xs-12">
           {
             buttonUrl.startsWith("/")
-            ? <Link className="card-link btn btn-secondary" role="button" to={buttonUrl}>{buttonLabel}</Link>
-            : <a className="card-link btn btn-secondary" role="button" href={buttonUrl}>{buttonLabel}</a>
+            ? <Link className="card-link btn btn-primary" role="button" to={buttonUrl}>{buttonLabel}</Link>
+            : <a className="card-link btn btn-primary" role="button" href={buttonUrl}>{buttonLabel}</a>
           }
         </div>
       </div>
