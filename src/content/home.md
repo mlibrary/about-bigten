@@ -4,8 +4,8 @@ taglineSection:
   buttonLabel: Explore the Collection
   buttonUrl: https://fulcrum.org/bigten
   text: >-
-    ###### Big Ten Open Books. Connecting readers everywhere to fully
-    accessible, trusted books from leading university presses.
+    Big Ten Open Books. Connecting readers everywhere to fully accessible,
+    trusted books from leading university presses.
 
 
     Making backlist books openly available online on open infrastructure, to read and reuse without paywalls.
