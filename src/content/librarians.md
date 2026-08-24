@@ -10,7 +10,7 @@ We've created a set of short FAQs covering Subject Areas, Costs, Title Selection
 
 ### Discovery & metadata
 
-BTAA has several agreements to make titles discoverable and to enable auto-loading of MARC records, including with EBSCO, ExLibris, OCLC, and Proquest. You can find more details on the [Implement the Collections](/implement) page, including a link to download MARC records.
+BTAA has several agreements to make titles discoverable and to enable auto-loading of MARC records, including with EBSCO, ExLibris, OCLC, and Proquest. You can find more details on the [Implement the Collections](/implement) page, including a link to download MARC and KBART records.
 
 ### Our partners helping to make it happen
 
