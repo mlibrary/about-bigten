@@ -38,9 +38,7 @@ Big Ten Open Books is supported by institutions from all over North America and 
         <li>Cambridge University</li>
         <li>University of Calgary</li>
         <li>University of California - Berkeley</li>
-        <li>University of California - Irvine</li>
-
-  <li>University of California - Los Angeles</li>
+        <li>University of California - Irvine</li><li>University of California - Los Angeles</li>
   <liUniversity of California - Merced</li>
   <li>University of California - Riverside</li>
   <li>University of California - San Diego</li>
