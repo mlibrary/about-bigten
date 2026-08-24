@@ -18,7 +18,7 @@ Big Ten Open Books collections are marketed and distributed through the Universi
 
 # Contact
 
-For librarian general inquiries and questions, please contact:
+For questions about the collections and general inquiries, please contact:
 
 <!--StartFragment-->
 
@@ -29,6 +29,6 @@ Center for Library Programs\
 
 For technical questions or problems with this website or a title in the collection, please email [fulcrum-info@umich.edu](mailto:fulcrum-info@umich.edu).
 
-To sponsor a book right now, you can fill in [this short form](https://docs.google.com/forms/d/e/1FAIpQLSce3SqniMEqisdfv_JpSP3O9g96sAFifmJf2TQixKNgJwEYoQ/viewform) and our partners at Lyrasis will pick up your details and be in touch soon.
+**Ready to sign up?** To sponsor a book right now, you can fill in [this short form](https://docs.google.com/forms/d/e/1FAIpQLSce3SqniMEqisdfv_JpSP3O9g96sAFifmJf2TQixKNgJwEYoQ/viewform) and our partners at Lyrasis will pick up your details and be in touch soon.
 
 <!--EndFragment-->
