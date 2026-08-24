@@ -4,48 +4,57 @@ title: Our Supporters
 ---
 Big Ten Open Books is supported by institutions from all over North America and beyond. We're grateful for every member that has invested in creating open access editions from previously-closed backlist that can now be read and reused by anyone, anywhere:
 
-* Appalacian State
-* Arizona State University
-* Arizona State University
-* Bryn Mawr College
-* California State University - Northridge
-* Cambridge University
-* Connecticut College
-* Eastern Washington University
-* Georgetown University
-* Harvard University
-* Hebrew University of Jerusalem
-* Hope College
-* Humboldt University
-* Illinois State University
-* Indiana University - Bloomington
-* Indiana University - Northwest
-* Johns Hopkins University
-* Michigan State University
-* Northern Michigan University
-* Penn State University
-* Purdue University
-* Simpson College
-* Spelman College
-* St. Mary's University of Minnesota
-* SUNY Brockport
-* The Ohio State University
-* U.S. Justice Department
-* University of Calgary
-* University of California - Berkeley
-* University of California - Irvine
-* University of California - Los Angeles
-* University of California - Merced
-* University of California - Riverside
-* University of California - San Diego
-* University of California - Santa Barbara
-* University of California - Santa Cruz
-* University of Chicago
-* University of Illinois - Urbana-Champaign
-* University of Iowa
-* University of Michigan
-* University of Minnesota
-* University of Washington
-* University of Wisconsin - Madison
-* Wayne State University
-* Western Michigan University
+<div class="row">
+    <div class="col-md-5">
+      <ul>
+        <li>Appalacian State</li>
+        <li>Arizona State University</li>
+        <li>Bryn Mawr College</li>
+        <li>Connecticut College</li>
+        <li>Eastern Washington University</li>
+        <li>Georgetown University</li>\
+ <li>Harvard University</li>\
+ <li>Hebrew University of Jerusalem</li>\
+ <li>Hope College</li>\
+ <li>Humboldt University</li>\
+ <li>Indiana University - Bloomington</li>\
+ <li>Indiana University - Northwest</li>\
+ <li>Johns Hopkins University</li>\
+ <li>Michigan State University</li>\
+ <li>Northern Michigan University</li>\
+ <li>Penn State University</li>\
+ <li>Purdue University</li>\
+ <li>Simpson College</li>\
+ <li>Spelman College</li>\
+ <li>St. Mary's University of Minnesota</li>\
+ <li>SUNY Brockport</li>\
+ <li>The Ohio State University</li>
+
+\    </ul>
+    </div>
+    <div class="col-md-5">
+      <ul>
+        <li>U.S. Justice Department</li>
+        <li>Cambridge University</li>
+        <li>University of Calgary</li>
+        <li>University of California - Berkeley</li>
+        <li>University of California - Irvine</li>\
+  <li>University of California - Los Angeles</li>\
+  <liUniversity of California - Merced</li>\
+  <li>University of California - Riverside</li>\
+  <li>University of California - San Diego</li>\
+  <li>University of California - Santa Barbara</li>\
+  <li>University of California - Santa Cruz</li>\
+  <li>University of Chicago</li>\
+  <li>University of Illinois - Urbana-Champaign</li>\
+  <li>University of Iowa</li>\
+  <li>University of Michigan</li>\
+  <li>University of Minnesota</li>\
+  <li>University of Washington</li>\
+  <li>University of Wisconsin - Madison</li>\
+  <li>Wayne State University</li>\
+  <li>Western Michigan University</li>\
+
+      </ul>
+    </div>
+</div>
