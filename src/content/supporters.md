@@ -57,4 +57,4 @@ Big Ten Open Books is supported by institutions from all over North America and 
 </ul>
     </div>
 
-\    </div>
+</div>
