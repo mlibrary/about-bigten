@@ -14,7 +14,7 @@ All titles have been converted to reflowable EPUB3 files with alt-text and descr
 
 ### **Durability**
 
-Without an explicit commitment to digital preservation, it would be impossible for libraries and users to trust the stability of Big Ten Open Books. For this reasons, the titles are not only preserved in the collections of the University of Michigan, but also managed in the distributed frameworks provided by [CLOCKSS](https://clockss.org/) and the [Academic Preservation Trust](https://aptrust.org/).
+Without an explicit commitment to digital preservation, it would be impossible for libraries and users to trust the stability of Big Ten Open Books. For this reason, the titles are not only preserved in the collections of the University of Michigan, but also managed in the distributed frameworks provided by [CLOCKSS](https://clockss.org/) and the [Academic Preservation Trust](https://aptrust.org/).
 
 ## **Flexibility**
 
