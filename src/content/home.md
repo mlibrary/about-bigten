@@ -8,7 +8,7 @@ taglineSection:
     trusted books from leading university presses.
 
 
-    Flipping previously-paywalled backlist books to open - making them freely-available online under Creative Commons licenses, to read and reuse without paywalls.
+    Flipping previously-paywalled backlist books to open and making them freely-available online under Creative Commons licenses, to read and reuse without paywalls.
 firstCallToActionSection:
   description: Making reading accessible for everyone
   buttonLabel: Our Mission
