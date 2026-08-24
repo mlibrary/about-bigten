@@ -14,9 +14,6 @@ The spreadsheet below displays all titles seeking funding: each of these books c
 
 <iframe title="List of Big Ten Open Books titles available for sponsorship" height="800px" width="100%" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQchFDdn0mb_vdiTSR3GwmZay17Rnt3Gw16KZYtpUWs2a-35xJjJhf4hDGcWKo4mJk_DC85tmcaXSGJ/pubhtml?gid=550005235&amp;single=true&amp;widget=false&amp;headers=false&amp;range=A1:K266&amp;chrome=false"></iframe>
 
-<table class="table table-bordered">
-    <!-- <caption><a class="btn btn-secondary btn-lg" href="https://ftp.fulcrum.org/UMPEBC/KBART/">Download KBART files</a></caption> -->
-
 **Ready to Sponsor?** 
 
 To fund an OA book right now, click on the button below and fill in your details, and our partners at Lyrasis will pick up your details and be in touch soon.

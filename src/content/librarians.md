@@ -1,6 +1,6 @@
 ---
 templateKey: librarians-page
-title: For Librarians - Our Mission
+title: Our Mission
 ---
 Big Ten Open Books works to provide vital subject collections to everyone without paywalls for readers or charges to authors. This mission would not be possible without the collaboration between the University Presses of the Big Ten Academic Alliance and supporting academic libraries.
 
