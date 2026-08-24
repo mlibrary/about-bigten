@@ -12,7 +12,7 @@ taglineSection:
 firstCallToActionSection:
   description: Making reading accessible for everyone
   buttonLabel: Our Mission
-  buttonUrl: https://bigtenopenbooks.org/librarians#mission
+  buttonUrl: /about
 secondCallToActionSection:
   description: Learn more about how we're doing
   buttonLabel: Visualize Impact
