@@ -2,8 +2,6 @@
 templateKey: librarians-page
 title: Implement the Collections
 ---
-# Implement the Collections
-
 As a unique collaboration between libraries and university presses, Big Ten Open Books is naturally committed to creating digital collections that aspire to the highest standards of discoverability, accessibility, durability, and flexibility. Here is how the collection lives our shared values. 
 
 ### **Discoverability**
