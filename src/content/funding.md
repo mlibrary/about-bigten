@@ -20,7 +20,7 @@ The cost of sponsorship is $3,800 per title. This fully funds the creation of an
 * $2,000 is paid to the participating Press
 * $500 is paid to convert the print book to fully accessible EPub3 and PDF files
 * $250 covers the cost to host, in perpetuity, an ebook on the Fulcrum platform
-* $200 is for discovery services, including the external preparation of MARC records and sharing files with 3rd party OA content hosts (e.g., JSTOR, Project Muse)
+* $200 is for discovery services, including the external preparation of MARC records and sharing files with 3rd party OA content hosts (e.g., JSTOR, Project MUSE)
 * $350 for title list development, coordination of presses, and overall project management of the program
 * $300 for marketing, outreach to libraries, and administration of the sales of the sponsorship program
 * $100 supports outreach to affiliated scholarly communities 
