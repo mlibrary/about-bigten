@@ -12,25 +12,25 @@ Big Ten Open Books is supported by institutions from all over North America and 
         <li>Bryn Mawr College</li>
         <li>Connecticut College</li>
         <li>Eastern Washington University</li>
-        <li>Georgetown University</li>\
- <li>Harvard University</li>\
- <li>Hebrew University of Jerusalem</li>\
- <li>Hope College</li>\
- <li>Humboldt University</li>\
- <li>Indiana University - Bloomington</li>\
- <li>Indiana University - Northwest</li>\
- <li>Johns Hopkins University</li>\
- <li>Michigan State University</li>\
- <li>Northern Michigan University</li>\
- <li>Penn State University</li>\
- <li>Purdue University</li>\
- <li>Simpson College</li>\
- <li>Spelman College</li>\
- <li>St. Mary's University of Minnesota</li>\
- <li>SUNY Brockport</li>\
+        <li>Georgetown University</li>
+ <li>Harvard University</li>
+ <li>Hebrew University of Jerusalem</li>
+ <li>Hope College</li>
+ <li>Humboldt University</li>
+ <li>Indiana University - Bloomington</li>
+ <li>Indiana University - Northwest</li>
+ <li>Johns Hopkins University</li>
+ <li>Michigan State University</li>
+ <li>Northern Michigan University</li>
+ <li>Penn State University</li>
+ <li>Purdue University</li>
+ <li>Simpson College</li>
+ <li>Spelman College</li>
+ <li>St. Mary's University of Minnesota</li>
+ <li>SUNY Brockport</li>
  <li>The Ohio State University</li>
 
-\    </ul>
+ </ul>
     </div>
     <div class="col-md-5">
       <ul>
@@ -38,23 +38,25 @@ Big Ten Open Books is supported by institutions from all over North America and 
         <li>Cambridge University</li>
         <li>University of Calgary</li>
         <li>University of California - Berkeley</li>
-        <li>University of California - Irvine</li>\
-  <li>University of California - Los Angeles</li>\
-  <liUniversity of California - Merced</li>\
-  <li>University of California - Riverside</li>\
-  <li>University of California - San Diego</li>\
-  <li>University of California - Santa Barbara</li>\
-  <li>University of California - Santa Cruz</li>\
-  <li>University of Chicago</li>\
-  <li>University of Illinois - Urbana-Champaign</li>\
-  <li>University of Iowa</li>\
-  <li>University of Michigan</li>\
-  <li>University of Minnesota</li>\
-  <li>University of Washington</li>\
-  <li>University of Wisconsin - Madison</li>\
-  <li>Wayne State University</li>\
-  <li>Western Michigan University</li>\
+        <li>University of California - Irvine</li>
 
-      </ul>
+  <li>University of California - Los Angeles</li>
+  <liUniversity of California - Merced</li>
+  <li>University of California - Riverside</li>
+  <li>University of California - San Diego</li>
+  <li>University of California - Santa Barbara</li>
+  <li>University of California - Santa Cruz</li>
+  <li>University of Chicago</li>
+  <li>University of Illinois - Urbana-Champaign</li>
+  <li>University of Iowa</li>
+  <li>University of Michigan</li>
+  <li>University of Minnesota</li>
+  <li>University of Washington</li>
+  <li>University of Wisconsin - Madison</li>
+  <li>Wayne State University</li>
+  <li>Western Michigan University</li>
+
+</ul>
     </div>
-</div>
+
+\    </div>
