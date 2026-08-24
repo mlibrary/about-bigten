@@ -25,7 +25,7 @@ To establish sustainable funding, the BTAA employs a mixed funding model:
 * Institutions affiliated with authors in the collections can sponsor specific titles written by their institution’s scholars.
 * Institutions without affiliated authors can contribute general support for the program or can sponsor individual titles.
 
-The cost of sponsorship is $3,800 per title. This fully funds the creation of an open access version of the backlist title and you can [read on the website how that figure breaks down](https://bigtenopenbooks.org/stories/2025-05-19-transparency-is-fundamental-to-diamond-open-access-how-big-ten-open-books-welcomes-community-engagement/). The full list of titles available for sponsorship can also be found on the website under [Sponsor A Book](https://bigtenopenbooks.org/librarians/#sponsorship).
+The cost of sponsorship is $3,800 per title. This fully funds the creation of an open access version of the backlist title and you can [read how that figure breaks down](https://bigtenopenbooks.org/stories/2025-05-19-transparency-is-fundamental-to-diamond-open-access-how-big-ten-open-books-welcomes-community-engagement/). The full list of titles available for sponsorship can also be found on the website under [Sponsor A Book](https://bigtenopenbooks.org/librarians/#sponsorship).
 
 Big Ten Open Books collections are distributed through Michigan Publishing, with funds collected via the trusted non-profit [library partner Lyrasis](https://my.lyrasis.org/s/product-details?id=a1BUh000001nx4nMAA).
 
