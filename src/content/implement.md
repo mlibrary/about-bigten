@@ -16,7 +16,7 @@ All titles have been converted to reflowable EPUB3 files with alt-text and descr
 
 Without an explicit commitment to digital preservation, it would be impossible for libraries and users to trust the stability of Big Ten Open Books. For this reason, the titles are not only preserved in the collections of the University of Michigan, but also managed in the distributed frameworks provided by [CLOCKSS](https://clockss.org/) and the [Academic Preservation Trust](https://aptrust.org/).
 
-## **Flexibility**
+### **Flexibility**
 
 True open access requires that titles are not only readable for free, but also reusable in contexts such as open textbooks and text and data mining. While the choice of Creative Commons license is determined by individual publishers after consultation with their authors, the default is a [CC-BY NC license](https://creativecommons.org/licenses/by-nc/4.0/legalcode). 
 
@@ -24,7 +24,7 @@ True open access requires that titles are not only readable for free, but also r
 
 MARC (.mrc) records for the collections are available to download from **[ftp.fulcrum.org/bigten](https://ftp.fulcrum.org/bigten/)**
 
-MARC and KBART files for titles in Big Ten Open Books collection are delivered to the discovery services listed below:
+MARC and KBART files for titles are delivered to the discovery services listed below:
 
  <thead class="thead-light">
         <tr>
