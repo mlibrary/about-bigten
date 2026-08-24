@@ -10,9 +10,9 @@ Driven by the core values of **discoverability, accessibility, durability, and f
 
 The first Big Ten Open Books project was launched in 2023 as a collection of 100 open access books on Gender and Sexuality Studies, followed by the collection on Indigenous North Americans.
 
-<a class="btn btn-primary" href="/https://bigtenopenbooks.org/collections/">Learn more about the 2025-2026 collections</a>
+<a class="btn btn-primary" href="/collections/">Learn more about the 2025-2026 collections</a>
 
-[](https://bigtenopenbooks.org/collections/)Participating presses include: I﻿ndiana University Press, Michigan State University Press, Northwestern University Press, Ohio State University Press, Penn State University Press, Purdue University Press, University of Illinois Press, University of Michigan Press, University of Minnesota Press, and University of Wisconsin Press.
+Participating presses include: I﻿ndiana University Press, Michigan State University Press, Northwestern University Press, Ohio State University Press, Penn State University Press, Purdue University Press, University of Illinois Press, University of Michigan Press, University of Minnesota Press, and University of Wisconsin Press.
 
 ## Collective action, at scale, to open trusted content for the public good.
 

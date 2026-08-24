@@ -50,6 +50,7 @@ collections:
             widget: object
             fields:
               - { name: text, label: Text, widget: markdown }
+              - { name: secondText, label: Secondary Text, widget: markdown }
               - { name: buttonLabel, label: "Button Label" }
               - { name: buttonUrl, label: "Button URL" }
           - name: firstCallToActionSection

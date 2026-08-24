@@ -6,8 +6,7 @@ taglineSection:
   text: >-
     Big Ten Open Books. Connecting readers everywhere to fully accessible,
     trusted books from leading university presses.
-
-
+  secondText: >-
     Flipping previously-paywalled backlist books to open and making them freely-available online under Creative Commons licenses, to read and reuse without paywalls.
 firstCallToActionSection:
   description: Making reading accessible for everyone

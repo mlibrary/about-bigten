@@ -2,18 +2,16 @@
 templateKey: librarians-page
 title: Funding and Support
 ---
-## Funding and Support
-
-### Our funding model allows participation by anyone
+## Our funding model allows participation by anyone
 
 To establish sustainable funding, the BTOB project employs a mixed model and you can get involved and support it financially it through either option:
 
 * Institutions affiliated with authors in the collections can sponsor specific titles written by their institution’s scholars. For example, Purdue University, with three authors represented, has supported opening those 3 works at a cost of $10,500. 
 * Institutions without affiliated authors can contribute general support for the program or can sponsor individual titles.
 
-The full list of titles available for sponsorship can be found on the website under [Sponsor A Book](https://bigtenopenbooks.org/librarians/#sponsorship).
+The full list of titles available for sponsorship can be found on the website under [Sponsor A Book](/sponsor).
 
-### Costs & transparency on how your investment is spent
+## Costs & transparency on how your investment is spent
 
 The cost of sponsorship is $3,800 per title. This fully funds the creation of an open access version of each book and the costs break down as follows:
 

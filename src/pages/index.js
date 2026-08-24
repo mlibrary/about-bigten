@@ -14,6 +14,7 @@ query {
     frontmatter {
       taglineSection {
         text
+        secondText
         buttonLabel
         buttonUrl
       }
@@ -76,7 +77,7 @@ const IndexPage = ({data}) => {
           <div className="container">
             <div className="row">
               <div className="tagline col-md-8">
-                <Tagline text={tagline.text} />
+                <Tagline text={tagline.text} secondText={tagline.secondText} />
               </div>
               <div className="cta-tagline col-md-4">
                 <a className="btn btn-lg btn-secondary" href={tagline.buttonUrl}>{tagline.buttonLabel}</a>

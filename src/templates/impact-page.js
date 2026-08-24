@@ -22,7 +22,7 @@ const Impact = ({data}) => {
   return (
     <Layout>
       <SEO title={title} />
-      <div className="impact pb-5">
+      <div className="impact">
         <section className="cards-container container">
         <Title title={title} />
         <p className="lead">Explore stories and book usage data and learn about the impact of the Big Ten Open Books project.</p>
@@ -31,17 +31,7 @@ const Impact = ({data}) => {
           <Link to="/stories" className="btn btn-secondary mt-4 float-right">
               Read More Stories
           </Link>
-        </section>
-        <section className="tagline-container">
-          <div className="container">
-            <div className="row">
-              <div className="tagline col-md-12 text-center">
-                <span className="text-white">Did Big Ten Open Books impact you?</span>
-                <a className="btn btn-lg btn-secondary" href="https://fulcrum.org/bigten">Find a book and tell us about it</a>
-              </div>
-            </div>
-          </div>
-        </section>
+        </section>        
         <section>
           <div className="google-data-studio-oa container">
             <h2 id="oa-book-usage">Book Usage</h2>
@@ -54,6 +44,16 @@ const Impact = ({data}) => {
             <ReactMarkdown children={readershipMapDescription} />
             <div className="readership-map-embed">
               <iframe title="Readership Map" frameborder="0" height="650" width="100%" src="https://maps.publishing.umich.edu/readership-map/?filter.stream=4644734036"></iframe>
+            </div>
+          </div>
+        </section>
+        <section className="tagline-container">
+          <div className="container">
+            <div className="row">
+              <div className="tagline col-md-12 text-center">
+                <span className="text-white">Did Big Ten Open Books impact you?</span>
+                <a className="btn btn-lg btn-secondary" href="https://fulcrum.org/bigten">Find a book and tell us about it</a>
+              </div>
             </div>
           </div>
         </section>

@@ -107,6 +107,7 @@ const Navbar = () => {
                   For Librarians
                 </button>
                 <div className={`dropdown-menu ${librariansOpen ? "show" : ""}`}>
+                  <a className="dropdown-item" href="/librarians">Our Mission</a>
                   <a className="dropdown-item" href="/investment">Investment Criteria</a>
                   <a className="dropdown-item" href="/funding">Funding &amp; Support</a>
                   <a className="dropdown-item" href="/implement">Implement the Collections</a>

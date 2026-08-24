@@ -41,22 +41,38 @@ const Footer = () => {
     <footer className="footer text-white">
       <div className="container">
         <div className="row justify-content-between">
-          <section className="col-md-4 contact">
+          <section className="col-md-3 contact">
             <a href="https://btaa.org" className="text-light logo"><img src="/assets/btaa-white.svg" alt="Big Ten Academic Alliance" height="100" width="auto" className="block" /></a>
             <small className="d-block pt-2"><Link className="text-light muli text-uppercase bold" to="/contact">Contact Us</Link></small>                  
           </section>          
-          <section className="col-md-4">
-            <h2 className="text-light">Big Ten Open Books</h2>
-              <ul className="list-unstyled">
-                <li><a className="text-light" href="https://fulcrum.org/bigten">Browse and Search</a></li>
+          <section className="col-md-3">
+              <ul className="list-unstyled">                
                 <li><Link className="text-light" to="/about">About</Link></li>
-                <li><Link className="text-light" to="/publishers">Our Publishers</Link></li>
-                <li><Link className="text-light" to="/collections">Our Collections</Link></li>
-                <li><Link className="text-light" to="/librarians">For Librarians</Link></li>
-                <li><Link className="text-light" to="/impact">Impact and Usage</Link></li>
+                <li><span className="text-light bold">Our Publishers</span>
+                  <ul className="list-unstyled pl-3">
+                    <li><Link className="text-light" to="/publishers">Publishers</Link></li>
+                    <li><Link className="text-light" to="/collections">Our Collections</Link></li>
+                  </ul>
+                </li>
+                <li><Link className="text-light" to="/supporters">Our Supporters</Link></li>
+                <li><Link className="text-light" to="/sponsor">Sponsor a Book</Link></li>                
               </ul>
-          </section>        
-          <section className="col-md-4">
+          </section>
+          <section className="col-md-3">
+              <ul className="list-unstyled">
+                <li><span className="text-light bold">For Librarians</span>
+                  <ul className="list-unstyled pl-3">
+                    <li><Link className="text-light" to="/librarians">Our Mission</Link></li>
+                    <li><Link className="text-light" to="/investment">Investment Criteria</Link></li>
+                    <li><Link className="text-light" to="/funding">Funding & Support</Link></li>
+                    <li><Link className="text-light" to="/implement">Implement the Colletions</Link></li>
+                  </ul>
+                </li>
+                <li><Link className="text-light" to="/impact">Impact and Usage</Link></li>
+                <li><a className="text-light" href="https://fulcrum.org/bigten">Browse and Search</a></li>
+              </ul>
+          </section>         
+          <section className="col-md-3">
             <h2 className="text-light">Quicklinks</h2>
             <ul className="list-unstyled">
               {
