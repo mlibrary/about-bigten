@@ -6,7 +6,11 @@ We want to make it easy to integrate Big Ten Open Books into your library system
 
 ## **Discoverability**
 
-MARC records for the books in Big Ten Open Books collections are prepared by [Backstage Library Works](https://www.bslw.com/history-of-backstage-library-works/) and are made available when each collection is launched, along with KBART files, for direct download. Collections are also available for auto-loading via the services listed below. Books in the Big Ten Open Books collections are also distributed via [JSTOR](https://about.jstor.org/librarians/books/open-access-books-jstor/), [Project MUSE](https://muse.jhu.edu/museopen/), and [OAPEN](https://www.oapen.org/). They are indexed in the [Directory of Open Access Books](https://doabooks.org/).
+Big Ten Open Books collections are hosted on [their own dedicated website on the Fulcrum platform](https://www.fulcrum.org/bigten/) provided by the University of Michigan. You may add this link to your library databases list and/or discovery system. \
+\
+MARC records for the books are prepared by [Backstage Library Works](https://www.bslw.com/history-of-backstage-library-works/) and are made available when each collection is launched, along with KBART files, for direct download. In addition, we work with major discovery and knowledge base vendors to create Big Ten Open Books collections that you may choose to activate in their systems. Please see the Metadata section below for a link to the MARC and KBART files as well as a list of vendors and systems that contain our collections.
+
+Books in the Big Ten Open Books collections are also distributed via [JSTOR](https://about.jstor.org/librarians/books/open-access-books-jstor/), [Project MUSE](https://muse.jhu.edu/museopen/), and [OAPEN](https://www.oapen.org/). They are indexed in the [Directory of Open Access Books](https://doabooks.org/). These initiatives help to connect these books to broader audiences globally. If your library patrons use these services, they may already be discovering and using Big Ten Open Books!
 
 ## **Accessibility**
 
