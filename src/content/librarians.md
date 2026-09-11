@@ -4,17 +4,25 @@ title: Our Mission
 ---
 Big Ten Open Books works to provide vital subject collections to everyone without paywalls for readers or charges to authors. This mission would not be possible without the collaboration between the University Presses of the Big Ten Academic Alliance and supporting academic libraries.
 
+<br>
+
 ### Aligning investment with your library rubric
 
 We've created a set of short FAQs covering Subject Areas, Costs, Title Selection Process, Metrics & Usage Reporting, Copyright, Metadata, Accessibility Standards, and Preservation. You can [download those as a PDF](https://drive.google.com/file/d/1bxqAMiTyNq8lEQn05aOaLYNLDnDLQBqa/view?usp=sharing) or view them on the website on the [Investment Criteria](/investment) page.
+
+<br>
 
 ### Discovery & metadata
 
 BTAA has several agreements to make titles discoverable and to enable auto-loading of MARC records, including with EBSCO, ExLibris, OCLC, and Proquest. You can find more details on the [Implement the Collections](/implement) page, including a link to download MARC and KBART records.
 
+<br>
+
 ### Our partners helping to make it happen
 
 Big Ten Open Books collections are marketed and distributed through the University of Michigan’s Publishing Services unit, with funds collected via the [trusted non-profit library organization, Lyrasis](https://my.lyrasis.org/s/product-details?id=a1BUh000001nx4nMAA). This ensures streamlined administration and communication with institutions.
+
+<br>
 
 ### Contact
 
@@ -26,6 +34,8 @@ Center for Library Programs\
 [kate.mccready@btaa.org](mailto:kate.mccready@btaa.org)
 
 For technical questions or problems with this website or a title in the collection, please email [fulcrum-info@umich.edu](mailto:fulcrum-info@umich.edu).
+
+<br>
 
 ### Ready to sign up? 
 
