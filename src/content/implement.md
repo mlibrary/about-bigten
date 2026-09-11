@@ -2,7 +2,7 @@
 templateKey: librarians-page
 title: Implement the Collections
 ---
-As a unique collaboration between libraries and university presses, Big Ten Open Books is naturally committed to creating digital collections that aspire to the highest standards of discoverability, accessibility, durability, and flexibility. Here is how the collection lives our shared values. 
+We want to make it easy to integrate Big Ten Open Books into your library systems. As a unique collaboration between libraries and university presses, the program is naturally committed to creating digital collections that aspire to the highest standards of discoverability, accessibility, durability, and flexibility. Here is how the collection lives our shared values. 
 
 ## **Discoverability**
 
@@ -18,13 +18,14 @@ Without an explicit commitment to digital preservation, it would be impossible f
 
 ## **Flexibility**
 
-True open access requires that titles are not only readable for free, but also reusable in contexts such as open textbooks and text and data mining. While the choice of Creative Commons license is determined by individual publishers after consultation with their authors, the default is a [CC-BY NC license](https://creativecommons.org/licenses/by-nc/4.0/legalcode). 
+True open access requires that titles are not only readable for free, but also reusable in contexts such as open textbooks and text and data mining. While the choice of Creative Commons license is determined by individual publishers after consultation with their authors, the default is a [CC-BY NC license](https://creativecommons.org/licenses/by-nc/4.0/legalcode). On the Big Ten Open Books site, each book's page includes its Creative Commons license.
 
 ## **Metadata**
 
 MARC (.mrc) records for the collections are available to download from **[ftp.fulcrum.org/bigten](https://ftp.fulcrum.org/bigten/)**
 
 MARC and KBART files for titles are delivered to the discovery services listed below:
+
 <table class="table table-bordered">
  <thead class="thead-light">
         <tr>
