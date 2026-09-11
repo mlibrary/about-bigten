@@ -4,9 +4,9 @@ title: Funding and Support
 ---
 ## Our funding model allows participation by anyone
 
-To establish sustainable funding, the BTOB project employs a mixed model and you can get involved and support it financially it through either option:
+To establish sustainable funding, the project allows you to get involved and support it through either:
 
-* Institutions affiliated with authors in the collections can sponsor specific titles written by their institution’s scholars. For example, Purdue University, with three authors represented, has supported opening those 3 works at a cost of $10,500. 
+* Institutions affiliated with authors in the collections can sponsor specific titles written by their institution’s scholars. For example, Purdue University, with three authors represented, has supported opening those 3 works at a cost of $11,400. 
 * Institutions without affiliated authors can contribute general support for the program or can sponsor individual titles.
 
 The full list of titles available for sponsorship can be found on the website under [Sponsor A Book](/sponsor).
