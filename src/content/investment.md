@@ -5,6 +5,8 @@ title: Investment Criteria
 ## Alignment with your library’s investment priorities
 
 <br>
+
+
 ### Collection Subject Areas
 
 The Big Ten Open Books collections offer an insightful journey into crucial themes shaping our world, fostering thoughtful scholarship and knowledge sharing from backlist titles in the following subject areas:
