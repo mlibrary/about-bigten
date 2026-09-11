@@ -14,6 +14,8 @@ The first Big Ten Open Books project was launched in 2023 as a collection of 100
 
 Participating presses include: I﻿ndiana University Press, Michigan State University Press, Northwestern University Press, Ohio State University Press, Penn State University Press, Purdue University Press, University of Illinois Press, University of Michigan Press, University of Minnesota Press, and University of Wisconsin Press.
 
+
+
 ### Collective action, at scale, to open trusted content for the public good.
 
 * **Collective Action.** We aspire to develop a programmatic, sustainable approach to our work that mirrors the size and impact of our member institutions. 
