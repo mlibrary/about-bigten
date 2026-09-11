@@ -20,7 +20,7 @@ Participating presses include: I﻿ndiana University Press, Michigan State Unive
 
 * **Collective Action.** We aspire to develop a programmatic, sustainable approach to our work that mirrors the size and impact of our member institutions. 
 * **At Scale.** We want to create open-access editions that can be read and reused by anyone, anywhere. 
-* **Trusted content.** Every title in this collection has undergone a rigorous selection and quality certification process
+* **Trusted content.** Every title in this collection has undergone a rigorous selection and quality certification process.
 * **For the public good.** We have a commitment to contribute to building a just, trustworthy, scalable, and sustainable open knowledge ecosystem in order to advance open, more equitable scholarship.
 
 ### Open Content On Open Infrastructure Built By Libraries
