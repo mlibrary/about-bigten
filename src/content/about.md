@@ -14,8 +14,6 @@ The first Big Ten Open Books project was launched in 2023 as a collection of 100
 
 Participating presses include: I﻿ndiana University Press, Michigan State University Press, Northwestern University Press, Ohio State University Press, Penn State University Press, Purdue University Press, University of Illinois Press, University of Michigan Press, University of Minnesota Press, and University of Wisconsin Press.
 
-
-
 ### Collective action, at scale, to open trusted content for the public good.
 
 * **Collective Action.** We aspire to develop a programmatic, sustainable approach to our work that mirrors the size and impact of our member institutions. 
@@ -35,15 +33,32 @@ The foundation of this program is collective action - from the partnership betwe
 
 This 3 minute video gives an overview of the benefits of our collaboration:
 
-<div style="max-width:608px"><div style="position:relative;padding-bottom:66.118421052632%"><iframe id="kaltura_player" src="https://cdnapisec.kaltura.com/p/1038472/sp/103847200/embedIframeJs/uiconf_id/46145191/partner_id/1038472?iframeembed=true&playerId=kaltura_player&entry_id=1_jldc0a2r&flashvars\\\\\\\\\\\\\\\\\\\\\\\\\[streamerType]=auto&amp;flashvars\\\\\\\\\\\\\\\\\\\\\\\\\[localizationCode]=en_US&amp;flashvars\\\\\\\\\\\\\\\\\\\\\\\\\[sideBarContainer.plugin]=true&amp;flashvars\\\\\\\\\\\\\\\\\\\\\\\\\[sideBarContainer.position]=left&amp;flashvars\\\\\\\\\\\\\\\\\\\\\\\\\[sideBarContainer.clickToClose]=true&amp;flashvars\\\\\\\\\\\\\\\\\\\\\\\\\[chapters.plugin]=true&amp;flashvars\\\\\\\\\\\\\\\\\\\\\\\\\[chapters.layout]=vertical&amp;flashvars\\\\\\\\\\\\\\\\\\\\\\\\\[chapters.thumbnailRotator]=false&amp;flashvars\\\\\\\\\\\\\\\\\\\\\\\\\[streamSelector.plugin]=true&amp;flashvars\\\\\\\\\\\\\\\\\\\\\\\\\[EmbedPlayer.SpinnerTarget]=videoHolder&amp;flashvars\\\\\\\\\\\\\\\\\\\\\\\\\[dualScreen.plugin]=true&amp;flashvars\\\\\\\\\\\\\\\\\\\\\\\\\[hotspots.plugin]=1&amp;flashvars\\\\\\\\\\\\\\\\\\\\\\\\\[Kaltura.addCrossoriginToIframe]=true&amp;&wid=1_kjeke3t9" width="608" height="402" allowfullscreen webkitallowfullscreen mozAllowFullScreen allow="autoplay \\\\\\\\\\\\\\\\\\\\\\\\\*; fullscreen \\\\\\\\\\\\\\\\\\\\\\\\\*; encrypted-media *" sandbox="allow-downloads allow-forms allow-same-origin allow-scripts allow-top-navigation allow-pointer-lock allow-popups allow-modals allow-orientation-lock allow-popups-to-escape-sandbox allow-presentation allow-top-navigation-by-user-activation" frameborder="0" title="Introducing Big Ten Open Books" style="position:absolute;top:0;left:0;width:100%;height:100%"></iframe></div></div>
+<div style="max-width:608px"><div style="position:relative;padding-bottom:66.118421052632%"><iframe id="kaltura_player" src="https://cdnapisec.kaltura.com/p/1038472/sp/103847200/embedIframeJs/uiconf_id/46145191/partner_id/1038472?iframeembed=true&playerId=kaltura_player&entry_id=1_jldc0a2r&flashvars\\\\\\\\\\\\\\\\\\\\\\\\\\[streamerType]=auto&amp;flashvars\\\\\\\\\\\\\\\\\\\\\\\\\\[localizationCode]=en_US&amp;flashvars\\\\\\\\\\\\\\\\\\\\\\\\\\[sideBarContainer.plugin]=true&amp;flashvars\\\\\\\\\\\\\\\\\\\\\\\\\\[sideBarContainer.position]=left&amp;flashvars\\\\\\\\\\\\\\\\\\\\\\\\\\[sideBarContainer.clickToClose]=true&amp;flashvars\\\\\\\\\\\\\\\\\\\\\\\\\\[chapters.plugin]=true&amp;flashvars\\\\\\\\\\\\\\\\\\\\\\\\\\[chapters.layout]=vertical&amp;flashvars\\\\\\\\\\\\\\\\\\\\\\\\\\[chapters.thumbnailRotator]=false&amp;flashvars\\\\\\\\\\\\\\\\\\\\\\\\\\[streamSelector.plugin]=true&amp;flashvars\\\\\\\\\\\\\\\\\\\\\\\\\\[EmbedPlayer.SpinnerTarget]=videoHolder&amp;flashvars\\\\\\\\\\\\\\\\\\\\\\\\\\[dualScreen.plugin]=true&amp;flashvars\\\\\\\\\\\\\\\\\\\\\\\\\\[hotspots.plugin]=1&amp;flashvars\\\\\\\\\\\\\\\\\\\\\\\\\\[Kaltura.addCrossoriginToIframe]=true&amp;&wid=1_kjeke3t9" width="608" height="402" allowfullscreen webkitallowfullscreen mozAllowFullScreen allow="autoplay \\\\\\\\\\\\\\\\\\\\\\\\\\*; fullscreen \\\\\\\\\\\\\\\\\\\\\\\\\\*; encrypted-media *" sandbox="allow-downloads allow-forms allow-same-origin allow-scripts allow-top-navigation allow-pointer-lock allow-popups allow-modals allow-orientation-lock allow-popups-to-escape-sandbox allow-presentation allow-top-navigation-by-user-activation" frameborder="0" title="Introducing Big Ten Open Books" style="position:absolute;top:0;left:0;width:100%;height:100%"></iframe></div></div>
 
 <br>
 
-### **Ready to Sponsor?**
+Big Ten Open Books works to provide vital subject collections to everyone without paywalls for readers or charges to authors. This mission would not be possible without the collaboration between the University Presses of the Big Ten Academic Alliance and supporting academic libraries.
 
-<p><a class="btn btn-primary btn-lg mb-3" href="https://forms.gle/Syzt31PM3n3haf628">Fill in this simple form to Sponsor a Book</a></p>
+<br>
 
-### Questions?
+### Aligning investment with your library rubric
 
-* For technical questions or problems with this website or a title in the collection, please email [fulcrum-info@umich.edu](mailto:fulcrum-info@umich.edu)
-* For general inquiries please email [kate.mccready@btaa.org](mailto:kate.mccready@btaa.org) or, to sponsor a book right now, you can fill in [this short form](https://docs.google.com/forms/d/e/1FAIpQLSce3SqniMEqisdfv_JpSP3O9g96sAFifmJf2TQixKNgJwEYoQ/viewform) and our partners at Lyrasis will pick up your details and be in touch soon.
+We've created a set of short FAQs covering Subject Areas, Costs, Title Selection Process, Metrics & Usage Reporting, Copyright, Metadata, Accessibility Standards, and Preservation. You can [download those as a PDF](https://drive.google.com/file/d/1bxqAMiTyNq8lEQn05aOaLYNLDnDLQBqa/view?usp=sharing) or view them on the website on the [Investment Criteria](/investment) page.
+
+<br>
+
+### Discovery & metadata
+
+We have several agreements to make titles discoverable and to enable auto-loading of MARC records, including with EBSCO, ExLibris, OCLC, and Proquest. You can find more details on the [Implement the Collections](/implement) page, including a link to download MARC and KBART records.
+
+<br>
+
+### Our partners helping to make it happen
+
+Big Ten Open Books collections are marketed and distributed through the University of Michigan’s Publishing Services unit, with funds collected via the [trusted non-profit library organization, Lyrasis](https://my.lyrasis.org/s/product-details?id=a1BUh000001nx4nMAA). This ensures streamlined administration and communication with institutions.
+
+<br>
+
+### Ready to sign up?
+
+To sponsor a book right now, you can fill in [this short form](https://docs.google.com/forms/d/e/1FAIpQLSce3SqniMEqisdfv_JpSP3O9g96sAFifmJf2TQixKNgJwEYoQ/viewform) and our partners at Lyrasis will pick up your details and be in touch soon.
