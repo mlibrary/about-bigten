@@ -1,6 +1,6 @@
 ---
 templateKey: librarians-page
-title: Implement the Collections
+title: Implementation Guide
 ---
 We want to make it easy to integrate Big Ten Open Books into your library systems. As a unique collaboration between libraries and university presses, the program is naturally committed to creating digital collections that aspire to the highest standards of discoverability, accessibility, durability, and flexibility. Here is how the collection lives our shared values. 
 

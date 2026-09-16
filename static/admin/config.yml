@@ -97,10 +97,10 @@ collections:
           - { name: body, label: Body, widget: markdown }
       - file: "src/content/implement.md"
         name: implement
-        label: Implement the Collections
+        label: Implementation Guide
         fields:
           - { name: templateKey, label: "Template Key", widget: hidden, default: librarians-page }
-          - { name: title, label: Implement the Collections }
+          - { name: title, label: Implementation Guide }
           - { name: body, label: Body, widget: markdown }
       - file: "src/content/supporters.md"
         name: supporters
@@ -115,14 +115,7 @@ collections:
         fields:
           - { name: templateKey, label: "Template Key", widget: hidden, default: about-page }
           - { name: title, label: Sponsor a Book }
-          - { name: body, label: Body, widget: markdown }
-      - file: "src/content/librarians.md"
-        name: librarians
-        label: For Librarians
-        fields:
-          - { name: templateKey, label: "Template Key", widget: hidden, default: librarians-page }
-          - { name: title, label: For Librarians }
-          - { name: body, label: Body, widget: markdown }
+          - { name: body, label: Body, widget: markdown }      
       - file: "src/content/investment.md"
         name: investment
         label: Investment Criteria

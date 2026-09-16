@@ -85,7 +85,7 @@ const Navbar = () => {
                   Our Publishers
                 </button>
                 <div className={`dropdown-menu ${publishersOpen ? "show" : ""}`}>
-                  <a className="dropdown-item" href="/publishers">Publishers</a>
+                  <a className="dropdown-item" href="/publishers">Our Publishers</a>
                   <a className="dropdown-item" href="/collections">Our Collections</a>
                 </div>
               </li>
@@ -107,10 +107,9 @@ const Navbar = () => {
                   For Librarians
                 </button>
                 <div className={`dropdown-menu ${librariansOpen ? "show" : ""}`}>
-                  <a className="dropdown-item" href="/librarians">Our Mission</a>
                   <a className="dropdown-item" href="/investment">Investment Criteria</a>
                   <a className="dropdown-item" href="/funding">Funding &amp; Support</a>
-                  <a className="dropdown-item" href="/implement">Implement the Collections</a>
+                  <a className="dropdown-item" href="/implement">Implementation Guide</a>
                 </div>
               </li>
 
