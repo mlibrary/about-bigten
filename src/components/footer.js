@@ -50,7 +50,7 @@ const Footer = () => {
                 <li><Link className="text-light" to="/about">About</Link></li>
                 <li><span className="text-light bold">Our Publishers</span>
                   <ul className="list-unstyled pl-3">
-                    <li><Link className="text-light" to="/publishers">Publishers</Link></li>
+                    <li><Link className="text-light" to="/publishers">Our Publishers</Link></li>
                     <li><Link className="text-light" to="/collections">Our Collections</Link></li>
                   </ul>
                 </li>
@@ -61,11 +61,10 @@ const Footer = () => {
           <section className="col-md-3">
               <ul className="list-unstyled">
                 <li><span className="text-light bold">For Librarians</span>
-                  <ul className="list-unstyled pl-3">
-                    <li><Link className="text-light" to="/librarians">Our Mission</Link></li>
+                  <ul className="list-unstyled pl-3">                    
                     <li><Link className="text-light" to="/investment">Investment Criteria</Link></li>
                     <li><Link className="text-light" to="/funding">Funding & Support</Link></li>
-                    <li><Link className="text-light" to="/implement">Implement the Colletions</Link></li>
+                    <li><Link className="text-light" to="/implement">Implementation Guide</Link></li>
                   </ul>
                 </li>
                 <li><Link className="text-light" to="/impact">Impact and Usage</Link></li>
