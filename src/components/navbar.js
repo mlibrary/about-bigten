@@ -5,9 +5,11 @@ const Navbar = () => {
   const [isOpen, setNav] = useState(false)
   const [publishersOpen, setPublishersOpen] = useState(false)
   const [librariansOpen, setLibrariansOpen] = useState(false)
+  const [aboutOpen, setAboutOpen] = useState(false)
 
   const publishersRef = useRef(null)
   const librariansRef = useRef(null)
+  const aboutRef = useRef(null)
 
   // Close dropdowns when clicking outside
   useEffect(() => {
@@ -17,6 +19,9 @@ const Navbar = () => {
       }
       if (librariansRef.current && !librariansRef.current.contains(e.target)) {
         setLibrariansOpen(false)
+      }
+      if (aboutRef.current && !aboutRef.current.contains(e.target)) {
+        setAboutOpen(false)
       }
     }
     document.addEventListener("mousedown", handleClickOutside)
@@ -72,8 +77,18 @@ const Navbar = () => {
           <div id="navbar" className={`${isOpen ? "show" : ""} collapse navbar-collapse`}>
             <ul className="navbar-nav">
 
-              <li className="nav-item">
-                <Link to="/about" className="nav-link text-light">About</Link>
+              <li className={`nav-item dropdown ${aboutOpen ? "show" : ""}`} ref={aboutRef}>
+                <button
+                  className="nav-link text-light dropdown-toggle btn btn-link"
+                  onClick={() => setAboutOpen(!aboutOpen)}
+                  aria-expanded={aboutOpen}
+                >
+                  About
+                </button>
+                <div className={`dropdown-menu ${aboutOpen ? "show" : ""}`}>
+                  <a className="dropdown-item" href="/about">About Us</a>
+                  <a className="dropdown-item" href="/contact">Contact Us</a>
+                </div>
               </li>
 
               <li className={`nav-item dropdown ${publishersOpen ? "show" : ""}`} ref={publishersRef}>
