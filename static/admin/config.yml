@@ -50,6 +50,7 @@ collections:
             widget: object
             fields:
               - { name: text, label: Text, widget: markdown }
+              - { name: secondText, label: Secondary Text, widget: markdown }
               - { name: buttonLabel, label: "Button Label" }
               - { name: buttonUrl, label: "Button URL" }
           - name: firstCallToActionSection
@@ -79,21 +80,63 @@ collections:
         fields:
           - { name: templateKey, label: "Template Key", widget: hidden, default: about-page }
           - { name: title, label: About }
+          - { name: body, label: Body, widget: markdown }            
+      - file: "src/content/publishers.md"
+        name: publishers
+        label: Our Publishers
+        fields:
+          - { name: templateKey, label: "Template Key", widget: hidden, default: publishers-page }
+          - { name: title, label: Our Publishers }
           - { name: body, label: Body, widget: markdown }
       - file: "src/content/collections.md"
         name: collections
         label: Our Collections
         fields:
-          - { name: templateKey, label: "Template Key", widget: hidden, default: collections-page }
+          - { name: templateKey, label: "Template Key", widget: hidden, default: publishers-page }
           - { name: title, label: Our Collections }
           - { name: body, label: Body, widget: markdown }
-      - file: "src/content/contact.md"
-        name: contact
-        label: Contact
+      - file: "src/content/implement.md"
+        name: implement
+        label: Implementation Guide
         fields:
-          - { name: templateKey, label: "Template Key", widget: hidden, default: contact-page }
-          - { name: title, label: Contact }
+          - { name: templateKey, label: "Template Key", widget: hidden, default: librarians-page }
+          - { name: title, label: Implementation Guide }
           - { name: body, label: Body, widget: markdown }
+      - file: "src/content/supporters.md"
+        name: supporters
+        label: Our Supporters
+        fields:
+          - { name: templateKey, label: "Template Key", widget: hidden, default: about-page }
+          - { name: title, label: Our Supporters }
+          - { name: body, label: Body, widget: markdown }
+      - file: "src/content/sponsor.md"
+        name: sponsor
+        label: Sponsor a Book
+        fields:
+          - { name: templateKey, label: "Template Key", widget: hidden, default: about-page }
+          - { name: title, label: Sponsor a Book }
+          - { name: body, label: Body, widget: markdown }      
+      - file: "src/content/investment.md"
+        name: investment
+        label: Investment Criteria
+        fields:
+          - { name: templateKey, label: "Template Key", widget: hidden, default: librarians-page }
+          - { name: title, label: Investment Criteria }
+          - { name: body, label: Body, widget: markdown }
+      - file: "src/content/funding.md"
+        name: funding
+        label: Funding and Support
+        fields:
+          - { name: templateKey, label: "Template Key", widget: hidden, default: librarians-page }
+          - { name: title, label: Funding and Support }
+          - { name: body, label: Body, widget: markdown }
+      - file: "src/content/sponsor-titles.md"
+        name: sponsor-titles
+        label: Titles Available for Sponsorship
+        fields:
+          - { name: templateKey, label: "Template Key", widget: hidden, default: librarians-page }
+          - { name: title, label: Titles Available for Sponsorship }
+          - { name: body, label: Body, widget: markdown }            
       - file: "src/content/impact.md"
         name: impact
         label: Impact
@@ -102,25 +145,18 @@ collections:
           - { name: title, label: Impact }
           - { name: readershipMapDescription, label: "Readership Map Description", widget: markdown }
           - { name: googleDataStudioDescription, label: "Google Data Studio Description", widget: markdown }      
-      - file: "src/content/publishers.md"
-        name: publishers
-        label: Publishers
-        fields:
-          - { name: templateKey, label: "Template Key", widget: hidden, default: publishers-page }
-          - { name: title, label: Publishers }
-          - { name: body, label: Body, widget: markdown }
-      - file: "src/content/librarians.md"
-        name: librarians
-        label: Librarians
-        fields:
-          - { name: templateKey, label: "Template Key", widget: hidden, default: librarians-page }
-          - { name: title, label: Librarians }
-          - { name: body, label: Body, widget: markdown }
       - file: "src/content/stories.md"
         name: stories
         label: Stories
         fields:
           - { name: templateKey, label: "Template Key", widget: hidden, default: stories-page }
           - { name: title, label: Stories }
+          - { name: body, label: Body, widget: markdown }
+      - file: "src/content/contact.md"
+        name: contact
+        label: Contact
+        fields:
+          - { name: templateKey, label: "Template Key", widget: hidden, default: contact-page }
+          - { name: title, label: Contact }
           - { name: body, label: Body, widget: markdown }
       

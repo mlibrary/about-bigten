@@ -13,7 +13,7 @@ console.log(data.markdownRemark.fields.storyImage)
   return (
     <Layout>
       <SEO title={title} />
-      <div className="container page-container">
+      <div className="container page-container pt-5 pb-5">
         <div className="row justify-content-md-center">
           <div className="col-md-10">
             <img src={storyImage} alt={`${title}`} className="card-img-main" />

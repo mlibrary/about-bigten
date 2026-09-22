@@ -4,22 +4,67 @@ title: About
 ---
 Welcome to Big Ten Open Books, a collaboration between the university presses and libraries of the Big Ten Academic Alliance. We are dedicated to promoting open scholarship through the curation of open book collections from scholarly monographs published by our university presses.
 
-Driven by the core values of discoverability, accessibility, durability, and flexibility, the project aims to transform how academic resources are shared and used. By emphasizing discoverability, we make it easy for scholars and readers to find the information they need. Accessibility ensures that everyone, no matter their affiliation or location, can freely access these publications. Durability preserves this knowledge through technological and accessibility advancement. Flexibility allows the Big Ten Open books project to support diverse interests across an everchanging scholarly landscape. 
+The project is taking previously print-only or gated-access titles and flipping them to open access - meaning the books and authors are reaching new, global audiences.
 
-The first Big Ten Open Books project was launched in 2023 as a collection of 100 open access books on Gender and Sexuality Studies. [Start reading in the Gender and Sexuality Studies collection](https://www.fulcrum.org/bigten) while we work on our forthcoming 2025-2026 open book collections.
+Driven by the core values of **discoverability, accessibility, durability, and flexibility**, the project aims to transform how academic resources are shared and used. By emphasizing discoverability, we make it easy for scholars and readers to find the information they need. Accessibility ensures that everyone, no matter their affiliation or location, can freely access these publications. Durability preserves this knowledge through technological and accessibility advancement. Flexibility allows the Big Ten Open books project to support diverse interests across an everchanging scholarly landscape. 
 
-[Learn more about the 2025-2026 collections](https://bigtenopenbooks.org/collections/).
+The first Big Ten Open Books project was launched in 2023 as a collection of 100 open access books on Gender and Sexuality Studies, followed by the collection on Indigenous North Americans.
+
+<a class="btn btn-primary" href="/collections/">Learn more about the 2025-2026 collections</a>
 
 Participating presses include: I﻿ndiana University Press, Michigan State University Press, Northwestern University Press, Ohio State University Press, Penn State University Press, Purdue University Press, University of Illinois Press, University of Michigan Press, University of Minnesota Press, and University of Wisconsin Press.
 
-[Learn how to get involved](https://bigtenopenbooks.org/librarians).
+<br>
 
-<div style="max-width:608px"><div style="position:relative;padding-bottom:66.118421052632%"><iframe id="kaltura_player" src="https://cdnapisec.kaltura.com/p/1038472/sp/103847200/embedIframeJs/uiconf_id/46145191/partner_id/1038472?iframeembed=true&playerId=kaltura_player&entry_id=1_jldc0a2r&flashvars\\\\\\\\\\\\\\\[streamerType]=auto&amp;flashvars\\\\\\\\\\\\\\\[localizationCode]=en_US&amp;flashvars\\\\\\\\\\\\\\\[sideBarContainer.plugin]=true&amp;flashvars\\\\\\\\\\\\\\\[sideBarContainer.position]=left&amp;flashvars\\\\\\\\\\\\\\\[sideBarContainer.clickToClose]=true&amp;flashvars\\\\\\\\\\\\\\\[chapters.plugin]=true&amp;flashvars\\\\\\\\\\\\\\\[chapters.layout]=vertical&amp;flashvars\\\\\\\\\\\\\\\[chapters.thumbnailRotator]=false&amp;flashvars\\\\\\\\\\\\\\\[streamSelector.plugin]=true&amp;flashvars\\\\\\\\\\\\\\\[EmbedPlayer.SpinnerTarget]=videoHolder&amp;flashvars\\\\\\\\\\\\\\\[dualScreen.plugin]=true&amp;flashvars\\\\\\\\\\\\\\\[hotspots.plugin]=1&amp;flashvars\\\\\\\\\\\\\\\[Kaltura.addCrossoriginToIframe]=true&amp;&wid=1_kjeke3t9" width="608" height="402" allowfullscreen webkitallowfullscreen mozAllowFullScreen allow="autoplay \\\\\\\\\\\\\\\*; fullscreen \\\\\\\\\\\\\\\*; encrypted-media *" sandbox="allow-downloads allow-forms allow-same-origin allow-scripts allow-top-navigation allow-pointer-lock allow-popups allow-modals allow-orientation-lock allow-popups-to-escape-sandbox allow-presentation allow-top-navigation-by-user-activation" frameborder="0" title="Introducing Big Ten Open Books" style="position:absolute;top:0;left:0;width:100%;height:100%"></iframe></div></div>
+### Collective action, at scale, to open trusted content for the public good.
 
-## Collective action, at scale, to open trusted content for the public good.
+* **Collective Action.** We aspire to develop a programmatic, sustainable approach to our work that mirrors the size and impact of our member institutions. 
+* **At Scale.** We want to create open-access editions that can be read and reused by anyone, anywhere. 
+* **Trusted content.** Every title in this collection has undergone a rigorous selection and quality certification process.
+* **For the public good.** We have a commitment to contribute to building a just, trustworthy, scalable, and sustainable open knowledge ecosystem in order to advance open, more equitable scholarship.
 
-The Big Ten Open Books project has established a model for unified, open-access publishing of scholarly monographs. It creates open content, on open infrastructure, using open distribution models - to envision a robust programmatic future for open monograph publishing. This work is aligned with the Big Ten Academic Alliance’s development of the [BIG Collection's ambition of uniting the collections of the libraries](https://btaa.org/library/big-collection/the-big-collection-introduction) of the Big Ten Academic Alliance.
+<br>
+
+### Open Content On Open Infrastructure Built By Libraries
+
+The Big Ten Open Books project has established a model for unified, open-access publishing of scholarly monographs. It creates open content, on open infrastructure, using open distribution models - to envision a robust future for open monograph publishing. This work is aligned with the development of the [BIG Collection's ambition of uniting the collections of the libraries](https://btaa.org/library/big-collection/the-big-collection-introduction) of the Big Ten Academic Alliance.
 
 The [Big Ten Academic Alliance continues its advocacy for a sustainable and open ecosystem of publication.](https://btaa.org/about/news-and-publications/news/2019/06/10/sustaining-values-and-scholarship-a-statement-by-the-provosts-of-the-big-ten-academic-alliance) Collectively, our institutions’ more than 50,000 faculty are supported by over $11 billion in research funding, and our institutions have similarly invested significantly in our capacity to further our missions to advance knowledge. Together, we produce roughly 15% of the research publications in the United States.
 
-The foundation of [Big Ten Open Books](http://bigtenopenbooks.org) is collective action including the partnership between university presses and libraries to develop the program’s model, as well as the multi-press collaboration that populates the content. At scale is our aspiration to develop a programmatic, sustainable approach to our work that mirrors the size and impact of our member institutions. To open is the work to create open-access editions that can be read and reused by anyone, anywhere. Trusted content describes the rigorous selection and quality certification process that every title in this collection has undergone. For the public good is one of the north star ideals for the libraries of the Big Ten Academic Alliance. We have a commitment to contribute to building a just, trustworthy, scalable, and sustainable open knowledge ecosystem in order to advance open, more equitable scholarship.
+<br>
+
+### Partnership Between University Presses and Libraries
+
+The foundation of this program is collective action - from the partnership between University Presses and libraries to develop the program’s model, to the multi-press collaboration that populates the content.
+
+This 3 minute video gives an overview of the benefits of our collaboration:
+
+<div style="max-width:608px"><div style="position:relative;padding-bottom:66.118421052632%"><iframe id="kaltura_player" src="https://cdnapisec.kaltura.com/p/1038472/sp/103847200/embedIframeJs/uiconf_id/46145191/partner_id/1038472?iframeembed=true&playerId=kaltura_player&entry_id=1_jldc0a2r&flashvars\\\\\\\\\\\\\\\\\\\\\\\\\\\[streamerType]=auto&amp;flashvars\\\\\\\\\\\\\\\\\\\\\\\\\\\[localizationCode]=en_US&amp;flashvars\\\\\\\\\\\\\\\\\\\\\\\\\\\[sideBarContainer.plugin]=true&amp;flashvars\\\\\\\\\\\\\\\\\\\\\\\\\\\[sideBarContainer.position]=left&amp;flashvars\\\\\\\\\\\\\\\\\\\\\\\\\\\[sideBarContainer.clickToClose]=true&amp;flashvars\\\\\\\\\\\\\\\\\\\\\\\\\\\[chapters.plugin]=true&amp;flashvars\\\\\\\\\\\\\\\\\\\\\\\\\\\[chapters.layout]=vertical&amp;flashvars\\\\\\\\\\\\\\\\\\\\\\\\\\\[chapters.thumbnailRotator]=false&amp;flashvars\\\\\\\\\\\\\\\\\\\\\\\\\\\[streamSelector.plugin]=true&amp;flashvars\\\\\\\\\\\\\\\\\\\\\\\\\\\[EmbedPlayer.SpinnerTarget]=videoHolder&amp;flashvars\\\\\\\\\\\\\\\\\\\\\\\\\\\[dualScreen.plugin]=true&amp;flashvars\\\\\\\\\\\\\\\\\\\\\\\\\\\[hotspots.plugin]=1&amp;flashvars\\\\\\\\\\\\\\\\\\\\\\\\\\\[Kaltura.addCrossoriginToIframe]=true&amp;&wid=1_kjeke3t9" width="608" height="402" allowfullscreen webkitallowfullscreen mozAllowFullScreen allow="autoplay \\\\\\\\\\\\\\\\\\\\\\\\\\\*; fullscreen \\\\\\\\\\\\\\\\\\\\\\\\\\\*; encrypted-media *" sandbox="allow-downloads allow-forms allow-same-origin allow-scripts allow-top-navigation allow-pointer-lock allow-popups allow-modals allow-orientation-lock allow-popups-to-escape-sandbox allow-presentation allow-top-navigation-by-user-activation" frameborder="0" title="Introducing Big Ten Open Books" style="position:absolute;top:0;left:0;width:100%;height:100%"></iframe></div></div>
+
+<br>
+
+Big Ten Open Books works to provide vital subject collections to everyone without paywalls for readers or charges to authors. This mission would not be possible without the collaboration between the University Presses of the Big Ten Academic Alliance and supporting academic libraries.
+
+<br>
+
+### Aligning investment with your library rubric
+
+We've created a set of short FAQs covering Subject Areas, Costs, Title Selection Process, Metrics & Usage Reporting, Copyright, Metadata, Accessibility Standards, and Preservation. You can [download those as a PDF](https://drive.google.com/file/d/1bxqAMiTyNq8lEQn05aOaLYNLDnDLQBqa/view?usp=sharing) or view them on the website on the [Investment Criteria](/investment) page.
+
+<br>
+
+### Discovery & metadata
+
+We have several agreements to make titles discoverable and to enable auto-loading of MARC records, including with EBSCO, ExLibris, OCLC, and Proquest. You can find more details on the [Implement the Collections](/implement) page, including a link to download MARC and KBART records.
+
+<br>
+
+### Our partners helping to make it happen
+
+Big Ten Open Books collections are marketed and distributed through the University of Michigan’s Publishing Services unit, with funds collected via the [trusted non-profit library organization, Lyrasis](https://my.lyrasis.org/s/product-details?id=a1BUh000001nx4nMAA). This ensures streamlined administration and communication with institutions.
+
+<br>
+
+### Ready to sign up?
+
+To sponsor a book right now, you can fill in [this short form](https://docs.google.com/forms/d/e/1FAIpQLSce3SqniMEqisdfv_JpSP3O9g96sAFifmJf2TQixKNgJwEYoQ/viewform) and our partners at Lyrasis will pick up your details and be in touch soon.

@@ -1,0 +1,21 @@
+---
+templateKey: about-page
+title: Sponsor a Book
+---
+## Titles Available for Sponsorship
+
+Titles can be sponsored by individual title name or by general collection (i.e. Environment, Experiences, Health).
+
+The spreadsheet below displays all titles seeking funding: each of these books can be made open access through your investment of $3800.
+
+**Ready to Sponsor?** 
+
+<p><a class="btn btn-secondary btn-lg mb-3" href="https://forms.gle/Syzt31PM3n3haf628">Fill in this simple form to Sponsor a Book</a></p>
+
+<iframe title="List of Big Ten Open Books titles available for sponsorship" height="800px" width="100%" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQchFDdn0mb_vdiTSR3GwmZay17Rnt3Gw16KZYtpUWs2a-35xJjJhf4hDGcWKo4mJk_DC85tmcaXSGJ/pubhtml?gid=550005235&amp;single=true&amp;widget=false&amp;headers=false&amp;range=A1:K266&amp;chrome=false"></iframe>
+
+**Ready to Sponsor?** 
+
+To fund an OA book right now, click on the button below and fill in your details, and our partners at Lyrasis will pick up your details and be in touch soon.
+
+<p><a class="btn btn-secondary btn-lg mb-3" href="https://forms.gle/Syzt31PM3n3haf628">Fill in this simple form to Sponsor a Book</a></p>
