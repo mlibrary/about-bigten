@@ -20,5 +20,5 @@ secondCallToActionSection:
 thirdCallToActionSection:
   description: Add Big Ten books to your library?
   buttonLabel: Support OA
-  buttonUrl: /librarians
+  buttonUrl: /investment
 ---
