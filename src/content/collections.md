@@ -28,7 +28,7 @@ This collection explores Indigenous North American history, culture, and literat
 
 ## Collections under development and seeking sponsorship
 
-These three collections are being released on a rolling basis starting in 2026. You can see a list of all titles seeking funding, and more details about funding them on the **\[Sponsor a Book tab].**
+These three collections are being released on a rolling basis starting in 2026. You can see a list of all titles seeking funding, and more details about funding them on the **[Sponsor a Book page](/sponsor/).**
 
 ### 3. African-, Asian-, and Hispanic American Experiences (Experiences)
 
