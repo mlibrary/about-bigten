@@ -1,7 +1,7 @@
 ---
 templateKey: home-page
 taglineSection:
-  buttonLabel: Explore the Collection
+  buttonLabel: Explore the Collections
   buttonUrl: https://fulcrum.org/bigten
   text: Connecting readers everywhere to freely accessible, trusted books from
     university presses.
