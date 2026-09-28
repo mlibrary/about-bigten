@@ -1,14 +1,13 @@
-import CMS from 'decap-cms-app';
 import LinkFileComponent from "./components/linkFileComponent"
 import LinkFileButtonComponent from "./components/linkFileButtonComponent"
 
-CMS.registerEditorComponent(LinkFileComponent);
-CMS.registerEditorComponent(LinkFileButtonComponent);
-
-
-// https://github.com/netlify/netlify-cms/issues/1737 and HELIO-3241
 window.CMS_MANUAL_INIT = true;
-const branch = process.env.GATSBY_CMS_BRANCH || "main";
+
+import('decap-cms-app').then(({ default: CMS }) => {
+  CMS.registerEditorComponent(LinkFileComponent);
+  CMS.registerEditorComponent(LinkFileButtonComponent);
+
+  const branch = process.env.GATSBY_CMS_BRANCH || "main";
 
   CMS.init({
     config: {
@@ -16,6 +15,7 @@ const branch = process.env.GATSBY_CMS_BRANCH || "main";
         name: 'github',
         repo: 'mlibrary/about-bigten',
         branch,
-      },
+      }
     }
   });
+});
