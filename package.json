@@ -4,36 +4,37 @@
   "description": "A simple starter to get up and developing quickly with Gatsby",
   "version": "0.1.0",
   "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "engines": {
+    "node": "24.15.x",
+    "npm": "11.12.x"
+  },
+  "packageManager": "npm@11.12.1",
   "dependencies": {
-    "decap-cms-app": "3.3.3",
-    "gatsby": "^5.14.6",
-    "gatsby-cli": "^5.13.3",
+    "decap-cms-app": "3.16.3",
+    "gatsby": "5.16.0",
     "gatsby-plugin-decap-cms": "4.0.4",
-    "gatsby-plugin-env-variables": "^2.3.0",
-    "gatsby-plugin-gtag": "^1.0.13",
-    "gatsby-plugin-image": "^3.16.0",
-    "gatsby-plugin-manifest": "^5.16.0",
-    "gatsby-plugin-offline": "^6.13.3",
-    "gatsby-plugin-react-helmet": "^6.13.1",
-    "gatsby-plugin-sass": "^6.16.0",
-    "gatsby-plugin-sharp": "^5.16.0",
-    "gatsby-plugin-sitemap": "^6.16.0",
-    "gatsby-remark-copy-linked-files": "^6.13.2",
-    "gatsby-remark-images": "^7.13.2",
-    "gatsby-remark-relative-images": "^2.0.5",
-    "gatsby-source-filesystem": "^5.16.0",
-    "gatsby-transformer-remark": "^6.13.1",
-    "gatsby-transformer-sharp": "^5.16.0",
-    "node-sass": "^9.0.0",
-    "prop-types": "^15.8.1",
-    "react": "18.3.1",
-    "react-dom": "18.3.1",
-    "react-helmet": "^6.1.0",
-    "react-markdown": "^9.0.1",
-    "sass": "^1.97.3"
+    "gatsby-plugin-google-gtag": "5.16.0",
+    "gatsby-plugin-manifest": "5.16.0",
+    "gatsby-plugin-react-helmet": "6.16.0",
+    "gatsby-plugin-sass": "6.16.0",
+    "gatsby-plugin-sharp": "5.16.0",
+    "gatsby-remark-copy-linked-files": "6.16.0",
+    "gatsby-remark-images": "7.16.0",
+    "gatsby-remark-relative-images": "2.0.5",
+    "gatsby-source-filesystem": "5.16.0",
+    "gatsby-transformer-remark": "6.16.0",
+    "gatsby-transformer-sharp": "5.16.0",
+    "graphql": "16.14.2",
+    "prop-types": "15.8.1",
+    "react": "19.3.0",
+    "react-dom": "19.3.0",
+    "react-helmet": "6.1.0",
+    "react-markdown": "10.1.0",
+    "sass": "1.105.0"
   },
   "devDependencies": {
-    "prettier": "^2.8.8"
+    "gatsby-cli": "5.16.0",
+    "prettier": "3.9.9"
   },
   "keywords": [
     "gatsby"
@@ -42,10 +43,10 @@
   "scripts": {
     "build": "gatsby build",
     "develop": "gatsby develop",
-    "format": "prettier --write \"**/*.{js,jsx,ts,tsx,json,md,css}\"",
+    "clean": "gatsby clean",
+    "format": "prettier --write \"**/*.{js,jsx,json,md}\"",
     "start": "gatsby develop",
     "serve": "gatsby serve",
-    "clean": "gatsby clean",
     "test": "echo \"Write tests! -> https://gatsby.dev/unit-testing\" && exit 1"
   },
   "repository": {
@@ -54,8 +55,5 @@
   },
   "bugs": {
     "url": "https://github.com/gatsbyjs/gatsby/issues"
-  },
-  "resolutions": {
-    "cheerio": "1.0.0-rc.12"
   }
 }

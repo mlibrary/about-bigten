@@ -95,3 +95,18 @@ exports.onCreateNode = ({ node, actions, getNode }) => {
     });
   }
 }
+
+// Netlify's Gatsby adapter copies the whole `.cache` directory into the Netlify
+// build cache with `cpy`. Webpack's persistent filesystem cache writes transient
+// `index.pack_` files that it renames while that copy is in flight, which makes
+// the copy fail with `CpyError: ... ENOENT` and aborts an otherwise successful
+// build. Disabling the persistent webpack cache in CI removes those temp files.
+exports.onCreateWebpackConfig = ({ actions, getConfig }) => {
+  if (!process.env.NETLIFY) return
+
+  const config = getConfig()
+  if (config.cache && config.cache.type === `filesystem`) {
+    config.cache = false
+    actions.replaceWebpackConfig(config)
+  }
+}

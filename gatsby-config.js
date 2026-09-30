@@ -1,3 +1,11 @@
+// React 19 no longer ships the UMD files that gatsby-plugin-decap-cms copies.
+const bundleCmsDependencies = config => {
+  config.externals = []
+  config.plugins = config.plugins.filter(plugin =>
+    ![`CopyPlugin`, `HtmlWebpackTagsPlugin`].includes(plugin.constructor.name)
+  )
+}
+
 module.exports = {
   siteMetadata: {
     title: `Big Ten Open Books`,
@@ -5,7 +13,6 @@ module.exports = {
     author: `Big Ten Academic Alliance`,
   },
   plugins: [
-    `gatsby-plugin-image`,
     {
       // keep as first gatsby-source-filesystem plugin for gatsby image support
       // for netlify
@@ -16,37 +23,32 @@ module.exports = {
       },
     },
     {
-      resolve: `gatsby-plugin-gtag`,
+      resolve: `gatsby-plugin-google-gtag`,
       options: {
-        // your google analytics tracking id
-        trackingId: `G-21GRSDGGG9`,
-        // Puts tracking script in the head instead of the body
-        head: true,
-        // enable ip anonymization
-        anonymize: false,
+        trackingIds: [`G-21GRSDGGG9`],
+        gtagConfig: {
+          anonymize_ip: false,
+        },
+        pluginConfig: {
+          head: true,
+        },
       },
     },
     {
       resolve: `gatsby-plugin-sass`,
       options: {
-        implementation: require("node-sass"),        
         sassOptions: {
-          precision: 6,
+          charset: false,
         },
       }
     },
     {
-      resolve: `gatsby-plugin-env-variables`,
-      options: {
-        allowlist: ["BRANCH"]
-      },
-    },
-    {
       resolve: `gatsby-plugin-decap-cms`,
       options: {
-        manualInit: true, // https://github.com/netlify/netlify-cms/issues/1737#issuecomment-530992998 HELIO-3241
+        manualInit: true,
         enableIdentityWidget: false,
         modulePath: `${__dirname}/src/cms/cms.js`,
+        customizeWebpackConfig: bundleCmsDependencies,
       }
     },
     {
@@ -78,9 +80,6 @@ module.exports = {
         icon: `src/images/btaa-blue.svg`, // This path is relative to the root of the site.
       },
     },
-    // this (optional) plugin enables Progressive Web App + Offline functionality
-    // To learn more, visit: https://gatsby.dev/offline
-    // `gatsby-plugin-offline`,
     {
       resolve: 'gatsby-transformer-remark',
       options: {
