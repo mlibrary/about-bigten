@@ -3,20 +3,15 @@ import { Link } from "gatsby"
 
 const Navbar = () => {
   const [isOpen, setNav] = useState(false)
-  const [publishersOpen, setPublishersOpen] = useState(false)
   const [librariansOpen, setLibrariansOpen] = useState(false)
   const [aboutOpen, setAboutOpen] = useState(false)
 
-  const publishersRef = useRef(null)
   const librariansRef = useRef(null)
   const aboutRef = useRef(null)
 
   // Close dropdowns when clicking outside
   useEffect(() => {
     const handleClickOutside = (e) => {
-      if (publishersRef.current && !publishersRef.current.contains(e.target)) {
-        setPublishersOpen(false)
-      }
       if (librariansRef.current && !librariansRef.current.contains(e.target)) {
         setLibrariansOpen(false)
       }
@@ -91,22 +86,12 @@ const Navbar = () => {
                 </div>
               </li>
 
-              <li className={`nav-item dropdown ${publishersOpen ? "show" : ""}`} ref={publishersRef}>
-                <button
-                  className="nav-link text-light dropdown-toggle btn btn-link"
-                  onClick={() => setPublishersOpen(!publishersOpen)}
-                  aria-expanded={publishersOpen}
-                >
-                  Our Publishers
-                </button>
-                <div className={`dropdown-menu ${publishersOpen ? "show" : ""}`}>
-                  <a className="dropdown-item" href="/publishers">Our Publishers</a>
-                  <a className="dropdown-item" href="/collections">Our Collections</a>
-                </div>
+              <li className="nav-item">
+                <Link to="/publishers" className="nav-link text-light">Our Publishers</Link>
               </li>
 
               <li className="nav-item">
-                <Link to="/supporters" className="nav-link text-light">Our Supporters</Link>
+                <Link to="/collections" className="nav-link text-light">Our Collections</Link>
               </li>
 
               <li className="nav-item">

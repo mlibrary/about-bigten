@@ -48,13 +48,8 @@ const Footer = () => {
           <section className="col-md-3">
               <ul className="list-unstyled">                
                 <li><Link className="text-light" to="/about">About</Link></li>
-                <li><span className="text-light bold">Our Publishers</span>
-                  <ul className="list-unstyled pl-3">
-                    <li><Link className="text-light" to="/publishers">Our Publishers</Link></li>
-                    <li><Link className="text-light" to="/collections">Our Collections</Link></li>
-                  </ul>
-                </li>
-                <li><Link className="text-light" to="/supporters">Our Supporters</Link></li>
+                <li><Link className="text-light" to="/publishers">Our Publishers</Link></li>
+                <li><Link className="text-light" to="/collections">Our Collections</Link></li>
                 <li><Link className="text-light" to="/sponsor">Sponsor a Book</Link></li>                
               </ul>
           </section>
