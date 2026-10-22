@@ -6,6 +6,8 @@ The Big Ten Open Books collections offer an insightful journey into crucial them
 
 Together, these five collections of 100 books each, foster thoughtful scholarship and knowledge sharing from the collaboration of the Big Ten Academic Alliance university presses and affiliated libraries.
 
+<a class="btn btn-secondary btn-lg" href="https://www.fulcrum.org/bigten/">Access the Collections Now</a>
+
 <a class="btn btn-secondary btn-lg" href="https://www.dropbox.com/sh/fnrz7sqqmrv7v6u/AABLW-XkcGWBvLW4E9YkeQFla?dl=0">Download Collection Title Lists</a>
 
 We have two collections already funded and freely available to read, and we're seeking sponsorship for another three. Details on all five are below.
