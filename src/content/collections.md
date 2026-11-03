@@ -28,21 +28,27 @@ This collection explores Indigenous North American history, culture, and literat
 
 [Explore 'Indigenous North Americans' on the Fulcrum platform](https://www.fulcrum.org/bigten?f%5Bcollection_sim%5D%5B%5D=Indigenous+North+Americans&locale=en)
 
-## Collections under development and seeking sponsorship
+## Collections in process and seeking sponsorship
 
 These three collections are being released on a rolling basis starting in 2026. You can see a list of all titles seeking funding, and more details about funding them on the **[Sponsor a Book page](/sponsor/).**
 
 ### 3. African-, Asian-, and Hispanic American Experiences (Experiences)
 
-This collection explores the experiences of African, Asian, and Hispanic American identities through personal journeys and the intricate dynamics of race, politics, and culture. Highlighting narratives of migration and aspiration, these books offer insightful perspectives on identity negotiations and their literary and historical contexts. Engaging with themes of resilience, transformation, and cultural expression, this collection underscores the enduring impact of identity on American society, revealing its influence on artistic, political, and social landscapes across generations. 
+This collection explores the experiences of African, Asian, and Hispanic American identities through personal journeys and the intricate dynamics of race, politics, and culture. Highlighting narratives of migration and aspiration, these books offer insightful perspectives on identity negotiations and their literary and historical contexts. Engaging with themes of resilience, transformation, and cultural expression, this collection underscores the enduring impact of identity on American society, revealing its influence on artistic, political, and social landscapes across generations.
+
+[Explore 'Experiences' on the Fulcrum platform](https://www.fulcrum.org/bigten?f%5Bcollection_sim%5D%5B%5D=African-%2C+Asian-%2C+and+Hispanic+American+Experiences&locale=en) 
 
 ### 4. Health Disparities and Disability Culture (Health)
 
 This collection explores health disparities and intersectional experiences, highlighting different abilities and cultural narratives. Dive into the complexities of chronic illness, global mental health practices, and personal stories for thought-provoking insights. Topics cover reproductive rights, medical advancements, and socio-political aspects of well-being. These works offer a deeper understanding of health challenges and triumphs, showing their intersection with societal perceptions and policies. Engage with this collection to enhance your perspective on human health's intricate cultural and political dimensions.
 
+[Explore 'Health' on the Fulcrum platform](https://www.fulcrum.org/bigten?f%5Bcollection_sim%5D%5B%5D=Health+Disparities+and+Disability+Culture&locale=en)
+
 ### 5. Human Environmental Impact (Environment)
 
 This collection explores humanity's environmental impact through conservation, sustainability, and ecological ethics. It delves into policy and activism, highlighting key legislation and movements worldwide. Analyzing urban sustainability, sustainable agriculture, and genetically engineered crops, these books offer dynamic solutions to environmental challenges. The collection reveals how art, cinema, and literature influence environmental consciousness and advocacy. By integrating traditional knowledge with modern strategies, it inspires renewed engagement with pressing environmental issues and pathways to a sustainable future.
+
+[Explore 'Environment' on the Fulcrum platform](https://www.fulcrum.org/bigten?f%5Bcollection_sim%5D%5B%5D=Human+Environmental+Impact&locale=en)
 
 **Interested in sponsoring a book from one of these collections?** 
 
